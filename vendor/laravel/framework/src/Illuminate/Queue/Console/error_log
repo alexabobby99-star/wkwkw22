@@ -1,0 +1,304 @@
+[22-Nov-2025 23:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php on line 15
+[22-Nov-2025 23:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php on line 13
+[22-Nov-2025 23:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php on line 9
+[22-Nov-2025 23:20:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php on line 9
+[22-Nov-2025 23:23:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php on line 11
+[22-Nov-2025 23:28:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php on line 11
+[22-Nov-2025 23:30:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php on line 11
+[22-Nov-2025 23:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php on line 11
+[22-Nov-2025 23:32:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php on line 15
+[22-Nov-2025 23:34:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php on line 24
+[22-Nov-2025 23:35:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php on line 13
+[22-Nov-2025 23:37:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php on line 11
+[22-Nov-2025 23:39:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php on line 11
+[22-Nov-2025 23:41:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php on line 12
+[22-Nov-2025 23:49:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php on line 11
+[27-Nov-2025 09:23:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php on line 15
+[27-Nov-2025 09:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php on line 9
+[27-Nov-2025 09:25:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php on line 11
+[27-Nov-2025 09:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php on line 13
+[27-Nov-2025 09:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php on line 9
+[27-Nov-2025 09:33:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php on line 11
+[27-Nov-2025 09:34:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php on line 11
+[27-Nov-2025 09:35:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php on line 15
+[27-Nov-2025 09:36:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php on line 11
+[27-Nov-2025 09:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php on line 11
+[27-Nov-2025 09:39:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php on line 11
+[27-Nov-2025 09:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php on line 13
+[27-Nov-2025 09:42:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php on line 24
+[27-Nov-2025 09:43:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php on line 11
+[27-Nov-2025 09:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php on line 12
+[27-Nov-2025 09:55:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php on line 13
+[27-Nov-2025 09:56:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php on line 15
+[27-Nov-2025 10:03:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php on line 9
+[27-Nov-2025 10:04:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php on line 11
+[27-Nov-2025 10:05:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php on line 9
+[27-Nov-2025 10:06:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php on line 11
+[27-Nov-2025 10:07:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php on line 11
+[27-Nov-2025 10:08:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php on line 11
+[27-Nov-2025 10:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php on line 13
+[27-Nov-2025 10:10:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php on line 11
+[27-Nov-2025 10:11:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php on line 24
+[27-Nov-2025 10:12:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php on line 15
+[27-Nov-2025 10:14:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php on line 11
+[27-Nov-2025 10:15:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php on line 12
+[27-Nov-2025 10:16:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php on line 11
+[27-Nov-2025 10:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php on line 9
+[27-Nov-2025 10:31:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php on line 15
+[27-Nov-2025 10:32:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php on line 9
+[27-Nov-2025 10:35:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php on line 13
+[27-Nov-2025 10:36:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php on line 24
+[27-Nov-2025 10:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php on line 11
+[27-Nov-2025 10:38:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php on line 11
+[27-Nov-2025 10:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php on line 11
+[27-Nov-2025 10:40:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php on line 15
+[27-Nov-2025 10:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php on line 9
+[27-Nov-2025 10:42:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php on line 11
+[27-Nov-2025 10:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php on line 13
+[27-Nov-2025 10:45:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php on line 11
+[27-Nov-2025 10:46:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php on line 12
+[27-Nov-2025 10:47:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php on line 11
+[27-Nov-2025 10:51:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php on line 11
+[27-Nov-2025 11:06:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ClearCommand.php on line 15
+[27-Nov-2025 11:09:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneBatchesCommand.php on line 13
+[27-Nov-2025 11:10:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/PruneFailedJobsCommand.php on line 11
+[27-Nov-2025 11:12:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FlushFailedCommand.php on line 9
+[27-Nov-2025 11:15:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ForgetFailedCommand.php on line 9
+[27-Nov-2025 11:17:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/FailedTableCommand.php on line 11
+[27-Nov-2025 11:21:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/BatchesTableCommand.php on line 11
+[27-Nov-2025 11:22:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/TableCommand.php on line 11
+[27-Nov-2025 11:24:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryBatchCommand.php on line 11
+[27-Nov-2025 11:25:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/WorkCommand.php on line 24
+[27-Nov-2025 11:26:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListFailedCommand.php on line 11
+[27-Nov-2025 11:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RetryCommand.php on line 15
+[27-Nov-2025 11:29:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/MonitorCommand.php on line 13
+[27-Nov-2025 11:30:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/ListenCommand.php on line 12
+[27-Nov-2025 11:31:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Console/RestartCommand.php on line 11

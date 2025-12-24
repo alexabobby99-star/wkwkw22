@@ -1,0 +1,20 @@
+[15-Nov-2025 02:11:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\NumberInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/Integer.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/Integer.php on line 37
+[15-Nov-2025 02:14:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\NumberInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/Decimal.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/Decimal.php on line 34
+[15-Nov-2025 03:02:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\TypeInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/NumberInterface.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/NumberInterface.php on line 22
+[15-Nov-2025 03:42:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\TypeInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/Hexadecimal.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/Hexadecimal.php on line 32
+[15-Nov-2025 18:08:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Type\TypeInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/Time.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Type/Time.php on line 33

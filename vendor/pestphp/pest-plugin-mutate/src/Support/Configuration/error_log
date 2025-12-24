@@ -1,0 +1,76 @@
+[15-Nov-2025 19:20:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Configuration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php on line 12
+[15-Nov-2025 20:15:03 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/TestConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/TestConfiguration.php on line 7
+[15-Nov-2025 20:18:41 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php on line 33
+[16-Nov-2025 11:20:32 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php on line 7
+[24-Nov-2025 11:49:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Configuration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php on line 12
+[24-Nov-2025 11:50:41 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php on line 7
+[24-Nov-2025 11:52:44 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php on line 33
+[24-Nov-2025 11:57:18 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/TestConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/TestConfiguration.php on line 7
+[24-Nov-2025 12:01:13 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php on line 33
+[24-Nov-2025 12:03:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Configuration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php on line 12
+[24-Nov-2025 12:07:14 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php on line 7
+[24-Nov-2025 12:11:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Configuration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php on line 12
+[24-Nov-2025 12:12:09 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php on line 33
+[24-Nov-2025 12:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php on line 7
+[24-Nov-2025 12:15:13 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/TestConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/TestConfiguration.php on line 7
+[24-Nov-2025 12:23:01 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/CliConfiguration.php on line 33
+[24-Nov-2025 12:24:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Configuration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/AbstractConfiguration.php on line 12
+[24-Nov-2025 12:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/TestConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/TestConfiguration.php on line 7
+[24-Nov-2025 12:31:08 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Support\Configuration\AbstractConfiguration" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Configuration/GlobalConfiguration.php on line 7

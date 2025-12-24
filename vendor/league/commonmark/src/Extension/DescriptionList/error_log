@@ -1,0 +1,4 @@
+[23-Nov-2025 19:30:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/DescriptionListExtension.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/DescriptionListExtension.php on line 29

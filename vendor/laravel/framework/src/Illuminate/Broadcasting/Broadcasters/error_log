@@ -1,0 +1,56 @@
+[16-Nov-2025 09:17:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Broadcasting\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php on line 19
+[16-Nov-2025 18:06:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php on line 7
+[17-Nov-2025 00:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php on line 12
+[17-Nov-2025 10:08:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php on line 16
+[17-Nov-2025 20:45:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/RedisBroadcaster.php on line 16
+[17-Nov-2025 20:46:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/NullBroadcaster.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/NullBroadcaster.php on line 5
+[20-Nov-2025 19:20:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php on line 12
+[20-Nov-2025 19:21:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php on line 7
+[20-Nov-2025 19:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php on line 16
+[20-Nov-2025 19:23:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Broadcasting\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php on line 19
+[20-Nov-2025 19:43:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/PusherBroadcaster.php on line 12
+[20-Nov-2025 19:44:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Broadcasting\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/Broadcaster.php on line 19
+[20-Nov-2025 19:45:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/LogBroadcaster.php on line 7
+[20-Nov-2025 19:46:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Broadcasting\Broadcasters\Broadcaster" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Broadcasting/Broadcasters/AblyBroadcaster.php on line 16

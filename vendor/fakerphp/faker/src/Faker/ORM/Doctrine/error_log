@@ -1,0 +1,8 @@
+[25-Nov-2025 01:00:29 UTC] PHP Warning:  Class "Doctrine\Persistence\Mapping\ClassMetadata" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/ORM/Doctrine/backward-compatibility.php on line 6
+[25-Nov-2025 01:00:29 UTC] PHP Warning:  Class "Doctrine\Persistence\ObjectManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/ORM/Doctrine/backward-compatibility.php on line 10
+[25-Nov-2025 01:05:16 UTC] PHP Warning:  Class "Doctrine\Persistence\Mapping\ClassMetadata" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/ORM/Doctrine/backward-compatibility.php on line 6
+[25-Nov-2025 01:05:16 UTC] PHP Warning:  Class "Doctrine\Persistence\ObjectManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/ORM/Doctrine/backward-compatibility.php on line 10
+[25-Nov-2025 01:11:32 UTC] PHP Warning:  Class "Doctrine\Persistence\Mapping\ClassMetadata" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/ORM/Doctrine/backward-compatibility.php on line 6
+[25-Nov-2025 01:11:32 UTC] PHP Warning:  Class "Doctrine\Persistence\ObjectManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/ORM/Doctrine/backward-compatibility.php on line 10
+[25-Nov-2025 01:13:30 UTC] PHP Warning:  Class "Doctrine\Persistence\Mapping\ClassMetadata" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/ORM/Doctrine/backward-compatibility.php on line 6
+[25-Nov-2025 01:13:30 UTC] PHP Warning:  Class "Doctrine\Persistence\ObjectManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/ORM/Doctrine/backward-compatibility.php on line 10

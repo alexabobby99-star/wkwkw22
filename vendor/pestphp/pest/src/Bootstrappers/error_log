@@ -1,0 +1,88 @@
+[14-Nov-2025 13:36:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootFiles.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootFiles.php on line 21
+[14-Nov-2025 13:44:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootSubscribers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootSubscribers.php on line 16
+[14-Nov-2025 14:20:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootExcludeList.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootExcludeList.php on line 13
+[14-Nov-2025 14:23:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootKernelDump.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootKernelDump.php on line 15
+[14-Nov-2025 15:56:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootView.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootView.php on line 14
+[14-Nov-2025 22:53:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootOverrides.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootOverrides.php on line 13
+[15-Nov-2025 14:07:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootSubscribers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootSubscribers.php on line 16
+[15-Nov-2025 14:07:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootFiles.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootFiles.php on line 21
+[15-Nov-2025 14:07:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootKernelDump.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootKernelDump.php on line 15
+[15-Nov-2025 14:07:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootExcludeList.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootExcludeList.php on line 13
+[15-Nov-2025 14:09:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootView.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootView.php on line 14
+[15-Nov-2025 14:10:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootOverrides.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootOverrides.php on line 13
+[15-Nov-2025 14:14:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootFiles.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootFiles.php on line 21
+[15-Nov-2025 14:15:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootKernelDump.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootKernelDump.php on line 15
+[15-Nov-2025 14:17:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootSubscribers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootSubscribers.php on line 16
+[15-Nov-2025 14:21:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootExcludeList.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootExcludeList.php on line 13
+[15-Nov-2025 14:29:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootFiles.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootFiles.php on line 21
+[15-Nov-2025 14:31:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootKernelDump.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootKernelDump.php on line 15
+[15-Nov-2025 14:34:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootOverrides.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootOverrides.php on line 13
+[15-Nov-2025 14:35:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootSubscribers.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootSubscribers.php on line 16
+[15-Nov-2025 14:36:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootView.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootView.php on line 14
+[15-Nov-2025 14:37:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootExcludeList.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Bootstrappers/BootExcludeList.php on line 13

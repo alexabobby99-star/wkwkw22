@@ -1,0 +1,24 @@
+[22-Nov-2025 23:14:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[22-Nov-2025 23:14:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[26-Nov-2025 21:11:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[26-Nov-2025 21:19:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27
+[26-Nov-2025 22:11:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/AnonymousFootnotesListener.php on line 27
+[26-Nov-2025 22:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Event/GatherFootnotesListener.php on line 27

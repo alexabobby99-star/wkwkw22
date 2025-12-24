@@ -1,0 +1,20 @@
+[16-Nov-2025 19:46:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php on line 7
+[27-Nov-2025 09:00:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php on line 7
+[27-Nov-2025 09:09:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php on line 7
+[27-Nov-2025 12:44:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php on line 7
+[27-Nov-2025 12:55:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Monolog\Processor\ProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Log/ContextLogProcessor.php on line 7

@@ -1,0 +1,32 @@
+[23-Nov-2025 10:04:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
+[23-Nov-2025 10:11:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/CircularDependencyException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/CircularDependencyException.php on line 8
+[23-Nov-2025 10:17:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/BindingResolutionException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/BindingResolutionException.php on line 8
+[23-Nov-2025 10:20:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/CircularDependencyException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/CircularDependencyException.php on line 8
+[23-Nov-2025 10:26:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
+[23-Nov-2025 10:31:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/Container.php on line 8
+[23-Nov-2025 10:35:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/CircularDependencyException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/CircularDependencyException.php on line 8
+[23-Nov-2025 10:35:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/BindingResolutionException.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Container/BindingResolutionException.php on line 8

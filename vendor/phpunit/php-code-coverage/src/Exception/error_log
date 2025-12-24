@@ -1,0 +1,356 @@
+[13-Nov-2025 00:22:50 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[14-Nov-2025 11:26:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[14-Nov-2025 11:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[14-Nov-2025 11:28:16 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[14-Nov-2025 12:00:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[14-Nov-2025 15:09:21 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 15
+[14-Nov-2025 22:58:33 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[14-Nov-2025 22:59:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[15-Nov-2025 01:13:38 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[15-Nov-2025 02:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[15-Nov-2025 03:31:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[15-Nov-2025 05:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php on line 16
+[15-Nov-2025 05:52:01 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[15-Nov-2025 05:56:49 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[15-Nov-2025 06:20:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[15-Nov-2025 06:21:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 15
+[15-Nov-2025 06:22:57 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[15-Nov-2025 06:25:03 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[15-Nov-2025 06:26:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[15-Nov-2025 06:29:16 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[15-Nov-2025 06:31:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[15-Nov-2025 06:37:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[15-Nov-2025 06:40:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[15-Nov-2025 06:41:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php on line 16
+[15-Nov-2025 06:44:00 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[15-Nov-2025 06:46:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[15-Nov-2025 06:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[15-Nov-2025 06:51:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[15-Nov-2025 06:54:52 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[15-Nov-2025 07:03:22 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 15
+[15-Nov-2025 07:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[15-Nov-2025 07:07:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[15-Nov-2025 07:08:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[15-Nov-2025 07:11:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[15-Nov-2025 07:14:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[15-Nov-2025 07:17:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[15-Nov-2025 07:19:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[15-Nov-2025 07:21:12 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[15-Nov-2025 07:22:16 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php on line 16
+[15-Nov-2025 07:35:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[15-Nov-2025 07:37:04 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[15-Nov-2025 07:39:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[15-Nov-2025 07:42:17 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 15
+[15-Nov-2025 07:43:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[15-Nov-2025 07:44:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[15-Nov-2025 07:47:32 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[15-Nov-2025 07:48:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[15-Nov-2025 07:49:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[15-Nov-2025 07:50:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[15-Nov-2025 07:51:44 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[15-Nov-2025 07:53:53 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php on line 16
+[15-Nov-2025 08:01:58 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 15
+[15-Nov-2025 08:02:17 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[15-Nov-2025 08:06:17 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[15-Nov-2025 08:07:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[15-Nov-2025 08:08:23 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[15-Nov-2025 08:10:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[15-Nov-2025 08:13:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[15-Nov-2025 08:14:21 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[15-Nov-2025 08:17:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php on line 16
+[15-Nov-2025 08:18:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[15-Nov-2025 08:19:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[15-Nov-2025 08:20:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[15-Nov-2025 09:36:44 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[15-Nov-2025 11:23:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugVersionNotSupportedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugVersionNotSupportedException.php on line 16
+[15-Nov-2025 11:36:01 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 15
+[15-Nov-2025 14:06:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[16-Nov-2025 08:20:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[16-Nov-2025 13:09:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14
+[17-Dec-2025 11:43:20 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverWithPathCoverageSupportAvailableException.php on line 14
+[18-Dec-2025 05:48:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/FileCouldNotBeWrittenException.php on line 14
+[18-Dec-2025 05:49:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotEnabledException.php on line 15
+[18-Dec-2025 05:50:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PcovNotAvailableException.php on line 15
+[18-Dec-2025 05:58:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugNotAvailableException.php on line 15
+[18-Dec-2025 06:30:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/WriteOperationFailedException.php on line 15
+[18-Dec-2025 07:01:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/StaticAnalysisCacheNotConfiguredException.php on line 14
+[18-Dec-2025 07:02:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidArgumentException.php on line 12
+[18-Dec-2025 07:26:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/TestIdMissingException.php on line 14
+[18-Dec-2025 07:33:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/BranchAndPathCoverageNotSupportedException.php on line 14
+[18-Dec-2025 07:42:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReportAlreadyFinalizedException.php on line 14
+[18-Dec-2025 08:09:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/InvalidCodeCoverageTargetException.php on line 16
+[18-Dec-2025 08:10:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/NoCodeCoverageDriverAvailableException.php on line 14
+[18-Dec-2025 08:11:54 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/DirectoryCouldNotBeCreatedException.php on line 15
+[18-Dec-2025 08:19:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/UnintentionallyCoveredCodeException.php on line 14
+[18-Dec-2025 08:25:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugVersionNotSupportedException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XdebugVersionNotSupportedException.php on line 16
+[18-Dec-2025 08:26:22 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/PathExistsButIsNotDirectoryException.php on line 15
+[18-Dec-2025 08:42:51 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ReflectionException.php on line 14
+[18-Dec-2025 09:02:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/ParserException.php on line 14
+[18-Dec-2025 09:06:37 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Exception/XmlException.php on line 14

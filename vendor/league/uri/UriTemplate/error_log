@@ -1,0 +1,28 @@
+[12-Nov-2025 23:57:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Uri\Contracts\UriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php on line 19
+[21-Nov-2025 00:43:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Uri\Contracts\UriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php on line 19
+[21-Nov-2025 01:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Uri\Contracts\UriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php on line 19
+[21-Nov-2025 03:02:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Uri\Contracts\UriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php on line 19
+[21-Nov-2025 13:33:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Uri\Contracts\UriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php on line 19
+[21-Nov-2025 13:48:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Uri\Contracts\UriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php on line 19
+[17-Dec-2025 11:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Uri\Contracts\UriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/uri/UriTemplate/TemplateCanNotBeExpanded.php on line 19

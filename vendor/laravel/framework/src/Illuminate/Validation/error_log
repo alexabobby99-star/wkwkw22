@@ -1,0 +1,147 @@
+[14-Nov-2025 16:28:07 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\FormatsMessages" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Validator.php on line 24
+[15-Nov-2025 13:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php on line 10
+[15-Nov-2025 21:04:34 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ClosureValidationRule.php on line 9
+[15-Nov-2025 21:09:36 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/InvokableValidationRule.php on line 13
+[15-Nov-2025 22:40:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\UncompromisedVerifier" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php on line 9
+[15-Nov-2025 23:29:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\PresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php on line 5
+[16-Nov-2025 15:10:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\DatabasePresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php on line 8
+[16-Nov-2025 16:18:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php on line 11
+[16-Nov-2025 16:35:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\CompilableRules" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NestedRules.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NestedRules.php on line 7
+[18-Nov-2025 00:14:56 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Rule.php on line 26
+[23-Nov-2025 23:29:59 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/InvokableValidationRule.php on line 13
+[23-Nov-2025 23:30:52 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ClosureValidationRule.php on line 9
+[23-Nov-2025 23:31:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php on line 10
+[23-Nov-2025 23:34:05 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\FormatsMessages" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Validator.php on line 24
+[23-Nov-2025 23:39:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\PresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php on line 5
+[23-Nov-2025 23:41:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\UncompromisedVerifier" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php on line 9
+[23-Nov-2025 23:42:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\DatabasePresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php on line 8
+[23-Nov-2025 23:43:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\CompilableRules" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NestedRules.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NestedRules.php on line 7
+[23-Nov-2025 23:46:12 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Rule.php on line 26
+[23-Nov-2025 23:49:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php on line 11
+[24-Nov-2025 03:54:00 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\FormatsMessages" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Validator.php on line 24
+[24-Nov-2025 04:00:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php on line 10
+[24-Nov-2025 04:04:34 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ClosureValidationRule.php on line 9
+[24-Nov-2025 04:05:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\DatabasePresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php on line 8
+[24-Nov-2025 04:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\UncompromisedVerifier" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php on line 9
+[24-Nov-2025 04:08:24 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\FormatsMessages" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Validator.php on line 24
+[24-Nov-2025 04:09:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php on line 10
+[24-Nov-2025 04:10:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php on line 11
+[24-Nov-2025 04:11:25 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/InvokableValidationRule.php on line 13
+[24-Nov-2025 04:12:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\PresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php on line 5
+[24-Nov-2025 04:22:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\CompilableRules" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NestedRules.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NestedRules.php on line 7
+[24-Nov-2025 04:42:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Rule.php on line 26
+[24-Nov-2025 06:05:10 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\FormatsMessages" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Validator.php on line 24
+[24-Nov-2025 06:07:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php on line 10
+[24-Nov-2025 06:09:09 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ClosureValidationRule.php on line 9
+[24-Nov-2025 06:15:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php on line 10
+[24-Nov-2025 06:16:08 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\FormatsMessages" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Validator.php on line 24
+[24-Nov-2025 06:17:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\UncompromisedVerifier" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php on line 9
+[24-Nov-2025 06:18:13 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/InvokableValidationRule.php on line 13
+[24-Nov-2025 06:20:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\PresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php on line 5
+[24-Nov-2025 06:25:38 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ClosureValidationRule.php on line 9
+[24-Nov-2025 06:27:41 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Rule.php on line 26
+[24-Nov-2025 06:29:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php on line 11
+[24-Nov-2025 06:31:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\DatabasePresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php on line 8
+[24-Nov-2025 06:33:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\CompilableRules" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NestedRules.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NestedRules.php on line 7
+[18-Dec-2025 13:19:04 UTC] PHP Fatal error:  Trait "Illuminate\Validation\Concerns\FormatsMessages" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Validator.php on line 24
+[18-Dec-2025 14:41:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ValidationServiceProvider.php on line 10
+[18-Dec-2025 14:56:42 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/InvokableValidationRule.php on line 13
+[18-Dec-2025 14:57:43 UTC] PHP Fatal error:  Trait "Illuminate\Translation\CreatesPotentiallyTranslatedStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/ClosureValidationRule.php on line 9
+[18-Dec-2025 15:01:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\UncompromisedVerifier" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/NotPwnedVerifier.php on line 9
+[18-Dec-2025 15:15:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\PresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifierInterface.php on line 5
+[18-Dec-2025 15:35:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Validation\DatabasePresenceVerifierInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/DatabasePresenceVerifier.php on line 8
+[18-Dec-2025 15:46:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Validation\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Factory.php on line 11
+[18-Dec-2025 17:04:29 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Validation/Rule.php on line 26

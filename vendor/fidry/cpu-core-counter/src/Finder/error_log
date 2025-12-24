@@ -1,0 +1,300 @@
+[13-Nov-2025 04:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WindowsRegistryLogicalFinder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WindowsRegistryLogicalFinder.php on line 26
+[13-Nov-2025 11:32:31 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletLogicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletLogicalFinder.php on line 22
+[13-Nov-2025 11:34:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyInPowerShellFinder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyInPowerShellFinder.php on line 19
+[13-Nov-2025 11:35:37 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletPhysicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletPhysicalFinder.php on line 23
+[13-Nov-2025 11:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/_NProcessorFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/_NProcessorFinder.php on line 21
+[13-Nov-2025 12:37:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CpuInfoFinder.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CpuInfoFinder.php on line 29
+[13-Nov-2025 14:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwLogicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwLogicalFinder.php on line 22
+[13-Nov-2025 14:28:08 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwPhysicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwPhysicalFinder.php on line 22
+[13-Nov-2025 15:46:43 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcessorFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcessorFinder.php on line 21
+[13-Nov-2025 17:21:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyOnOSFamilyFinder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyOnOSFamilyFinder.php on line 20
+[13-Nov-2025 17:46:01 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicPhysicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicPhysicalFinder.php on line 23
+[13-Nov-2025 18:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcFinder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcFinder.php on line 25
+[13-Nov-2025 19:04:57 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuLogicalFinder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuLogicalFinder.php on line 27
+[13-Nov-2025 19:05:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/DummyCpuCoreFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/DummyCpuCoreFinder.php on line 22
+[13-Nov-2025 19:11:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NullCpuCoreFinder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NullCpuCoreFinder.php on line 19
+[13-Nov-2025 19:16:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/EnvVariableFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/EnvVariableFinder.php on line 21
+[13-Nov-2025 19:32:14 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicLogicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicLogicalFinder.php on line 23
+[13-Nov-2025 20:28:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/SkipOnOSFamilyFinder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/SkipOnOSFamilyFinder.php on line 20
+[13-Nov-2025 21:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuPhysicalFinder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuPhysicalFinder.php on line 28
+[13-Nov-2025 21:45:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/ProcOpenBasedFinder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/ProcOpenBasedFinder.php on line 26
+[21-Nov-2025 17:58:04 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WindowsRegistryLogicalFinder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WindowsRegistryLogicalFinder.php on line 26
+[21-Nov-2025 18:03:28 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletPhysicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletPhysicalFinder.php on line 23
+[21-Nov-2025 18:05:34 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletLogicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletLogicalFinder.php on line 22
+[21-Nov-2025 18:06:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyInPowerShellFinder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyInPowerShellFinder.php on line 19
+[21-Nov-2025 18:07:40 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicPhysicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicPhysicalFinder.php on line 23
+[21-Nov-2025 18:09:47 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/_NProcessorFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/_NProcessorFinder.php on line 21
+[21-Nov-2025 18:10:51 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwPhysicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwPhysicalFinder.php on line 22
+[21-Nov-2025 18:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwLogicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwLogicalFinder.php on line 22
+[21-Nov-2025 18:12:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CpuInfoFinder.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CpuInfoFinder.php on line 29
+[21-Nov-2025 18:13:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyOnOSFamilyFinder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyOnOSFamilyFinder.php on line 20
+[21-Nov-2025 18:16:02 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcessorFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcessorFinder.php on line 21
+[21-Nov-2025 18:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcFinder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcFinder.php on line 25
+[21-Nov-2025 18:19:08 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuLogicalFinder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuLogicalFinder.php on line 27
+[21-Nov-2025 18:20:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/DummyCpuCoreFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/DummyCpuCoreFinder.php on line 22
+[21-Nov-2025 18:22:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/ProcOpenBasedFinder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/ProcOpenBasedFinder.php on line 26
+[21-Nov-2025 18:23:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/EnvVariableFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/EnvVariableFinder.php on line 21
+[21-Nov-2025 18:24:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/SkipOnOSFamilyFinder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/SkipOnOSFamilyFinder.php on line 20
+[21-Nov-2025 18:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicLogicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicLogicalFinder.php on line 23
+[21-Nov-2025 18:26:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NullCpuCoreFinder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NullCpuCoreFinder.php on line 19
+[21-Nov-2025 18:27:33 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuPhysicalFinder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuPhysicalFinder.php on line 28
+[21-Nov-2025 18:36:34 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletPhysicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletPhysicalFinder.php on line 23
+[21-Nov-2025 18:36:57 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/_NProcessorFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/_NProcessorFinder.php on line 21
+[21-Nov-2025 18:39:01 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletLogicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletLogicalFinder.php on line 22
+[21-Nov-2025 18:40:00 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcessorFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcessorFinder.php on line 21
+[21-Nov-2025 18:41:00 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WindowsRegistryLogicalFinder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WindowsRegistryLogicalFinder.php on line 26
+[21-Nov-2025 18:42:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CpuInfoFinder.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CpuInfoFinder.php on line 29
+[21-Nov-2025 18:43:06 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwPhysicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwPhysicalFinder.php on line 22
+[21-Nov-2025 18:44:10 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwLogicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwLogicalFinder.php on line 22
+[21-Nov-2025 18:45:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyInPowerShellFinder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyInPowerShellFinder.php on line 19
+[21-Nov-2025 18:46:13 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuLogicalFinder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuLogicalFinder.php on line 27
+[21-Nov-2025 18:47:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/EnvVariableFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/EnvVariableFinder.php on line 21
+[21-Nov-2025 18:48:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/ProcOpenBasedFinder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/ProcOpenBasedFinder.php on line 26
+[21-Nov-2025 18:49:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/DummyCpuCoreFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/DummyCpuCoreFinder.php on line 22
+[21-Nov-2025 18:50:17 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcFinder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcFinder.php on line 25
+[21-Nov-2025 18:51:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NullCpuCoreFinder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NullCpuCoreFinder.php on line 19
+[17-Dec-2025 15:24:43 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WindowsRegistryLogicalFinder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WindowsRegistryLogicalFinder.php on line 26
+[17-Dec-2025 21:54:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyInPowerShellFinder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyInPowerShellFinder.php on line 19
+[17-Dec-2025 21:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletLogicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletLogicalFinder.php on line 22
+[17-Dec-2025 21:54:33 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletPhysicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CmiCmdletPhysicalFinder.php on line 23
+[17-Dec-2025 22:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/_NProcessorFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/_NProcessorFinder.php on line 21
+[17-Dec-2025 22:37:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CpuInfoFinder.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/CpuInfoFinder.php on line 29
+[17-Dec-2025 23:20:21 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwLogicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwLogicalFinder.php on line 22
+[17-Dec-2025 23:31:55 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwPhysicalFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/HwPhysicalFinder.php on line 22
+[18-Dec-2025 00:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcessorFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcessorFinder.php on line 21
+[18-Dec-2025 00:39:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyOnOSFamilyFinder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/OnlyOnOSFamilyFinder.php on line 20
+[18-Dec-2025 01:00:24 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicPhysicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicPhysicalFinder.php on line 23
+[18-Dec-2025 01:17:43 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcFinder.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NProcFinder.php on line 25
+[18-Dec-2025 01:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuLogicalFinder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuLogicalFinder.php on line 27
+[18-Dec-2025 01:35:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NullCpuCoreFinder.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/NullCpuCoreFinder.php on line 19
+[18-Dec-2025 01:36:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/DummyCpuCoreFinder.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/DummyCpuCoreFinder.php on line 22
+[18-Dec-2025 01:37:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/EnvVariableFinder.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/EnvVariableFinder.php on line 21
+[18-Dec-2025 01:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicLogicalFinder.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/WmicLogicalFinder.php on line 23
+[18-Dec-2025 02:11:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/SkipOnOSFamilyFinder.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/SkipOnOSFamilyFinder.php on line 20
+[18-Dec-2025 02:39:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Finder\CpuCoreFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/ProcOpenBasedFinder.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/ProcOpenBasedFinder.php on line 26
+[18-Dec-2025 02:40:09 UTC] PHP Fatal error:  Uncaught Error: Class "Fidry\CpuCoreCounter\Finder\ProcOpenBasedFinder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuPhysicalFinder.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Finder/LscpuPhysicalFinder.php on line 28

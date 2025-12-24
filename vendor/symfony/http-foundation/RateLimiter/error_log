@@ -1,0 +1,36 @@
+[11-Nov-2025 21:20:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\RequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/PeekableRequestRateLimiterInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/PeekableRequestRateLimiterInterface.php on line 32
+[12-Nov-2025 07:54:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\PeekableRequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php on line 25
+[18-Nov-2025 23:32:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\PeekableRequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php on line 25
+[18-Nov-2025 23:34:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\RequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/PeekableRequestRateLimiterInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/PeekableRequestRateLimiterInterface.php on line 32
+[18-Nov-2025 23:42:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\PeekableRequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php on line 25
+[18-Nov-2025 23:48:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\RequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/PeekableRequestRateLimiterInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/PeekableRequestRateLimiterInterface.php on line 32
+[18-Nov-2025 23:55:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\PeekableRequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php on line 25
+[16-Dec-2025 08:07:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\RequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/PeekableRequestRateLimiterInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/PeekableRequestRateLimiterInterface.php on line 32
+[16-Dec-2025 18:58:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\RateLimiter\PeekableRequestRateLimiterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/RateLimiter/AbstractRequestRateLimiter.php on line 25

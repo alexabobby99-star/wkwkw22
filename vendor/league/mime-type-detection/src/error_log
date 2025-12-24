@@ -1,0 +1,76 @@
+[16-Nov-2025 13:12:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php on line 7
+[16-Nov-2025 13:12:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/EmptyExtensionToMimeTypeMap.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/EmptyExtensionToMimeTypeMap.php on line 7
+[16-Nov-2025 13:14:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php on line 5
+[17-Nov-2025 02:14:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/ExtensionMimeTypeDetector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/ExtensionMimeTypeDetector.php on line 9
+[17-Nov-2025 11:52:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/FinfoMimeTypeDetector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/FinfoMimeTypeDetector.php on line 12
+[25-Nov-2025 19:52:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php on line 7
+[25-Nov-2025 19:53:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/EmptyExtensionToMimeTypeMap.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/EmptyExtensionToMimeTypeMap.php on line 7
+[25-Nov-2025 19:55:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/ExtensionMimeTypeDetector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/ExtensionMimeTypeDetector.php on line 9
+[25-Nov-2025 19:57:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php on line 5
+[25-Nov-2025 20:02:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/FinfoMimeTypeDetector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/FinfoMimeTypeDetector.php on line 12
+[25-Nov-2025 20:22:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php on line 5
+[25-Nov-2025 20:23:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/FinfoMimeTypeDetector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/FinfoMimeTypeDetector.php on line 12
+[25-Nov-2025 20:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php on line 7
+[25-Nov-2025 20:27:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/ExtensionMimeTypeDetector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/ExtensionMimeTypeDetector.php on line 9
+[25-Nov-2025 20:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/EmptyExtensionToMimeTypeMap.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/EmptyExtensionToMimeTypeMap.php on line 7
+[25-Nov-2025 20:31:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/OverridingExtensionToMimeTypeMap.php on line 5
+[25-Nov-2025 20:33:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\ExtensionToMimeTypeMap" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/GeneratedExtensionToMimeTypeMap.php on line 7
+[25-Nov-2025 20:35:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/FinfoMimeTypeDetector.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/FinfoMimeTypeDetector.php on line 12
+[25-Nov-2025 20:40:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/ExtensionMimeTypeDetector.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/mime-type-detection/src/ExtensionMimeTypeDetector.php on line 9

@@ -1,0 +1,96 @@
+[13-Nov-2025 03:34:46 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php on line 10
+[13-Nov-2025 12:18:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php on line 17
+[13-Nov-2025 19:31:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php on line 17
+[13-Nov-2025 19:31:45 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php on line 10
+[13-Nov-2025 19:45:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php on line 10
+[13-Nov-2025 19:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php on line 17
+[14-Nov-2025 16:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Resource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Resource.php on line 9
+[14-Nov-2025 17:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Resource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Resource.php on line 9
+[14-Nov-2025 17:18:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php on line 17
+[14-Nov-2025 17:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php on line 10
+[15-Nov-2025 00:37:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tool.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tool.php on line 12
+[15-Nov-2025 03:42:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Primitive.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Primitive.php on line 14
+[17-Dec-2025 15:54:52 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php on line 10
+[17-Dec-2025 22:25:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php on line 17
+[18-Dec-2025 01:50:12 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php on line 10
+[18-Dec-2025 01:51:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php on line 17
+[18-Dec-2025 02:03:47 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php on line 10
+[18-Dec-2025 02:04:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php on line 17
+[18-Dec-2025 06:40:51 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Resource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Resource.php on line 9
+[18-Dec-2025 06:54:03 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Prompt.php on line 10
+[18-Dec-2025 06:55:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/McpServiceProvider.php on line 17
+[18-Dec-2025 06:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Resource.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Resource.php on line 9
+[18-Dec-2025 07:22:13 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Mcp\Server\Primitive" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tool.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tool.php on line 12
+[18-Dec-2025 07:43:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Primitive.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Primitive.php on line 14

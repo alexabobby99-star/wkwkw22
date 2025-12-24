@@ -1,0 +1,12 @@
+[22-Nov-2025 10:36:47 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Xml\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Xml/Directory.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Xml/Directory.php on line 15
+[22-Nov-2025 21:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Xml\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Xml/Project.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Xml/Project.php on line 19
+[27-Nov-2025 02:47:29 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Xml\File" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Xml/Report.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Xml/Report.php on line 21

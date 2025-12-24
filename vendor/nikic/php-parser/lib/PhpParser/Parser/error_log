@@ -1,0 +1,8 @@
+[30-Nov-2025 18:11:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\ParserAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Parser/Php8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Parser/Php8.php on line 19
+[30-Nov-2025 18:13:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\ParserAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Parser/Php7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Parser/Php7.php on line 19

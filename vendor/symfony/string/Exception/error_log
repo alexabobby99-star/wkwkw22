@@ -1,0 +1,32 @@
+[12-Nov-2025 18:47:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[12-Nov-2025 20:04:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[20-Nov-2025 14:40:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[20-Nov-2025 15:32:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[20-Nov-2025 16:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[20-Nov-2025 17:17:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php on line 14
+[17-Dec-2025 06:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/InvalidArgumentException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/InvalidArgumentException.php on line 14
+[17-Dec-2025 07:05:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\String\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/string/Exception/RuntimeException.php on line 14

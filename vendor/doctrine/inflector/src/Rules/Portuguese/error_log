@@ -1,0 +1,16 @@
+[14-Nov-2025 22:55:30 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Portuguese/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Portuguese/InflectorFactory.php on line 10
+[25-Nov-2025 22:22:59 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Portuguese/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Portuguese/InflectorFactory.php on line 10
+[25-Nov-2025 22:37:37 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Portuguese/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Portuguese/InflectorFactory.php on line 10
+[18-Dec-2025 10:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Portuguese/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Portuguese/InflectorFactory.php on line 10

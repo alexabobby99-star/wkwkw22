@@ -1,0 +1,28 @@
+[12-Nov-2025 03:23:20 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php on line 62
+[12-Nov-2025 03:23:20 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php:62
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php(62): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php(110): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php on line 62
+[20-Nov-2025 13:54:30 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php on line 62
+[20-Nov-2025 13:54:30 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php:62
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php(62): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php(110): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php on line 62
+[20-Nov-2025 14:02:59 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php on line 62
+[20-Nov-2025 14:02:59 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php:62
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php(62): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php(110): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php on line 62
+[16-Dec-2025 14:19:43 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php on line 62
+[16-Dec-2025 14:19:43 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php:62
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php(62): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php(110): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/bin/worker.php on line 62

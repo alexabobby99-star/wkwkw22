@@ -1,0 +1,115 @@
+[15-Nov-2025 04:32:05 UTC] PHP Fatal error:  Trait "Illuminate\Notifications\HasDatabaseNotifications" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php on line 5
+[15-Nov-2025 14:06:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php on line 9
+[15-Nov-2025 19:01:36 UTC] PHP Fatal error:  Trait "Illuminate\Queue\SerializesModels" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notification.php on line 7
+[15-Nov-2025 21:03:50 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Localizable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php on line 19
+[15-Nov-2025 22:15:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php on line 9
+[15-Nov-2025 22:18:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php on line 13
+[15-Nov-2025 22:51:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php on line 12
+[16-Nov-2025 20:43:40 UTC] PHP Fatal error:  Trait "Illuminate\Notifications\HasDatabaseNotifications" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php on line 5
+[16-Nov-2025 20:43:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php on line 9
+[16-Nov-2025 20:43:51 UTC] PHP Fatal error:  Trait "Illuminate\Queue\SerializesModels" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notification.php on line 7
+[16-Nov-2025 20:44:23 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Localizable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php on line 19
+[16-Nov-2025 20:44:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php on line 13
+[16-Nov-2025 20:46:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php on line 9
+[16-Nov-2025 20:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php on line 12
+[16-Nov-2025 20:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php on line 9
+[16-Nov-2025 20:58:54 UTC] PHP Fatal error:  Trait "Illuminate\Notifications\HasDatabaseNotifications" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php on line 5
+[16-Nov-2025 21:02:36 UTC] PHP Fatal error:  Trait "Illuminate\Queue\SerializesModels" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notification.php on line 7
+[16-Nov-2025 21:06:21 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Localizable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php on line 19
+[16-Nov-2025 21:08:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php on line 13
+[16-Nov-2025 21:09:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php on line 9
+[16-Nov-2025 21:10:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php on line 12
+[17-Nov-2025 11:57:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php on line 13
+[17-Nov-2025 11:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php on line 9
+[17-Nov-2025 12:02:53 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Localizable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php on line 19
+[17-Nov-2025 12:03:54 UTC] PHP Fatal error:  Trait "Illuminate\Notifications\HasDatabaseNotifications" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php on line 5
+[17-Nov-2025 12:04:57 UTC] PHP Fatal error:  Trait "Illuminate\Queue\SerializesModels" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notification.php on line 7
+[17-Nov-2025 12:20:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php on line 9
+[17-Nov-2025 12:26:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php on line 12
+[18-Nov-2025 12:42:45 UTC] PHP Fatal error:  Trait "Illuminate\Notifications\HasDatabaseNotifications" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php on line 5
+[18-Nov-2025 12:43:42 UTC] PHP Fatal error:  Trait "Illuminate\Queue\SerializesModels" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notification.php on line 7
+[18-Nov-2025 12:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php on line 13
+[18-Nov-2025 12:46:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php on line 9
+[18-Nov-2025 12:47:56 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Localizable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php on line 19
+[18-Nov-2025 12:49:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php on line 9
+[18-Nov-2025 12:51:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php on line 12
+[18-Nov-2025 17:19:35 UTC] PHP Fatal error:  Trait "Illuminate\Notifications\HasDatabaseNotifications" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php on line 5
+[18-Nov-2025 17:24:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationServiceProvider.php on line 9
+[18-Nov-2025 17:26:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotification.php on line 9
+[18-Nov-2025 17:28:33 UTC] PHP Fatal error:  Trait "Illuminate\Queue\SerializesModels" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Notification.php on line 7
+[18-Nov-2025 17:30:39 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Localizable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/NotificationSender.php on line 19
+[18-Nov-2025 17:34:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/DatabaseNotificationCollection.php on line 13
+[18-Nov-2025 17:40:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/ChannelManager.php on line 12
+[21-Nov-2025 16:05:53 UTC] PHP Fatal error:  Trait "Illuminate\Queue\InteractsWithQueue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/SendQueuedNotifications.php on line 15

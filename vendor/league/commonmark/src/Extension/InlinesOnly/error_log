@@ -1,0 +1,44 @@
+[15-Nov-2025 22:47:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php on line 24
+[16-Nov-2025 08:25:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php on line 24
+[24-Nov-2025 03:53:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php on line 24
+[24-Nov-2025 03:55:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php on line 24
+[24-Nov-2025 05:34:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php on line 24
+[24-Nov-2025 05:36:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php on line 24
+[24-Nov-2025 05:50:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php on line 24
+[24-Nov-2025 05:52:52 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php on line 24
+[24-Nov-2025 05:56:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php on line 24
+[24-Nov-2025 06:24:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/ChildRenderer.php on line 24
+[24-Nov-2025 06:26:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/InlinesOnly/InlinesOnlyExtension.php on line 24

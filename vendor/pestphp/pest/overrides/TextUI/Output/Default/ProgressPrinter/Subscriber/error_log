@@ -1,0 +1,12 @@
+[24-Nov-2025 13:03:11 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Logging\TeamCity\Subscriber\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 55
+[24-Nov-2025 13:05:26 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Logging\TeamCity\Subscriber\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 55
+[24-Nov-2025 13:06:46 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Logging\TeamCity\Subscriber\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Output/Default/ProgressPrinter/Subscriber/TestSkippedSubscriber.php on line 55

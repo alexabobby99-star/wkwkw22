@@ -1,0 +1,4 @@
+[20-Nov-2025 22:55:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Foundation\ExceptionRenderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Whoops/WhoopsExceptionRenderer.php on line 10

@@ -1,0 +1,3 @@
+[22-Nov-2025 19:40:22 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Themes\Default\Concerns\InteractsWithStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Themes/Default/Concerns/DrawsBoxes.php on line 7
+[27-Nov-2025 12:13:58 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Themes\Default\Concerns\InteractsWithStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Themes/Default/Concerns/DrawsBoxes.php on line 7
+[27-Nov-2025 12:23:29 UTC] PHP Fatal error:  Trait "Laravel\Prompts\Themes\Default\Concerns\InteractsWithStrings" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Themes/Default/Concerns/DrawsBoxes.php on line 7

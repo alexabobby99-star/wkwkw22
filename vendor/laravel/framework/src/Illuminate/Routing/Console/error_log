@@ -1,0 +1,44 @@
+[16-Nov-2025 22:06:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[16-Nov-2025 22:09:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[25-Nov-2025 06:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[25-Nov-2025 07:01:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[25-Nov-2025 07:44:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[25-Nov-2025 07:46:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[25-Nov-2025 08:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[25-Nov-2025 08:30:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[25-Nov-2025 09:26:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18
+[25-Nov-2025 09:30:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/MiddlewareMakeCommand.php on line 10
+[25-Nov-2025 09:44:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Console/ControllerMakeCommand.php on line 18

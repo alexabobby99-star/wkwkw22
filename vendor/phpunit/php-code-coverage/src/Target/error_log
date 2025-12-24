@@ -1,0 +1,150 @@
+[13-Nov-2025 03:10:57 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\ValidationResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationFailure.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationFailure.php on line 17
+[13-Nov-2025 11:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php on line 17
+[14-Nov-2025 18:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\ValidationResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php on line 17
+[14-Nov-2025 21:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php on line 17
+[14-Nov-2025 23:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php on line 17
+[15-Nov-2025 05:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php on line 17
+[15-Nov-2025 05:30:45 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php on line 17
+[15-Nov-2025 06:28:14 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\ValidationResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationFailure.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationFailure.php on line 17
+[15-Nov-2025 06:30:19 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php on line 17
+[15-Nov-2025 06:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php on line 17
+[15-Nov-2025 06:36:44 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php on line 17
+[15-Nov-2025 06:38:48 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\ValidationResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php on line 17
+[15-Nov-2025 06:42:57 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php on line 17
+[15-Nov-2025 06:45:06 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php on line 17
+[15-Nov-2025 06:55:37 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php on line 17
+[15-Nov-2025 07:02:38 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php on line 17
+[15-Nov-2025 07:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\ValidationResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php on line 17
+[15-Nov-2025 07:13:53 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php on line 17
+[15-Nov-2025 07:18:03 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php on line 17
+[15-Nov-2025 07:23:20 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php on line 17
+[15-Nov-2025 07:31:52 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php on line 17
+[15-Nov-2025 07:32:52 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\ValidationResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php on line 17
+[15-Nov-2025 07:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php on line 17
+[15-Nov-2025 07:45:23 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php on line 17
+[15-Nov-2025 07:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php on line 17
+[15-Nov-2025 07:52:47 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php on line 17
+[15-Nov-2025 08:35:22 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Method.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Method.php on line 17
+[15-Nov-2025 18:25:16 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatExtendClass.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatExtendClass.php on line 17
+[17-Nov-2025 05:24:50 UTC] PHP Fatal error:  Could not check compatibility between SebastianBergmann\CodeCoverage\Test\Target\TargetCollection::getIterator(): SebastianBergmann\CodeCoverage\Test\Target\TargetCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class SebastianBergmann\CodeCoverage\Test\Target\TargetCollectionIterator is not available in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/TargetCollection.php on line 66
+[17-Dec-2025 14:23:39 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\ValidationResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationFailure.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationFailure.php on line 17
+[17-Dec-2025 22:15:12 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatImplementInterface.php on line 17
+[18-Dec-2025 06:49:49 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\ValidationResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ValidationSuccess.php on line 17
+[18-Dec-2025 06:51:53 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Function_.php on line 17
+[18-Dec-2025 07:13:52 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Namespace_.php on line 17
+[18-Dec-2025 08:05:48 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Trait_.php on line 17
+[18-Dec-2025 08:06:48 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Class_.php on line 17
+[18-Dec-2025 08:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Method.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/Method.php on line 17
+[18-Dec-2025 08:50:56 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\Target\Target" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatExtendClass.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/ClassesThatExtendClass.php on line 17
+[18-Dec-2025 09:15:23 UTC] PHP Fatal error:  Could not check compatibility between SebastianBergmann\CodeCoverage\Test\Target\TargetCollection::getIterator(): SebastianBergmann\CodeCoverage\Test\Target\TargetCollectionIterator and IteratorAggregate::getIterator(): Traversable, because class SebastianBergmann\CodeCoverage\Test\Target\TargetCollectionIterator is not available in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Target/TargetCollection.php on line 66

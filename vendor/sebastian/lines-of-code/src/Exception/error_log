@@ -1,0 +1,24 @@
+[13-Nov-2025 11:15:14 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[13-Nov-2025 12:30:57 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[23-Nov-2025 06:48:58 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[23-Nov-2025 06:51:06 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12
+[23-Nov-2025 07:03:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/IllogicalValuesException.php on line 14
+[23-Nov-2025 07:10:36 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\LinesOfCode\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/Exception/RuntimeException.php on line 12

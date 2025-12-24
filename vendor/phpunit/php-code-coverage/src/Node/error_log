@@ -1,0 +1,16 @@
+[14-Nov-2025 23:22:40 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Node\AbstractNode" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Node/Directory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Node/Directory.php on line 28
+[15-Nov-2025 12:31:05 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Node\AbstractNode" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Node/File.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Node/File.php on line 96
+[18-Dec-2025 07:08:49 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Node\AbstractNode" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Node/Directory.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Node/Directory.php on line 28
+[18-Dec-2025 08:35:29 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Node\AbstractNode" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Node/File.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Node/File.php on line 96

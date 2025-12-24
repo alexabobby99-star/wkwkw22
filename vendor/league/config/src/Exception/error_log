@@ -1,0 +1,40 @@
+[13-Nov-2025 20:01:03 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[13-Nov-2025 20:05:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[13-Nov-2025 20:06:07 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/ValidationException.php on line 18
+[13-Nov-2025 20:12:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[14-Nov-2025 09:54:23 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/ValidationException.php on line 18
+[14-Nov-2025 09:57:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[14-Nov-2025 09:58:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[14-Nov-2025 10:21:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/InvalidConfigurationException.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/InvalidConfigurationException.php on line 16
+[14-Nov-2025 10:21:17 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\Exception\ConfigurationExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/UnknownOptionException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/UnknownOptionException.php on line 18
+[14-Nov-2025 10:22:10 UTC] PHP Fatal error:  Uncaught Error: Class "League\Config\Exception\InvalidConfigurationException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/config/src/Exception/ValidationException.php on line 18

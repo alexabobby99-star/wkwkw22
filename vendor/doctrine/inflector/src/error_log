@@ -1,0 +1,80 @@
+[12-Nov-2025 01:20:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\LanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php on line 11
+[12-Nov-2025 07:25:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php on line 7
+[12-Nov-2025 08:14:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php on line 7
+[12-Nov-2025 09:10:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php on line 20
+[19-Nov-2025 18:36:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php on line 7
+[19-Nov-2025 18:36:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\LanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php on line 11
+[19-Nov-2025 18:39:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php on line 7
+[19-Nov-2025 18:43:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php on line 20
+[16-Dec-2025 12:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\LanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php on line 11
+[16-Dec-2025 18:38:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php on line 7
+[16-Dec-2025 19:10:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php on line 7
+[16-Dec-2025 21:08:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php on line 20
+[18-Dec-2025 10:15:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\LanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php on line 11
+[18-Dec-2025 10:16:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php on line 7
+[18-Dec-2025 10:17:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php on line 7
+[18-Dec-2025 10:18:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php on line 20
+[18-Dec-2025 11:41:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\LanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/GenericLanguageInflectorFactory.php on line 11
+[18-Dec-2025 11:42:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/CachedWordInflector.php on line 7
+[18-Dec-2025 11:43:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/NoopWordInflector.php on line 7
+[18-Dec-2025 11:44:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/RulesetInflector.php on line 20

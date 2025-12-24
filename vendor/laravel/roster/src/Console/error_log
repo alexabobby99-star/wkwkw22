@@ -1,0 +1,8 @@
+[14-Nov-2025 01:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Console/ScanCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Console/ScanCommand.php on line 8
+[14-Nov-2025 01:16:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Console/ScanCommand.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Console/ScanCommand.php on line 8

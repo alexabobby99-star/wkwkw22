@@ -1,0 +1,96 @@
+[13-Nov-2025 11:48:01 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/FoldingWhiteSpace.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/FoldingWhiteSpace.php on line 17
+[13-Nov-2025 11:48:03 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DoubleQuote.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DoubleQuote.php on line 14
+[13-Nov-2025 11:48:17 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\DomainPart" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDRightPart.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDRightPart.php on line 11
+[13-Nov-2025 11:48:26 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainLiteral.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainLiteral.php on line 24
+[13-Nov-2025 12:04:15 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/Comment.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/Comment.php on line 14
+[13-Nov-2025 14:27:04 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\LocalPart" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDLeftPart.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDLeftPart.php on line 9
+[13-Nov-2025 15:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/LocalPart.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/LocalPart.php on line 16
+[13-Nov-2025 15:54:44 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainPart.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainPart.php on line 26
+[15-Nov-2025 23:58:56 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\DomainPart" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDRightPart.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDRightPart.php on line 11
+[15-Nov-2025 23:59:53 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DoubleQuote.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DoubleQuote.php on line 14
+[16-Nov-2025 00:00:54 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainLiteral.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainLiteral.php on line 24
+[16-Nov-2025 00:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/Comment.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/Comment.php on line 14
+[16-Nov-2025 00:04:05 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/FoldingWhiteSpace.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/FoldingWhiteSpace.php on line 17
+[16-Nov-2025 00:07:12 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\LocalPart" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDLeftPart.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDLeftPart.php on line 9
+[16-Nov-2025 00:11:53 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/LocalPart.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/LocalPart.php on line 16
+[16-Nov-2025 00:14:41 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainPart.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainPart.php on line 26
+[16-Nov-2025 00:19:11 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\DomainPart" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDRightPart.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDRightPart.php on line 11
+[16-Nov-2025 00:22:21 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DoubleQuote.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DoubleQuote.php on line 14
+[16-Nov-2025 00:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/FoldingWhiteSpace.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/FoldingWhiteSpace.php on line 17
+[16-Nov-2025 00:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainLiteral.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainLiteral.php on line 24
+[16-Nov-2025 00:28:24 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/Comment.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/Comment.php on line 14
+[16-Nov-2025 00:29:24 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\LocalPart" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDLeftPart.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/IDLeftPart.php on line 9
+[16-Nov-2025 00:34:48 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainPart.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/DomainPart.php on line 26
+[16-Nov-2025 00:35:44 UTC] PHP Fatal error:  Uncaught Error: Class "Egulias\EmailValidator\Parser\PartParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/LocalPart.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/LocalPart.php on line 16

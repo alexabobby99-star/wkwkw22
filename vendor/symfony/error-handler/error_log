@@ -1,0 +1,24 @@
+[11-Nov-2025 16:41:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php on line 21
+[12-Nov-2025 10:28:51 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php on line 21
+[12-Nov-2025 10:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php on line 21
+[16-Dec-2025 04:49:10 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php on line 21
+[16-Dec-2025 22:00:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php on line 21
+[16-Dec-2025 22:08:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/BufferingLogger.php on line 21

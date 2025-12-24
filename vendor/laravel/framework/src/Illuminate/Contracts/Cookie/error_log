@@ -1,0 +1,12 @@
+[21-Nov-2025 22:14:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Cookie\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5
+[21-Nov-2025 22:25:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Cookie\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5
+[21-Nov-2025 22:38:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Cookie\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Cookie/QueueingFactory.php on line 5

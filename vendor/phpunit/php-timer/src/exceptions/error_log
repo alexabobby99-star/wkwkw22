@@ -1,0 +1,24 @@
+[15-Nov-2025 12:47:22 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Timer\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/NoActiveTimerException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/NoActiveTimerException.php on line 14
+[15-Nov-2025 18:38:00 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Timer\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/TimeSinceStartOfRequestNotAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/TimeSinceStartOfRequestNotAvailableException.php on line 14
+[15-Nov-2025 21:48:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Timer\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/NoActiveTimerException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/NoActiveTimerException.php on line 14
+[15-Nov-2025 22:09:45 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Timer\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/NoActiveTimerException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/NoActiveTimerException.php on line 14
+[18-Dec-2025 08:38:41 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Timer\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/NoActiveTimerException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/NoActiveTimerException.php on line 14
+[18-Dec-2025 08:51:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Timer\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/TimeSinceStartOfRequestNotAvailableException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-timer/src/exceptions/TimeSinceStartOfRequestNotAvailableException.php on line 14

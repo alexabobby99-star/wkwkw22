@@ -1,0 +1,4 @@
+[12-Nov-2025 11:51:17 UTC] PHP Warning:  Class "Nette\HtmlStringable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/utils/src/compatibility.php on line 20
+[12-Nov-2025 11:51:17 UTC] PHP Warning:  Class "Nette\Localization\Translator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/utils/src/compatibility.php on line 31
+[16-Dec-2025 23:26:48 UTC] PHP Warning:  Class "Nette\HtmlStringable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/utils/src/compatibility.php on line 20
+[16-Dec-2025 23:26:48 UTC] PHP Warning:  Class "Nette\Localization\Translator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/utils/src/compatibility.php on line 31

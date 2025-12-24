@@ -1,0 +1,16 @@
+[15-Nov-2025 20:08:41 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Invoker\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-invoker/src/exceptions/ProcessControlExtensionNotLoadedException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-invoker/src/exceptions/ProcessControlExtensionNotLoadedException.php on line 18
+[16-Nov-2025 13:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Invoker\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-invoker/src/exceptions/TimeoutException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-invoker/src/exceptions/TimeoutException.php on line 14
+[18-Dec-2025 08:53:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Invoker\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-invoker/src/exceptions/ProcessControlExtensionNotLoadedException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-invoker/src/exceptions/ProcessControlExtensionNotLoadedException.php on line 18
+[18-Dec-2025 09:07:39 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Invoker\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-invoker/src/exceptions/TimeoutException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-invoker/src/exceptions/TimeoutException.php on line 14

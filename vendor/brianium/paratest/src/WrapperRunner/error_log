@@ -1,0 +1,24 @@
+[14-Nov-2025 02:49:11 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Output\Printer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/ProgressPrinterOutput.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/ProgressPrinterOutput.php on line 12
+[14-Nov-2025 02:55:43 UTC] PHP Fatal error:  Uncaught Error: Interface "ParaTest\RunnerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/WrapperRunner.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/WrapperRunner.php on line 44
+[21-Nov-2025 17:39:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Output\Printer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/ProgressPrinterOutput.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/ProgressPrinterOutput.php on line 12
+[21-Nov-2025 17:42:48 UTC] PHP Fatal error:  Uncaught Error: Interface "ParaTest\RunnerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/WrapperRunner.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/WrapperRunner.php on line 44
+[21-Nov-2025 17:48:17 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Output\Printer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/ProgressPrinterOutput.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/ProgressPrinterOutput.php on line 12
+[21-Nov-2025 18:04:33 UTC] PHP Fatal error:  Uncaught Error: Interface "ParaTest\RunnerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/WrapperRunner.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/src/WrapperRunner/WrapperRunner.php on line 44

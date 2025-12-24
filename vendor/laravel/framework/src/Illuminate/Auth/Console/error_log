@@ -1,0 +1,16 @@
+[16-Nov-2025 15:35:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 9
+[27-Nov-2025 08:55:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 9
+[27-Nov-2025 09:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 9
+[27-Nov-2025 09:57:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearResetsCommand.php on line 9

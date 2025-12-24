@@ -1,0 +1,208 @@
+[12-Nov-2025 16:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[13-Nov-2025 00:01:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[13-Nov-2025 01:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[13-Nov-2025 03:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[13-Nov-2025 04:17:22 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[13-Nov-2025 09:32:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[13-Nov-2025 10:31:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php on line 22
+[14-Nov-2025 00:18:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php on line 26
+[21-Nov-2025 01:21:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[21-Nov-2025 01:22:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[21-Nov-2025 01:31:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[21-Nov-2025 01:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[21-Nov-2025 01:34:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[21-Nov-2025 01:38:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[21-Nov-2025 02:14:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php on line 22
+[21-Nov-2025 02:17:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php on line 26
+[21-Nov-2025 02:19:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[21-Nov-2025 02:31:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[21-Nov-2025 02:33:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[21-Nov-2025 02:34:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[21-Nov-2025 02:37:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[21-Nov-2025 02:40:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[21-Nov-2025 02:41:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[21-Nov-2025 02:46:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php on line 22
+[21-Nov-2025 02:50:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php on line 26
+[21-Nov-2025 02:51:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[21-Nov-2025 03:42:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[21-Nov-2025 03:44:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[21-Nov-2025 03:46:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[21-Nov-2025 03:52:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[21-Nov-2025 03:55:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[21-Nov-2025 03:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[21-Nov-2025 03:58:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php on line 22
+[21-Nov-2025 04:01:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php on line 26
+[21-Nov-2025 04:02:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[21-Nov-2025 09:56:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[21-Nov-2025 10:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[21-Nov-2025 10:34:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php on line 22
+[21-Nov-2025 10:48:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php on line 26
+[21-Nov-2025 11:30:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[21-Nov-2025 11:34:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[21-Nov-2025 11:54:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[21-Nov-2025 11:59:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[17-Dec-2025 04:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\QuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/SymfonyQuestionHelper.php on line 26
+[17-Dec-2025 11:10:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/InputAwareHelper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/InputAwareHelper.php on line 22
+[17-Dec-2025 11:14:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DescriptorHelper.php on line 28
+[17-Dec-2025 12:29:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/DebugFormatterHelper.php on line 21
+[17-Dec-2025 14:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/FormatterHelper.php on line 21
+[17-Dec-2025 15:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\TableCell" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/TableSeparator.php on line 19
+[17-Dec-2025 20:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/QuestionHelper.php on line 35
+[17-Dec-2025 21:22:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Helper\HelperInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/Helper.php on line 22
+[18-Dec-2025 04:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\Helper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Helper/ProcessHelper.php on line 26

@@ -1,0 +1,64 @@
+[13-Nov-2025 03:24:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php on line 20
+[13-Nov-2025 13:23:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php on line 20
+[14-Nov-2025 18:05:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php on line 25
+[19-Nov-2025 19:16:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php on line 20
+[19-Nov-2025 19:23:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php on line 25
+[19-Nov-2025 19:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php on line 20
+[19-Nov-2025 19:40:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php on line 20
+[19-Nov-2025 19:43:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php on line 20
+[19-Nov-2025 19:46:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php on line 25
+[19-Nov-2025 20:09:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php on line 20
+[19-Nov-2025 20:17:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php on line 20
+[19-Nov-2025 20:21:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php on line 25
+[19-Nov-2025 20:24:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php on line 20
+[17-Dec-2025 14:47:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/FailedMessageEvent.php on line 20
+[17-Dec-2025 22:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/SentMessageEvent.php on line 20
+[18-Dec-2025 06:46:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Contracts\EventDispatcher\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Event/MessageEvent.php on line 25

@@ -1,0 +1,54 @@
+[16-Nov-2025 08:28:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[18-Nov-2025 14:26:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[20-Nov-2025 18:33:12 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 13
+[26-Nov-2025 07:47:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[26-Nov-2025 08:20:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[26-Nov-2025 08:24:07 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 13
+[26-Nov-2025 08:40:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[26-Nov-2025 08:41:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 13
+[26-Nov-2025 08:42:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[26-Nov-2025 11:09:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[26-Nov-2025 11:34:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[26-Nov-2025 11:37:48 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 13
+[26-Nov-2025 12:10:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[26-Nov-2025 12:36:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 13
+[26-Nov-2025 12:41:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[18-Dec-2025 15:23:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/PipelineServiceProvider.php on line 9
+[18-Dec-2025 17:17:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Pipeline\Hub" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Hub.php on line 9
+[18-Dec-2025 18:02:04 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php on line 13

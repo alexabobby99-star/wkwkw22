@@ -1,0 +1,16 @@
+[14-Nov-2025 15:03:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/yaml/Command/LintCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/yaml/Command/LintCommand.php on line 37
+[20-Nov-2025 23:20:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/yaml/Command/LintCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/yaml/Command/LintCommand.php on line 37
+[20-Nov-2025 23:23:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/yaml/Command/LintCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/yaml/Command/LintCommand.php on line 37
+[18-Dec-2025 06:28:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/yaml/Command/LintCommand.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/yaml/Command/LintCommand.php on line 37

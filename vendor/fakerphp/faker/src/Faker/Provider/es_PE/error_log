@@ -1,0 +1,72 @@
+[25-Nov-2025 00:13:20 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php on line 5
+[25-Nov-2025 00:18:11 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php on line 5
+[25-Nov-2025 00:42:07 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php on line 5
+[25-Nov-2025 00:44:11 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\es_ES\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php on line 5
+[28-Nov-2025 06:49:14 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php on line 5
+[28-Nov-2025 07:01:52 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php on line 5
+[28-Nov-2025 07:31:19 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\es_ES\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php on line 5
+[28-Nov-2025 07:34:24 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php on line 5
+[29-Nov-2025 18:50:41 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php on line 5
+[29-Nov-2025 18:54:54 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php on line 5
+[29-Nov-2025 19:13:35 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php on line 5
+[29-Nov-2025 19:18:53 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\es_ES\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php on line 5
+[30-Nov-2025 12:09:07 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php on line 5
+[30-Nov-2025 12:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php on line 5
+[30-Nov-2025 12:20:14 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/PhoneNumber.php on line 5
+[30-Nov-2025 12:26:35 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Company.php on line 5
+[30-Nov-2025 12:36:56 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Person.php on line 5
+[30-Nov-2025 12:41:06 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\es_ES\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/es_PE/Address.php on line 5

@@ -1,0 +1,16 @@
+[15-Nov-2025 23:44:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Database\Migrations\MigrationRepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php on line 7
+[22-Nov-2025 01:09:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Database\Migrations\MigrationRepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php on line 7
+[22-Nov-2025 01:23:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Database\Migrations\MigrationRepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php on line 7
+[22-Nov-2025 11:09:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Database\Migrations\MigrationRepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Migrations/DatabaseMigrationRepository.php on line 7

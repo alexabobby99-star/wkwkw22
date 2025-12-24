@@ -1,0 +1,20 @@
+[16-Nov-2025 15:40:39 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 21
+[16-Nov-2025 15:54:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 8
+[27-Nov-2025 13:49:09 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 21
+[27-Nov-2025 13:50:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 8
+[27-Nov-2025 14:04:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 8
+[27-Nov-2025 14:07:52 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 21
+[27-Nov-2025 17:01:59 UTC] PHP Fatal error:  Trait "Illuminate\Auth\Access\HandlesAuthorization" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php on line 21
+[27-Nov-2025 17:09:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php on line 8

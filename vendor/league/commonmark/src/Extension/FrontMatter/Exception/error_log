@@ -1,0 +1,4 @@
+[17-Nov-2025 02:12:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/Exception/InvalidFrontMatterException.php on line 18

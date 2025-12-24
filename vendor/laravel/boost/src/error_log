@@ -1,0 +1,8 @@
+[12-Nov-2025 23:21:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/BoostServiceProvider.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/BoostServiceProvider.php on line 20
+[17-Dec-2025 10:40:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/BoostServiceProvider.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/BoostServiceProvider.php on line 20

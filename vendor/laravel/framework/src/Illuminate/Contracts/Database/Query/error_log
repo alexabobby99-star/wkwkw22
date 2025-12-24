@@ -1,0 +1,4 @@
+[23-Nov-2025 09:14:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Database\Query\Expression" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Database/Query/ConditionExpression.php on line 5

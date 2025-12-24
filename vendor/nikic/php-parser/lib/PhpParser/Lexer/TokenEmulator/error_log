@@ -1,0 +1,152 @@
+[20-Nov-2025 03:40:05 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php on line 7
+[22-Nov-2025 21:20:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php on line 8
+[23-Nov-2025 05:57:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php on line 8
+[23-Nov-2025 06:10:16 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php on line 7
+[23-Nov-2025 06:30:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php on line 9
+[23-Nov-2025 11:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php on line 10
+[24-Nov-2025 11:59:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyFunctionTokenEmulator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyFunctionTokenEmulator.php on line 14
+[24-Nov-2025 13:13:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php on line 7
+[24-Nov-2025 15:52:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php on line 7
+[24-Nov-2025 15:54:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php on line 10
+[24-Nov-2025 15:56:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php on line 8
+[24-Nov-2025 15:58:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php on line 7
+[24-Nov-2025 16:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php on line 9
+[24-Nov-2025 16:02:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php on line 8
+[24-Nov-2025 16:14:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyFunctionTokenEmulator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyFunctionTokenEmulator.php on line 14
+[24-Nov-2025 16:18:24 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php on line 7
+[24-Nov-2025 16:25:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php on line 8
+[24-Nov-2025 16:26:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php on line 7
+[24-Nov-2025 16:34:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php on line 8
+[24-Nov-2025 16:36:41 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php on line 10
+[24-Nov-2025 16:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php on line 7
+[24-Nov-2025 16:40:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php on line 8
+[24-Nov-2025 16:41:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyFunctionTokenEmulator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyFunctionTokenEmulator.php on line 14
+[24-Nov-2025 16:42:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php on line 9
+[24-Nov-2025 16:44:01 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php on line 7
+[24-Nov-2025 16:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php on line 7
+[24-Nov-2025 16:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ExplicitOctalEmulator.php on line 8
+[24-Nov-2025 16:56:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/EnumTokenEmulator.php on line 7
+[24-Nov-2025 17:02:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/KeywordEmulator.php on line 7
+[24-Nov-2025 17:03:08 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/VoidCastEmulator.php on line 8
+[24-Nov-2025 17:04:09 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PipeOperatorEmulator.php on line 9
+[24-Nov-2025 17:06:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/MatchTokenEmulator.php on line 7
+[24-Nov-2025 17:09:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyFunctionTokenEmulator.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyFunctionTokenEmulator.php on line 14
+[24-Nov-2025 17:10:02 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReverseEmulator.php on line 10
+[24-Nov-2025 23:05:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/ReadonlyTokenEmulator.php on line 7
+[24-Nov-2025 23:08:13 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NullsafeTokenEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/NullsafeTokenEmulator.php on line 8
+[25-Nov-2025 00:54:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\TokenEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/AsymmetricVisibilityTokenEmulator.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/AsymmetricVisibilityTokenEmulator.php on line 8
+[25-Nov-2025 06:49:56 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Lexer\TokenEmulator\KeywordEmulator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PropertyTokenEmulator.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Lexer/TokenEmulator/PropertyTokenEmulator.php on line 7

@@ -1,0 +1,48 @@
+[18-Nov-2025 19:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-Nov-2025 17:22:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-Nov-2025 17:25:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[22-Nov-2025 17:40:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-Nov-2025 17:43:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[22-Nov-2025 17:52:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-Nov-2025 18:11:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[22-Nov-2025 18:13:50 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-Nov-2025 18:30:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[22-Nov-2025 18:32:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21
+[22-Nov-2025 18:38:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/OrExpr.php on line 21
+[22-Nov-2025 18:44:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Node\Query\ExpressionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Node/Query/AndExpr.php on line 21

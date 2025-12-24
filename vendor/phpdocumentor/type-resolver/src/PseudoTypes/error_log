@@ -1,0 +1,324 @@
+[25-Nov-2025 16:36:54 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LiteralString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LiteralString.php on line 25
+[25-Nov-2025 16:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyString.php on line 25
+[25-Nov-2025 16:41:28 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LowercaseString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LowercaseString.php on line 25
+[25-Nov-2025 16:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/HtmlEscapedString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/HtmlEscapedString.php on line 25
+[25-Nov-2025 16:46:12 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ConstExpression.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ConstExpression.php on line 23
+[25-Nov-2025 16:46:57 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyArray.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyArray.php on line 26
+[25-Nov-2025 16:49:03 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NumericString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NumericString.php on line 25
+[25-Nov-2025 16:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShapeItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShapeItem.php on line 7
+[25-Nov-2025 16:51:01 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShapeItem.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShapeItem.php on line 16
+[25-Nov-2025 16:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/CallableString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/CallableString.php on line 25
+[25-Nov-2025 16:53:03 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NegativeInteger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NegativeInteger.php on line 25
+[25-Nov-2025 16:54:04 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ArrayShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShapeItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShapeItem.php on line 7
+[25-Nov-2025 16:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/PositiveInteger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/PositiveInteger.php on line 25
+[25-Nov-2025 16:57:06 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/TraitString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/TraitString.php on line 25
+[25-Nov-2025 16:58:10 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/StringValue.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/StringValue.php on line 23
+[25-Nov-2025 16:59:13 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyLowercaseString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyLowercaseString.php on line 25
+[25-Nov-2025 17:00:15 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\AggregatedType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/Numeric_.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/Numeric_.php on line 28
+[25-Nov-2025 17:01:16 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerValue.php on line 21
+[25-Nov-2025 17:02:16 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyList.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyList.php on line 27
+[25-Nov-2025 17:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerRange.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerRange.php on line 25
+[25-Nov-2025 17:04:25 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/FloatValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/FloatValue.php on line 21
+[25-Nov-2025 17:05:29 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/List_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/List_.php on line 27
+[25-Nov-2025 17:06:34 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShape.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShape.php on line 14
+[25-Nov-2025 17:07:36 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Boolean" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php on line 27
+[25-Nov-2025 17:09:44 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ArrayShape" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShape.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShape.php on line 10
+[25-Nov-2025 17:10:39 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShape.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShape.php on line 25
+[25-Nov-2025 17:12:45 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Boolean" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php on line 27
+[30-Nov-2025 10:02:10 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LiteralString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LiteralString.php on line 25
+[30-Nov-2025 10:03:12 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ArrayShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShapeItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShapeItem.php on line 7
+[30-Nov-2025 10:04:14 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/HtmlEscapedString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/HtmlEscapedString.php on line 25
+[30-Nov-2025 10:05:18 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ConstExpression.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ConstExpression.php on line 23
+[30-Nov-2025 10:06:24 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NegativeInteger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NegativeInteger.php on line 25
+[30-Nov-2025 10:07:25 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NumericString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NumericString.php on line 25
+[30-Nov-2025 10:08:27 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShapeItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShapeItem.php on line 7
+[30-Nov-2025 10:09:31 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/CallableString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/CallableString.php on line 25
+[30-Nov-2025 10:10:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LowercaseString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LowercaseString.php on line 25
+[30-Nov-2025 10:11:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyArray.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyArray.php on line 26
+[30-Nov-2025 10:12:39 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyString.php on line 25
+[30-Nov-2025 10:13:42 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShapeItem.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShapeItem.php on line 16
+[30-Nov-2025 10:15:49 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShape.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShape.php on line 14
+[30-Nov-2025 10:16:55 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/FloatValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/FloatValue.php on line 21
+[30-Nov-2025 10:17:59 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/StringValue.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/StringValue.php on line 23
+[30-Nov-2025 10:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerRange.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerRange.php on line 25
+[30-Nov-2025 10:21:13 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerValue.php on line 21
+[30-Nov-2025 10:22:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/TraitString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/TraitString.php on line 25
+[30-Nov-2025 10:23:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyList.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyList.php on line 27
+[30-Nov-2025 10:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/PositiveInteger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/PositiveInteger.php on line 25
+[30-Nov-2025 10:27:20 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ArrayShape" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShape.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShape.php on line 10
+[30-Nov-2025 10:28:26 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShape.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShape.php on line 25
+[30-Nov-2025 10:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyLowercaseString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyLowercaseString.php on line 25
+[30-Nov-2025 10:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Boolean" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php on line 27
+[30-Nov-2025 10:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Boolean" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php on line 27
+[30-Nov-2025 10:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\AggregatedType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/Numeric_.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/Numeric_.php on line 28
+[30-Nov-2025 10:34:44 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/List_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/List_.php on line 27
+[30-Nov-2025 10:48:24 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LowercaseString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LowercaseString.php on line 25
+[30-Nov-2025 10:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/CallableString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/CallableString.php on line 25
+[30-Nov-2025 10:50:24 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ConstExpression.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ConstExpression.php on line 23
+[30-Nov-2025 10:51:27 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LiteralString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/LiteralString.php on line 25
+[30-Nov-2025 10:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShapeItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShapeItem.php on line 7
+[30-Nov-2025 10:53:30 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShapeItem.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShapeItem.php on line 16
+[30-Nov-2025 10:54:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyArray.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyArray.php on line 26
+[30-Nov-2025 10:55:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NumericString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NumericString.php on line 25
+[30-Nov-2025 10:56:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/HtmlEscapedString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/HtmlEscapedString.php on line 25
+[30-Nov-2025 10:57:36 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NegativeInteger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NegativeInteger.php on line 25
+[30-Nov-2025 10:58:38 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyString.php on line 25
+[30-Nov-2025 10:59:40 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/PositiveInteger.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/PositiveInteger.php on line 25
+[30-Nov-2025 11:00:41 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Integer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerRange.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerRange.php on line 25
+[30-Nov-2025 11:01:45 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyLowercaseString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyLowercaseString.php on line 25
+[30-Nov-2025 11:02:48 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/IntegerValue.php on line 21
+[30-Nov-2025 11:03:52 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyList.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/NonEmptyList.php on line 27
+[30-Nov-2025 11:04:56 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/StringValue.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/StringValue.php on line 23
+[30-Nov-2025 11:05:57 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/FloatValue.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/FloatValue.php on line 21
+[30-Nov-2025 11:07:02 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShape.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ObjectShape.php on line 14
+[30-Nov-2025 11:08:04 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ArrayShapeItem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShapeItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShapeItem.php on line 7
+[30-Nov-2025 11:09:09 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\String_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/TraitString.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/TraitString.php on line 25
+[30-Nov-2025 11:10:15 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\AggregatedType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/Numeric_.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/Numeric_.php on line 28
+[30-Nov-2025 11:12:18 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Boolean" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/True_.php on line 27
+[30-Nov-2025 11:13:19 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Array_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/List_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/List_.php on line 27
+[30-Nov-2025 11:14:21 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\PseudoType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShape.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ArrayShape.php on line 25
+[30-Nov-2025 11:16:30 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\Types\Boolean" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/False_.php on line 27
+[30-Nov-2025 11:17:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\PseudoTypes\ArrayShape" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShape.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoTypes/ListShape.php on line 10

@@ -1,0 +1,12 @@
+[12-Nov-2025 10:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8
+[20-Nov-2025 08:15:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8
+[16-Dec-2025 22:15:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/container/src/NotFoundExceptionInterface.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/container/src/NotFoundExceptionInterface.php on line 8

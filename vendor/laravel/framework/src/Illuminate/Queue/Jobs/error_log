@@ -1,0 +1,78 @@
+[16-Nov-2025 15:24:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJobRecord.php on line 7
+[16-Nov-2025 15:28:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/Job.php on line 14
+[16-Nov-2025 15:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SyncJob.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SyncJob.php on line 8
+[16-Nov-2025 15:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SqsJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SqsJob.php on line 9
+[16-Nov-2025 15:47:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php on line 10
+[16-Nov-2025 15:50:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php on line 9
+[16-Nov-2025 15:53:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/FakeJob.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/FakeJob.php on line 8
+[16-Nov-2025 15:56:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJob.php on line 9
+[27-Nov-2025 12:09:01 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJobRecord.php on line 7
+[27-Nov-2025 12:09:06 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/Job.php on line 14
+[27-Nov-2025 12:09:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SyncJob.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SyncJob.php on line 8
+[27-Nov-2025 12:09:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SqsJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SqsJob.php on line 9
+[27-Nov-2025 12:09:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php on line 10
+[27-Nov-2025 12:10:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/FakeJob.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/FakeJob.php on line 8
+[27-Nov-2025 12:11:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php on line 9
+[27-Nov-2025 12:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJob.php on line 9
+[27-Nov-2025 12:25:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SyncJob.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SyncJob.php on line 8
+[27-Nov-2025 12:28:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/BeanstalkdJob.php on line 10
+[27-Nov-2025 12:29:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJobRecord.php on line 7
+[27-Nov-2025 12:30:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/FakeJob.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/FakeJob.php on line 8
+[27-Nov-2025 12:31:18 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/Job.php on line 14
+[27-Nov-2025 12:32:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/DatabaseJob.php on line 9
+[27-Nov-2025 12:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/RedisJob.php on line 9
+[27-Nov-2025 12:34:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Queue\Jobs\Job" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SqsJob.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Queue/Jobs/SqsJob.php on line 9

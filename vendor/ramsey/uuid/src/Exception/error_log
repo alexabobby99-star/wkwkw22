@@ -1,0 +1,244 @@
+[14-Nov-2025 07:10:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php on line 22
+[14-Nov-2025 07:12:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php on line 22
+[14-Nov-2025 07:17:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php on line 22
+[14-Nov-2025 07:18:43 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php on line 23
+[14-Nov-2025 07:21:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php on line 22
+[14-Nov-2025 07:23:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php on line 25
+[14-Nov-2025 07:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php on line 22
+[14-Nov-2025 07:28:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php on line 22
+[14-Nov-2025 07:28:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php on line 22
+[14-Nov-2025 09:32:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php on line 22
+[14-Nov-2025 09:35:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php on line 22
+[14-Nov-2025 12:34:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DateTimeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DateTimeException.php on line 22
+[14-Nov-2025 19:11:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php on line 22
+[14-Nov-2025 19:11:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php on line 25
+[14-Nov-2025 19:13:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php on line 22
+[14-Nov-2025 19:14:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php on line 22
+[14-Nov-2025 19:15:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php on line 22
+[14-Nov-2025 19:16:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php on line 22
+[14-Nov-2025 19:18:00 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php on line 23
+[14-Nov-2025 19:19:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php on line 22
+[14-Nov-2025 19:24:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php on line 22
+[14-Nov-2025 19:25:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php on line 22
+[14-Nov-2025 19:28:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php on line 22
+[14-Nov-2025 19:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DateTimeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DateTimeException.php on line 22
+[14-Nov-2025 19:41:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php on line 22
+[14-Nov-2025 19:42:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php on line 22
+[14-Nov-2025 19:44:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php on line 22
+[14-Nov-2025 19:45:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php on line 22
+[14-Nov-2025 19:46:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php on line 22
+[14-Nov-2025 19:47:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php on line 22
+[14-Nov-2025 19:49:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php on line 22
+[14-Nov-2025 19:50:35 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php on line 23
+[14-Nov-2025 19:51:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php on line 25
+[14-Nov-2025 19:54:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DateTimeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DateTimeException.php on line 22
+[14-Nov-2025 19:55:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php on line 22
+[14-Nov-2025 19:56:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php on line 22
+[14-Nov-2025 19:57:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php on line 22
+[14-Nov-2025 19:58:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php on line 22
+[14-Nov-2025 20:37:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php on line 22
+[14-Nov-2025 20:40:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php on line 22
+[14-Nov-2025 20:41:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php on line 22
+[14-Nov-2025 20:42:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php on line 25
+[14-Nov-2025 20:43:37 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php on line 23
+[14-Nov-2025 20:44:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php on line 22
+[14-Nov-2025 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php on line 22
+[14-Nov-2025 20:46:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php on line 22
+[14-Nov-2025 20:47:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php on line 22
+[14-Nov-2025 20:50:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php on line 22
+[14-Nov-2025 20:52:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php on line 22
+[14-Nov-2025 20:58:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DateTimeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DateTimeException.php on line 22
+[14-Nov-2025 21:01:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnableToBuildUuidException.php on line 22
+[14-Nov-2025 21:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/BuilderNotFoundException.php on line 22
+[14-Nov-2025 21:10:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidArgumentException.php on line 22
+[14-Nov-2025 21:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidUuidStringException.php on line 23
+[14-Nov-2025 21:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/TimeSourceException.php on line 22
+[14-Nov-2025 21:16:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/InvalidBytesException.php on line 22
+[14-Nov-2025 21:18:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/UnsupportedOperationException.php on line 22
+[14-Nov-2025 21:19:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/RandomSourceException.php on line 25
+[14-Nov-2025 21:23:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NodeException.php on line 22
+[14-Nov-2025 21:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/DceSecurityException.php on line 22
+[14-Nov-2025 21:26:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Exception\UuidExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Exception/NameException.php on line 22

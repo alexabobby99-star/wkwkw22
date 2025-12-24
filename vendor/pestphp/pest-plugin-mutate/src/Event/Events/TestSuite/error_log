@@ -1,0 +1,96 @@
+[23-Nov-2025 20:17:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGenerationSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGenerationSubscriber.php on line 9
+[23-Nov-2025 20:17:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGeneration.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGeneration.php on line 10
+[23-Nov-2025 20:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuite.php on line 10
+[23-Nov-2025 20:19:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuite.php on line 10
+[23-Nov-2025 20:23:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuiteSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuiteSubscriber.php on line 9
+[23-Nov-2025 20:24:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGenerationSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGenerationSubscriber.php on line 9
+[23-Nov-2025 20:27:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuiteSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuiteSubscriber.php on line 9
+[23-Nov-2025 20:28:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGeneration.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGeneration.php on line 10
+[25-Nov-2025 06:08:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGenerationSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGenerationSubscriber.php on line 9
+[25-Nov-2025 06:09:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuite.php on line 10
+[25-Nov-2025 06:11:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGeneration.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGeneration.php on line 10
+[25-Nov-2025 06:12:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuite.php on line 10
+[25-Nov-2025 06:15:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuiteSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuiteSubscriber.php on line 9
+[25-Nov-2025 06:16:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGenerationSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGenerationSubscriber.php on line 9
+[25-Nov-2025 06:17:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuiteSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuiteSubscriber.php on line 9
+[25-Nov-2025 06:22:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGeneration.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGeneration.php on line 10
+[25-Nov-2025 06:29:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuite.php on line 10
+[25-Nov-2025 06:29:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuiteSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationSuiteSubscriber.php on line 9
+[25-Nov-2025 06:31:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGeneration.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGeneration.php on line 10
+[25-Nov-2025 06:32:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuite.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuite.php on line 10
+[25-Nov-2025 06:33:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuiteSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationSuiteSubscriber.php on line 9
+[25-Nov-2025 06:34:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGenerationSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/StartMutationGenerationSubscriber.php on line 9
+[25-Nov-2025 06:35:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Subscriber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGenerationSubscriber.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGenerationSubscriber.php on line 9
+[25-Nov-2025 06:39:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGeneration.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Event/Events/TestSuite/FinishMutationGeneration.php on line 10

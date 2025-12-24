@@ -1,0 +1,68 @@
+[14-Nov-2025 15:31:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/OutOfBoundsException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/OutOfBoundsException.php on line 22
+[14-Nov-2025 15:35:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/CollectionMismatchException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/CollectionMismatchException.php on line 22
+[14-Nov-2025 15:36:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/NoSuchElementException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/NoSuchElementException.php on line 22
+[14-Nov-2025 15:39:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/UnsupportedOperationException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/UnsupportedOperationException.php on line 22
+[14-Nov-2025 15:42:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidPropertyOrMethod.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidPropertyOrMethod.php on line 24
+[14-Nov-2025 15:45:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidArgumentException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidArgumentException.php on line 22
+[16-Nov-2025 14:17:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/CollectionMismatchException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/CollectionMismatchException.php on line 22
+[16-Nov-2025 14:19:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/UnsupportedOperationException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/UnsupportedOperationException.php on line 22
+[16-Nov-2025 14:20:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidArgumentException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidArgumentException.php on line 22
+[16-Nov-2025 14:21:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/OutOfBoundsException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/OutOfBoundsException.php on line 22
+[16-Nov-2025 14:22:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/NoSuchElementException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/NoSuchElementException.php on line 22
+[16-Nov-2025 14:24:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidPropertyOrMethod.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidPropertyOrMethod.php on line 24
+[16-Nov-2025 14:50:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidPropertyOrMethod.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidPropertyOrMethod.php on line 24
+[16-Nov-2025 14:53:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/CollectionMismatchException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/CollectionMismatchException.php on line 22
+[16-Nov-2025 14:54:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidArgumentException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/InvalidArgumentException.php on line 22
+[16-Nov-2025 14:56:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/UnsupportedOperationException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/UnsupportedOperationException.php on line 22
+[16-Nov-2025 14:58:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\Exception\CollectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/NoSuchElementException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Exception/NoSuchElementException.php on line 22

@@ -1,0 +1,4 @@
+[19-Nov-2025 15:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\CacheableDelimiterProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/CommonMark/Delimiter/Processor/EmphasisDelimiterProcessor.php on line 30

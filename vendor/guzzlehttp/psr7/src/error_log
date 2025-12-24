@@ -1,0 +1,163 @@
+[12-Nov-2025 14:42:52 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[12-Nov-2025 14:45:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php on line 17
+[12-Nov-2025 15:33:18 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[12-Nov-2025 17:50:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UploadedFileInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php on line 12
+[12-Nov-2025 18:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/PumpStream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/PumpStream.php on line 19
+[12-Nov-2025 18:43:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Stream.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Stream.php on line 12
+[12-Nov-2025 20:02:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UriInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Uri.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Uri.php on line 17
+[12-Nov-2025 20:34:53 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/CachingStream.php on line 13
+[12-Nov-2025 20:37:44 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/LazyOpenStream.php on line 13
+[12-Nov-2025 20:45:58 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[13-Nov-2025 00:53:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/AppendStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/AppendStream.php on line 14
+[13-Nov-2025 00:53:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/FnStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/FnStream.php on line 16
+[13-Nov-2025 00:56:03 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Request.php on line 15
+[13-Nov-2025 00:58:03 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Response.php on line 13
+[13-Nov-2025 01:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestFactoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/HttpFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/HttpFactory.php on line 26
+[13-Nov-2025 01:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Psr7\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php on line 27
+[13-Nov-2025 11:33:38 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13
+[17-Nov-2025 05:53:45 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[17-Nov-2025 05:54:07 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/CachingStream.php on line 13
+[17-Nov-2025 05:55:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php on line 17
+[17-Nov-2025 05:56:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UploadedFileInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php on line 12
+[17-Nov-2025 05:57:16 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[17-Nov-2025 06:03:36 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Psr7\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php on line 27
+[17-Nov-2025 06:04:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/FnStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/FnStream.php on line 16
+[17-Nov-2025 06:07:38 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Request.php on line 15
+[17-Nov-2025 06:08:30 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13
+[17-Nov-2025 06:09:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/AppendStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/AppendStream.php on line 14
+[17-Nov-2025 06:10:37 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/DroppingStream.php on line 13
+[17-Nov-2025 06:11:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestFactoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/HttpFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/HttpFactory.php on line 26
+[17-Nov-2025 06:12:44 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Response.php on line 13
+[17-Nov-2025 06:14:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php on line 17
+[17-Nov-2025 06:15:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UploadedFileInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php on line 12
+[17-Nov-2025 06:16:45 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Psr7\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php on line 27
+[17-Nov-2025 06:18:56 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[17-Nov-2025 06:19:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/FnStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/FnStream.php on line 16
+[17-Nov-2025 06:20:53 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/CachingStream.php on line 13
+[17-Nov-2025 06:21:58 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[17-Nov-2025 06:24:58 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Psr7\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php on line 27
+[17-Nov-2025 06:25:51 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/DroppingStream.php on line 13
+[17-Nov-2025 06:26:53 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Response.php on line 13
+[17-Nov-2025 06:27:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/AppendStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/AppendStream.php on line 14
+[17-Nov-2025 06:28:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UploadedFileInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php on line 12
+[17-Nov-2025 06:31:02 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13
+[17-Nov-2025 06:31:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestFactoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/HttpFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/HttpFactory.php on line 26
+[17-Nov-2025 06:33:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php on line 17
+[17-Nov-2025 06:34:04 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Request.php on line 15
+[17-Dec-2025 02:22:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/BufferStream.php on line 17
+[17-Dec-2025 02:23:00 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/NoSeekStream.php on line 12
+[17-Dec-2025 03:15:47 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/LimitStream.php on line 12
+[17-Dec-2025 05:29:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UploadedFileInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/UploadedFile.php on line 12
+[17-Dec-2025 06:06:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/PumpStream.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/PumpStream.php on line 19
+[17-Dec-2025 06:10:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Stream.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Stream.php on line 12
+[17-Dec-2025 07:34:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\UriInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Uri.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Uri.php on line 17
+[17-Dec-2025 07:55:41 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/CachingStream.php on line 13
+[17-Dec-2025 07:56:47 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/LazyOpenStream.php on line 13
+[17-Dec-2025 08:05:23 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/InflateStream.php on line 20
+[17-Dec-2025 12:15:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/AppendStream.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/AppendStream.php on line 14
+[17-Dec-2025 12:19:07 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Response.php on line 13
+[17-Dec-2025 12:22:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\StreamInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/FnStream.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/FnStream.php on line 16
+[17-Dec-2025 12:23:26 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\MessageTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/Request.php on line 15
+[17-Dec-2025 12:55:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestFactoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/HttpFactory.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/HttpFactory.php on line 26
+[17-Dec-2025 12:57:31 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Psr7\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/ServerRequest.php on line 27
+[17-Dec-2025 12:58:26 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/DroppingStream.php on line 13
+[17-Dec-2025 22:04:06 UTC] PHP Fatal error:  Trait "GuzzleHttp\Psr7\StreamDecoratorTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/psr7/src/MultipartStream.php on line 13

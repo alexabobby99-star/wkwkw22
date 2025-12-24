@@ -1,0 +1,24 @@
+[17-Nov-2025 11:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php on line 15
+[26-Nov-2025 06:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php on line 15
+[26-Nov-2025 07:02:31 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php on line 15
+[26-Nov-2025 07:20:59 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php on line 15
+[26-Nov-2025 15:16:35 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php on line 15
+[26-Nov-2025 15:26:17 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Laravel/Remove/LaravelRemoveStringableUpper.php on line 15

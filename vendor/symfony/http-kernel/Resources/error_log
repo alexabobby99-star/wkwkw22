@@ -1,0 +1,12 @@
+[12-Nov-2025 03:30:10 UTC] PHP Warning:  Undefined variable $version in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 242
+[12-Nov-2025 03:30:10 UTC] PHP Warning:  Undefined variable $version in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 250
+[12-Nov-2025 03:30:10 UTC] PHP Warning:  Undefined variable $projectDir in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 255
+[12-Nov-2025 03:30:10 UTC] PHP Warning:  Undefined variable $docVersion in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 260
+[12-Nov-2025 03:30:10 UTC] PHP Warning:  Undefined variable $docVersion in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 268
+[12-Nov-2025 03:30:10 UTC] PHP Warning:  Undefined variable $docVersion in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 291
+[16-Dec-2025 14:26:47 UTC] PHP Warning:  Undefined variable $version in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 242
+[16-Dec-2025 14:26:47 UTC] PHP Warning:  Undefined variable $version in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 250
+[16-Dec-2025 14:26:47 UTC] PHP Warning:  Undefined variable $projectDir in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 255
+[16-Dec-2025 14:26:47 UTC] PHP Warning:  Undefined variable $docVersion in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 260
+[16-Dec-2025 14:26:47 UTC] PHP Warning:  Undefined variable $docVersion in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 268
+[16-Dec-2025 14:26:47 UTC] PHP Warning:  Undefined variable $docVersion in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Resources/welcome.html.php on line 291

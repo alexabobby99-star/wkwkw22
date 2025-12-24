@@ -1,0 +1,52 @@
+[12-Nov-2025 19:30:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderTestCase.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderTestCase.php on line 30
+[12-Nov-2025 19:32:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/AbstractProviderFactoryTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/AbstractProviderFactoryTestCase.php on line 20
+[12-Nov-2025 20:31:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Test\AbstractProviderFactoryTestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 29
+[20-Nov-2025 14:10:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/AbstractProviderFactoryTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/AbstractProviderFactoryTestCase.php on line 20
+[20-Nov-2025 14:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderTestCase.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderTestCase.php on line 30
+[20-Nov-2025 14:16:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Test\AbstractProviderFactoryTestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 29
+[20-Nov-2025 14:39:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Test\AbstractProviderFactoryTestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 29
+[20-Nov-2025 15:08:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Test\AbstractProviderFactoryTestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 29
+[20-Nov-2025 15:39:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Test\AbstractProviderFactoryTestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 29
+[20-Nov-2025 17:25:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Test\AbstractProviderFactoryTestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 29
+[17-Dec-2025 06:23:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderTestCase.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderTestCase.php on line 30
+[17-Dec-2025 06:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/AbstractProviderFactoryTestCase.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/AbstractProviderFactoryTestCase.php on line 20
+[17-Dec-2025 07:50:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Test\AbstractProviderFactoryTestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Test/ProviderFactoryTestCase.php on line 29

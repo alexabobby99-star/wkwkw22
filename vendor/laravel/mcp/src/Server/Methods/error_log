@@ -1,0 +1,23 @@
+[16-Nov-2025 18:40:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Method" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/Ping.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/Ping.php on line 12
+[18-Nov-2025 14:17:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Method" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/ListPrompts.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/ListPrompts.php on line 13
+[18-Nov-2025 14:20:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Method" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/ListTools.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/ListTools.php on line 13
+[18-Nov-2025 19:18:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Method" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/Initialize.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/Initialize.php on line 13
+[18-Nov-2025 21:57:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Method" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/ListResources.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/ListResources.php on line 13
+[19-Nov-2025 19:00:52 UTC] PHP Fatal error:  Trait "Laravel\Mcp\Server\Methods\Concerns\InteractsWithResponses" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/CallTool.php on line 22
+[24-Nov-2025 08:21:59 UTC] PHP Fatal error:  Trait "Laravel\Mcp\Server\Methods\Concerns\InteractsWithResponses" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/GetPrompt.php on line 21
+[24-Nov-2025 09:24:17 UTC] PHP Fatal error:  Trait "Laravel\Mcp\Server\Methods\Concerns\InteractsWithResponses" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Methods/ReadResource.php on line 21

@@ -1,0 +1,60 @@
+[11-Nov-2025 17:51:54 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[13-Nov-2025 06:13:28 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[13-Nov-2025 10:29:54 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[14-Nov-2025 15:54:46 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[21-Nov-2025 17:50:04 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[21-Nov-2025 17:52:10 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[21-Nov-2025 17:53:05 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[21-Nov-2025 17:58:51 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[21-Nov-2025 18:08:41 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[21-Nov-2025 18:15:02 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[21-Nov-2025 18:17:04 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[21-Nov-2025 18:28:36 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7
+[06-Dec-2025 15:48:23 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[06-Dec-2025 15:49:34 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[16-Dec-2025 05:44:00 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Pool.php on line 24
+[17-Dec-2025 17:29:00 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\MessageFormatterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/MessageFormatter.php on line 38
+[17-Dec-2025 21:18:01 UTC] PHP Fatal error:  Trait "GuzzleHttp\ClientTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/Client.php on line 17
+[18-Dec-2025 06:36:41 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\BodySummarizerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/BodySummarizer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/guzzle/src/BodySummarizer.php on line 7

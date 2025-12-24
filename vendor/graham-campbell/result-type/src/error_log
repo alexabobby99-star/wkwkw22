@@ -1,0 +1,24 @@
+[24-Nov-2025 20:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Error.php on line 25
+[25-Nov-2025 03:36:07 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Success.php on line 25
+[25-Nov-2025 19:28:35 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Error.php on line 25
+[25-Nov-2025 19:32:06 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Success.php on line 25
+[25-Nov-2025 19:41:28 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Error.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Error.php on line 25
+[25-Nov-2025 19:44:24 UTC] PHP Fatal error:  Uncaught Error: Class "GrahamCampbell\ResultType\Result" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Success.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/graham-campbell/result-type/src/Success.php on line 25

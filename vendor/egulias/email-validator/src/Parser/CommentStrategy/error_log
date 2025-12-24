@@ -1,0 +1,32 @@
+[15-Nov-2025 10:01:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[18-Nov-2025 21:18:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[18-Nov-2025 21:34:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[19-Nov-2025 00:33:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[19-Nov-2025 01:03:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[19-Nov-2025 01:35:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[19-Nov-2025 02:15:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11
+[19-Nov-2025 02:49:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Egulias\EmailValidator\Parser\CommentStrategy\CommentStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/egulias/email-validator/src/Parser/CommentStrategy/DomainComment.php on line 11

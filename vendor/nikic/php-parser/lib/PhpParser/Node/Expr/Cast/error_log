@@ -1,0 +1,32 @@
+[30-Nov-2025 17:26:48 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Double.php on line 7
+[30-Nov-2025 17:27:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/String_.php on line 7
+[30-Nov-2025 17:54:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Object_.php on line 7
+[30-Nov-2025 18:26:45 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Array_.php on line 7
+[30-Nov-2025 18:29:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Unset_.php on line 7
+[30-Nov-2025 18:36:31 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Void_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Void_.php on line 7
+[30-Nov-2025 18:41:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Int_.php on line 7
+[30-Nov-2025 18:42:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr\Cast" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr/Cast/Bool_.php on line 7

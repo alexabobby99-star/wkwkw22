@@ -1,0 +1,60 @@
+[15-Nov-2025 09:20:26 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[15-Nov-2025 09:58:57 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[15-Nov-2025 10:11:33 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[15-Nov-2025 10:50:05 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[15-Nov-2025 11:21:02 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[15-Nov-2025 11:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[19-Nov-2025 15:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php on line 19
+[26-Nov-2025 23:53:13 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[27-Nov-2025 00:11:04 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php on line 19
+[27-Nov-2025 00:52:10 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[27-Nov-2025 01:01:32 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php on line 19
+[27-Nov-2025 01:46:14 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php on line 19
+[27-Nov-2025 01:48:16 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18
+[27-Nov-2025 02:06:15 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnNull.php on line 19
+[27-Nov-2025 02:09:26 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Return/AlwaysReturnEmptyArray.php on line 18

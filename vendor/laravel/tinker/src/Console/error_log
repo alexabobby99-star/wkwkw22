@@ -1,0 +1,4 @@
+[14-Nov-2025 15:46:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/tinker/src/Console/TinkerCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/tinker/src/Console/TinkerCommand.php on line 14

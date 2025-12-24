@@ -1,0 +1,16 @@
+[30-Nov-2025 20:19:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Parser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[30-Nov-2025 21:48:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Parser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[30-Nov-2025 21:59:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Parser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[30-Nov-2025 22:14:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Parser.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Parser.php on line 28

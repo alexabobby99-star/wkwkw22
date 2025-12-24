@@ -1,0 +1,20 @@
+[18-Nov-2025 16:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Methods\ObjectMethodsDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php on line 16
+[22-Nov-2025 10:09:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Methods\ObjectMethodsDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php on line 16
+[22-Nov-2025 10:18:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Methods\ObjectMethodsDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php on line 16
+[22-Nov-2025 10:29:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Methods\ObjectMethodsDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php on line 16
+[18-Dec-2025 09:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Methods\ObjectMethodsDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Properties/ObjectPropertiesDescription.php on line 16

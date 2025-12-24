@@ -1,0 +1,36 @@
+[14-Nov-2025 05:49:14 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[14-Nov-2025 05:51:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[14-Nov-2025 05:59:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[16-Nov-2025 19:06:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[16-Nov-2025 19:08:12 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[16-Nov-2025 19:09:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28
+[16-Nov-2025 19:13:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentInterface.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentInterface.php on line 26
+[16-Nov-2025 19:14:22 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/Environment.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/Environment.php on line 47
+[16-Nov-2025 19:22:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Environment/EnvironmentBuilderInterface.php on line 28

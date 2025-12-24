@@ -1,0 +1,20 @@
+[22-Nov-2025 09:36:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Processors\Processor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SqlServerProcessor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SqlServerProcessor.php on line 9
+[22-Nov-2025 09:41:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Processors\MySqlProcessor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/MariaDbProcessor.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/MariaDbProcessor.php on line 5
+[22-Nov-2025 23:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Processors\Processor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/PostgresProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/PostgresProcessor.php on line 7
+[23-Nov-2025 00:07:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Processors\Processor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SQLiteProcessor.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/SQLiteProcessor.php on line 5
+[23-Nov-2025 04:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Processors\Processor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/MySqlProcessor.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Processors/MySqlProcessor.php on line 7

@@ -1,0 +1,12 @@
+[17-Nov-2025 09:42:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Elements\ObjectDescriptionBase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Dependencies/ObjectDependenciesDescription.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Dependencies/ObjectDependenciesDescription.php on line 20
+[22-Nov-2025 10:29:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Elements\ObjectDescriptionBase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Dependencies/ObjectDependenciesDescription.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Dependencies/ObjectDependenciesDescription.php on line 20
+[18-Dec-2025 09:24:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Elements\ObjectDescriptionBase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Dependencies/ObjectDependenciesDescription.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Dependencies/ObjectDependenciesDescription.php on line 20

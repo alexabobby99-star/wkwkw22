@@ -1,0 +1,42 @@
+[16-Nov-2025 09:08:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 23
+[16-Nov-2025 16:26:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 21
+[18-Nov-2025 00:20:49 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 17
+[20-Nov-2025 23:29:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/LazyCollection.php on line 26
+[23-Nov-2025 17:52:11 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 23
+[23-Nov-2025 17:59:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 21
+[23-Nov-2025 18:03:07 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 17
+[23-Nov-2025 18:19:55 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/LazyCollection.php on line 26
+[23-Nov-2025 22:12:02 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 23
+[23-Nov-2025 22:16:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 21
+[23-Nov-2025 22:21:26 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 17
+[23-Nov-2025 22:24:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/LazyCollection.php on line 26
+[23-Nov-2025 23:02:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 21
+[23-Nov-2025 23:03:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 23
+[23-Nov-2025 23:10:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 17
+[23-Nov-2025 23:20:47 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/LazyCollection.php on line 26
+[24-Nov-2025 01:34:48 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 17
+[24-Nov-2025 01:35:37 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 23
+[24-Nov-2025 01:36:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 21
+[24-Nov-2025 01:42:52 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/LazyCollection.php on line 26
+[18-Dec-2025 15:27:01 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Collection.php on line 23
+[18-Dec-2025 16:03:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 21
+[18-Dec-2025 17:03:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/Arr.php on line 17
+[18-Dec-2025 18:04:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\EnumeratesValues" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Collections/LazyCollection.php on line 26

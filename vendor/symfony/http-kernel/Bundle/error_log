@@ -1,0 +1,56 @@
+[12-Nov-2025 20:47:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[13-Nov-2025 10:46:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[14-Nov-2025 01:17:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[19-Nov-2025 10:53:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[19-Nov-2025 10:55:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[19-Nov-2025 11:02:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[19-Nov-2025 11:08:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[19-Nov-2025 11:10:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[19-Nov-2025 11:17:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25
+[19-Nov-2025 11:18:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[19-Nov-2025 11:25:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[17-Dec-2025 08:06:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Bundle\Bundle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/AbstractBundle.php on line 26
+[17-Dec-2025 21:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Extension\Extension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/BundleExtension.php on line 28
+[18-Dec-2025 04:24:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Bundle\BundleInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/Bundle.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Bundle/Bundle.php on line 25

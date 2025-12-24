@@ -1,0 +1,203 @@
+[15-Nov-2025 09:13:38 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypelessParamTagValueNode.php on line 8
+[15-Nov-2025 09:14:24 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueParameterNode.php on line 10
+[15-Nov-2025 09:18:29 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagPropertyValueNode.php on line 9
+[15-Nov-2025 09:19:26 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagMethodValueNode.php on line 9
+[17-Nov-2025 04:15:01 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasTagValueNode.php on line 9
+[17-Nov-2025 04:15:55 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ImplementsTagValueNode.php on line 9
+[17-Nov-2025 09:02:12 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireImplementsTagValueNode.php on line 9
+[17-Nov-2025 10:00:31 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/DeprecatedTagValueNode.php on line 8
+[17-Nov-2025 19:09:43 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamClosureThisTagValueNode.php on line 9
+[17-Nov-2025 23:59:13 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TemplateTagValueNode.php on line 9
+[18-Nov-2025 00:00:14 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ExtendsTagValueNode.php on line 9
+[18-Nov-2025 00:05:13 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/GenericTagValueNode.php on line 7
+[18-Nov-2025 06:24:37 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SelfOutTagValueNode.php on line 9
+[18-Nov-2025 10:14:04 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ReturnTagValueNode.php on line 9
+[18-Nov-2025 11:41:47 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PropertyTagValueNode.php on line 9
+[18-Nov-2025 15:12:25 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MixinTagValueNode.php on line 9
+[18-Nov-2025 15:29:50 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasImportTagValueNode.php on line 9
+[18-Nov-2025 15:36:48 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SealedTagValueNode.php on line 9
+[18-Nov-2025 15:44:52 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueNode.php on line 10
+[18-Nov-2025 15:46:34 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagValueNode.php on line 9
+[18-Nov-2025 15:49:42 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ThrowsTagValueNode.php on line 9
+[18-Nov-2025 18:01:44 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/VarTagValueNode.php on line 9
+[18-Nov-2025 21:52:21 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/UsesTagValueNode.php on line 9
+[18-Nov-2025 21:53:24 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamTagValueNode.php on line 9
+[19-Nov-2025 10:31:14 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamLaterInvokedCallableTagValueNode.php on line 8
+[19-Nov-2025 10:36:22 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PureUnlessCallableIsImpureTagValueNode.php on line 8
+[20-Nov-2025 12:21:27 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamImmediatelyInvokedCallableTagValueNode.php on line 8
+[20-Nov-2025 13:51:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php on line 7
+[21-Nov-2025 17:01:59 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php on line 7
+[23-Nov-2025 08:47:11 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagNode.php on line 9
+[23-Nov-2025 17:11:25 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTextNode.php on line 7
+[24-Nov-2025 19:26:40 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocNode.php on line 12
+[27-Nov-2025 14:08:48 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueParameterNode.php on line 10
+[27-Nov-2025 14:09:52 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypelessParamTagValueNode.php on line 8
+[27-Nov-2025 14:10:54 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagPropertyValueNode.php on line 9
+[27-Nov-2025 14:13:54 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagMethodValueNode.php on line 9
+[27-Nov-2025 14:14:56 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasTagValueNode.php on line 9
+[27-Nov-2025 14:15:57 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TemplateTagValueNode.php on line 9
+[27-Nov-2025 14:17:00 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ExtendsTagValueNode.php on line 9
+[27-Nov-2025 14:18:01 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/DeprecatedTagValueNode.php on line 8
+[27-Nov-2025 14:19:03 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ImplementsTagValueNode.php on line 9
+[27-Nov-2025 14:20:07 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/GenericTagValueNode.php on line 7
+[27-Nov-2025 14:21:07 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamOutTagValueNode.php on line 9
+[27-Nov-2025 14:22:12 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireImplementsTagValueNode.php on line 9
+[27-Nov-2025 14:23:18 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamClosureThisTagValueNode.php on line 9
+[27-Nov-2025 14:24:22 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/InvalidTagValueNode.php on line 14
+[27-Nov-2025 14:25:23 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SelfOutTagValueNode.php on line 9
+[27-Nov-2025 14:26:27 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ThrowsTagValueNode.php on line 9
+[27-Nov-2025 14:27:32 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/VarTagValueNode.php on line 9
+[27-Nov-2025 14:28:34 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MixinTagValueNode.php on line 9
+[27-Nov-2025 14:29:37 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueNode.php on line 10
+[27-Nov-2025 14:30:39 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SealedTagValueNode.php on line 9
+[27-Nov-2025 14:31:40 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagValueNode.php on line 9
+[27-Nov-2025 14:32:40 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireExtendsTagValueNode.php on line 9
+[27-Nov-2025 14:33:41 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ReturnTagValueNode.php on line 9
+[27-Nov-2025 14:34:46 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasImportTagValueNode.php on line 9
+[27-Nov-2025 14:35:52 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PropertyTagValueNode.php on line 9
+[27-Nov-2025 14:36:53 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/UsesTagValueNode.php on line 9
+[27-Nov-2025 14:39:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php on line 7
+[27-Nov-2025 14:41:03 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamLaterInvokedCallableTagValueNode.php on line 8
+[27-Nov-2025 14:42:05 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php on line 7
+[27-Nov-2025 14:45:27 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PureUnlessCallableIsImpureTagValueNode.php on line 8
+[27-Nov-2025 14:46:20 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamTagValueNode.php on line 9
+[27-Nov-2025 14:47:41 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamImmediatelyInvokedCallableTagValueNode.php on line 8
+[27-Nov-2025 14:48:23 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagNode.php on line 9
+[27-Nov-2025 14:50:29 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTextNode.php on line 7
+[27-Nov-2025 14:54:21 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocNode.php on line 12
+[27-Nov-2025 14:58:42 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueParameterNode.php on line 10
+[27-Nov-2025 15:08:17 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypelessParamTagValueNode.php on line 8
+[27-Nov-2025 15:09:22 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasTagValueNode.php on line 9
+[27-Nov-2025 15:10:28 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireImplementsTagValueNode.php on line 9
+[27-Nov-2025 15:11:33 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ImplementsTagValueNode.php on line 9
+[27-Nov-2025 15:12:35 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagPropertyValueNode.php on line 9
+[27-Nov-2025 15:13:40 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueParameterNode.php on line 10
+[27-Nov-2025 15:14:40 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagMethodValueNode.php on line 9
+[27-Nov-2025 15:17:44 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/DeprecatedTagValueNode.php on line 8
+[27-Nov-2025 15:19:53 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamClosureThisTagValueNode.php on line 9
+[27-Nov-2025 15:20:55 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PropertyTagValueNode.php on line 9
+[27-Nov-2025 15:21:57 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireExtendsTagValueNode.php on line 9
+[27-Nov-2025 15:23:02 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TemplateTagValueNode.php on line 9
+[27-Nov-2025 15:24:03 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SelfOutTagValueNode.php on line 9
+[27-Nov-2025 15:25:05 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ExtendsTagValueNode.php on line 9
+[27-Nov-2025 15:26:11 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ReturnTagValueNode.php on line 9
+[27-Nov-2025 15:27:13 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamOutTagValueNode.php on line 9
+[27-Nov-2025 15:28:18 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/GenericTagValueNode.php on line 7
+[27-Nov-2025 15:29:22 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/InvalidTagValueNode.php on line 14
+[27-Nov-2025 15:30:26 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MixinTagValueNode.php on line 9
+[27-Nov-2025 15:31:28 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SealedTagValueNode.php on line 9
+[27-Nov-2025 15:32:33 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamTagValueNode.php on line 9
+[27-Nov-2025 15:33:35 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/VarTagValueNode.php on line 9
+[27-Nov-2025 15:34:40 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/UsesTagValueNode.php on line 9
+[27-Nov-2025 15:35:43 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueNode.php on line 10
+[27-Nov-2025 15:36:48 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasImportTagValueNode.php on line 9
+[27-Nov-2025 15:38:55 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagValueNode.php on line 9
+[27-Nov-2025 15:41:02 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ThrowsTagValueNode.php on line 9
+[27-Nov-2025 15:42:05 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamLaterInvokedCallableTagValueNode.php on line 8
+[27-Nov-2025 15:45:17 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PureUnlessCallableIsImpureTagValueNode.php on line 8
+[27-Nov-2025 15:46:22 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocNode.php on line 12
+[27-Nov-2025 15:47:24 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTextNode.php on line 7
+[27-Nov-2025 15:48:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php on line 7
+[27-Nov-2025 15:50:33 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php on line 7
+[27-Nov-2025 15:51:37 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagNode.php on line 9
+[27-Nov-2025 15:52:38 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamImmediatelyInvokedCallableTagValueNode.php on line 8
+[27-Nov-2025 16:04:45 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueParameterNode.php on line 10
+[27-Nov-2025 16:08:53 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagMethodValueNode.php on line 9
+[27-Nov-2025 16:13:05 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypelessParamTagValueNode.php on line 8
+[27-Nov-2025 16:14:08 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagPropertyValueNode.php on line 9
+[27-Nov-2025 16:15:14 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamClosureThisTagValueNode.php on line 9
+[27-Nov-2025 16:16:15 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamOutTagValueNode.php on line 9
+[27-Nov-2025 16:17:15 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ExtendsTagValueNode.php on line 9
+[27-Nov-2025 16:18:15 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireImplementsTagValueNode.php on line 9
+[27-Nov-2025 16:19:19 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TemplateTagValueNode.php on line 9
+[27-Nov-2025 16:20:23 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/DeprecatedTagValueNode.php on line 8
+[27-Nov-2025 16:21:23 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/GenericTagValueNode.php on line 7
+[27-Nov-2025 16:22:27 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/InvalidTagValueNode.php on line 14
+[27-Nov-2025 16:23:32 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ImplementsTagValueNode.php on line 9
+[27-Nov-2025 16:24:37 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasTagValueNode.php on line 9
+[27-Nov-2025 16:25:39 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SelfOutTagValueNode.php on line 9
+[27-Nov-2025 16:26:41 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasImportTagValueNode.php on line 9
+[27-Nov-2025 16:27:44 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ReturnTagValueNode.php on line 9
+[27-Nov-2025 16:28:47 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/VarTagValueNode.php on line 9
+[27-Nov-2025 16:29:51 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PropertyTagValueNode.php on line 9
+[27-Nov-2025 16:30:54 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagValueNode.php on line 9
+[27-Nov-2025 16:31:56 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ThrowsTagValueNode.php on line 9
+[27-Nov-2025 16:32:57 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueNode.php on line 10
+[27-Nov-2025 16:33:59 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireExtendsTagValueNode.php on line 9
+[27-Nov-2025 16:35:01 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SealedTagValueNode.php on line 9
+[27-Nov-2025 16:36:02 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MixinTagValueNode.php on line 9
+[27-Nov-2025 16:37:08 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/UsesTagValueNode.php on line 9
+[27-Nov-2025 16:38:10 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamImmediatelyInvokedCallableTagValueNode.php on line 8
+[27-Nov-2025 16:39:13 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamTagValueNode.php on line 9
+[27-Nov-2025 16:40:18 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php on line 7
+[27-Nov-2025 16:41:19 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocNode.php on line 12
+[27-Nov-2025 16:43:28 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php on line 7
+[27-Nov-2025 16:44:34 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagNode.php on line 9
+[27-Nov-2025 16:45:34 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamLaterInvokedCallableTagValueNode.php on line 8
+[27-Nov-2025 16:46:36 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PureUnlessCallableIsImpureTagValueNode.php on line 8
+[27-Nov-2025 16:47:36 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTextNode.php on line 7
+[18-Dec-2025 10:11:25 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueParameterNode.php on line 10
+[18-Dec-2025 10:12:26 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypelessParamTagValueNode.php on line 8
+[18-Dec-2025 10:24:27 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagPropertyValueNode.php on line 9
+[18-Dec-2025 10:26:10 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagMethodValueNode.php on line 9
+[18-Dec-2025 10:27:16 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasTagValueNode.php on line 9
+[18-Dec-2025 10:28:21 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ImplementsTagValueNode.php on line 9
+[18-Dec-2025 10:29:21 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireImplementsTagValueNode.php on line 9
+[18-Dec-2025 10:30:25 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/DeprecatedTagValueNode.php on line 8
+[18-Dec-2025 10:32:30 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamClosureThisTagValueNode.php on line 9
+[18-Dec-2025 11:00:53 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/GenericTagValueNode.php on line 7
+[18-Dec-2025 11:01:59 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TemplateTagValueNode.php on line 9
+[18-Dec-2025 11:03:05 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/InvalidTagValueNode.php on line 14
+[18-Dec-2025 11:04:08 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ExtendsTagValueNode.php on line 9
+[18-Dec-2025 11:05:09 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamOutTagValueNode.php on line 9
+[18-Dec-2025 11:06:09 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SelfOutTagValueNode.php on line 9
+[18-Dec-2025 11:08:16 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/RequireExtendsTagValueNode.php on line 9
+[18-Dec-2025 11:09:18 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ReturnTagValueNode.php on line 9
+[18-Dec-2025 11:12:27 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PropertyTagValueNode.php on line 9
+[18-Dec-2025 11:13:32 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MixinTagValueNode.php on line 9
+[18-Dec-2025 11:14:37 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/TypeAliasImportTagValueNode.php on line 9
+[18-Dec-2025 11:15:43 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/AssertTagValueNode.php on line 9
+[18-Dec-2025 11:18:53 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/MethodTagValueNode.php on line 10
+[18-Dec-2025 11:19:58 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ThrowsTagValueNode.php on line 9
+[18-Dec-2025 11:21:02 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/SealedTagValueNode.php on line 9
+[18-Dec-2025 11:23:04 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/VarTagValueNode.php on line 9
+[18-Dec-2025 11:25:07 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamTagValueNode.php on line 9
+[18-Dec-2025 11:26:11 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/UsesTagValueNode.php on line 9
+[18-Dec-2025 11:29:17 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamLaterInvokedCallableTagValueNode.php on line 8
+[18-Dec-2025 11:30:22 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PureUnlessCallableIsImpureTagValueNode.php on line 8
+[18-Dec-2025 12:10:49 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/ParamImmediatelyInvokedCallableTagValueNode.php on line 8
+[18-Dec-2025 12:32:50 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagValueNode.php on line 7
+[18-Dec-2025 12:40:02 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\PhpDocParser\Ast\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocChildNode.php on line 7
+[18-Dec-2025 18:31:34 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTagNode.php on line 9
+[18-Dec-2025 18:32:39 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocTextNode.php on line 7
+[18-Dec-2025 18:42:10 UTC] PHP Fatal error:  Trait "PHPStan\PhpDocParser\Ast\NodeAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpstan/phpdoc-parser/src/Ast/PhpDoc/PhpDocNode.php on line 12

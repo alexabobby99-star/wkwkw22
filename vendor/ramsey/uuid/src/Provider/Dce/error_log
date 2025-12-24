@@ -1,0 +1,8 @@
+[15-Nov-2025 04:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35
+[17-Nov-2025 02:45:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\DceSecurityProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Provider/Dce/SystemDceSecurityProvider.php on line 35

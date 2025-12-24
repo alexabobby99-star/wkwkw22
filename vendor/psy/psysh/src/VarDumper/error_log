@@ -1,0 +1,16 @@
+[15-Nov-2025 12:43:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\VarCloner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/VarDumper/Cloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/VarDumper/Cloner.php on line 22
+[15-Nov-2025 16:29:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\VarCloner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/VarDumper/Cloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/VarDumper/Cloner.php on line 22
+[15-Nov-2025 16:57:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\VarCloner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/VarDumper/Cloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/VarDumper/Cloner.php on line 22
+[17-Nov-2025 06:43:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\CliDumper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/VarDumper/Dumper.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/VarDumper/Dumper.php on line 21

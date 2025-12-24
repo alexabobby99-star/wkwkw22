@@ -1,0 +1,16 @@
+[11-Nov-2025 17:57:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[11-Nov-2025 19:22:32 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50
+[16-Dec-2025 05:46:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\MimeTypeDetection\MimeTypeDetector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/flysystem-local/FallbackMimeTypeDetector.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/flysystem-local/FallbackMimeTypeDetector.php on line 10
+[16-Dec-2025 06:15:40 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Flysystem\FilesystemAdapter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/flysystem-local/LocalFilesystemAdapter.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/flysystem-local/LocalFilesystemAdapter.php on line 50

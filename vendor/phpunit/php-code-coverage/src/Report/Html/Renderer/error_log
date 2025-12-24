@@ -1,0 +1,44 @@
+[23-Nov-2025 07:08:35 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 36
+[23-Nov-2025 07:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 119
+[23-Nov-2025 07:16:32 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[23-Nov-2025 07:25:38 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 119
+[23-Nov-2025 07:35:29 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 36
+[23-Nov-2025 07:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 36
+[23-Nov-2025 07:44:38 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[23-Nov-2025 07:46:42 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 119
+[23-Nov-2025 07:54:49 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Directory.php on line 24
+[23-Nov-2025 07:58:55 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/File.php on line 119
+[23-Nov-2025 08:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Report\Html\Renderer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/Report/Html/Renderer/Dashboard.php on line 36

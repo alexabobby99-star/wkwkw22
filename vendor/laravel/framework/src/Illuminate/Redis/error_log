@@ -1,0 +1,32 @@
+[15-Nov-2025 05:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 9
+[18-Nov-2025 09:21:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 19
+[26-Nov-2025 19:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 9
+[26-Nov-2025 19:39:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 19
+[26-Nov-2025 20:05:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 9
+[26-Nov-2025 20:28:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 19
+[18-Dec-2025 14:15:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisServiceProvider.php on line 9
+[18-Dec-2025 17:06:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Redis\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Redis/RedisManager.php on line 19

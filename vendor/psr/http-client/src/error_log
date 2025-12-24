@@ -1,0 +1,48 @@
+[12-Nov-2025 15:57:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[12-Nov-2025 16:01:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[23-Nov-2025 09:40:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[23-Nov-2025 09:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[23-Nov-2025 09:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[23-Nov-2025 09:52:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[23-Nov-2025 09:56:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[23-Nov-2025 10:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[17-Dec-2025 03:39:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[17-Dec-2025 03:39:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14
+[17-Dec-2025 09:33:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/RequestExceptionInterface.php on line 14
+[17-Dec-2025 09:33:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Client\ClientExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-client/src/NetworkExceptionInterface.php on line 14

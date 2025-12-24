@@ -1,0 +1,4 @@
+[24-Nov-2025 09:55:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Console/Factories/FactoryMakeCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Console/Factories/FactoryMakeCommand.php on line 12

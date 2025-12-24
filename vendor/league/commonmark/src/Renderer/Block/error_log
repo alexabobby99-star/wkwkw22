@@ -1,0 +1,32 @@
+[16-Nov-2025 19:26:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/ParagraphRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/ParagraphRenderer.php on line 27
+[16-Nov-2025 21:24:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/DocumentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/DocumentRenderer.php on line 25
+[25-Nov-2025 09:59:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/ParagraphRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/ParagraphRenderer.php on line 27
+[25-Nov-2025 10:07:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/DocumentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/DocumentRenderer.php on line 25
+[25-Nov-2025 10:20:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/DocumentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/DocumentRenderer.php on line 25
+[25-Nov-2025 10:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/ParagraphRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/ParagraphRenderer.php on line 27
+[25-Nov-2025 10:34:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/DocumentRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/DocumentRenderer.php on line 25
+[25-Nov-2025 10:35:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/ParagraphRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Renderer/Block/ParagraphRenderer.php on line 27

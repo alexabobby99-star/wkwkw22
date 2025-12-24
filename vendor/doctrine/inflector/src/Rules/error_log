@@ -1,0 +1,44 @@
+[14-Nov-2025 08:54:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php on line 9
+[14-Nov-2025 09:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php on line 9
+[14-Nov-2025 09:13:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php on line 9
+[14-Nov-2025 12:11:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformation.php on line 11
+[14-Nov-2025 12:17:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Substitutions.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Substitutions.php on line 13
+[18-Dec-2025 10:37:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php on line 9
+[18-Dec-2025 10:38:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformation.php on line 11
+[18-Dec-2025 10:39:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Substitutions.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Substitutions.php on line 13
+[18-Dec-2025 10:50:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformations.php on line 9
+[18-Dec-2025 10:52:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformation.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Transformation.php on line 11
+[18-Dec-2025 10:53:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Doctrine\Inflector\WordInflector" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Substitutions.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Substitutions.php on line 13

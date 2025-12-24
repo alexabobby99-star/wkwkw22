@@ -1,0 +1,188 @@
+[15-Nov-2025 10:19:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterBeforeTestFunction.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterBeforeTestFunction.php on line 15
+[15-Nov-2025 10:20:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestDescriptionMissing.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestDescriptionMissing.php on line 15
+[15-Nov-2025 10:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/FileOrFolderNotFound.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/FileOrFolderNotFound.php on line 15
+[15-Nov-2025 10:22:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/BeforeAllWithinDescribe.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/BeforeAllWithinDescribe.php on line 15
+[15-Nov-2025 10:23:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestCaseClassOrTraitNotFound.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestCaseClassOrTraitNotFound.php on line 15
+[15-Nov-2025 10:25:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterAllWithinDescribe.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterAllWithinDescribe.php on line 15
+[15-Nov-2025 10:26:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidArgumentException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidArgumentException.php on line 15
+[15-Nov-2025 10:27:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetAlreadyExists.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetAlreadyExists.php on line 15
+[15-Nov-2025 10:30:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestClosureMustNotBeStatic.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestClosureMustNotBeStatic.php on line 16
+[15-Nov-2025 10:30:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestCaseAlreadyInUse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestCaseAlreadyInUse.php on line 15
+[15-Nov-2025 10:32:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidPestCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidPestCommand.php on line 15
+[15-Nov-2025 10:34:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/MissingDependency.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/MissingDependency.php on line 15
+[15-Nov-2025 10:35:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterAllAlreadyExist.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterAllAlreadyExist.php on line 15
+[15-Nov-2025 10:36:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetDoesNotExist.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetDoesNotExist.php on line 15
+[15-Nov-2025 10:37:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidExpectation.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidExpectation.php on line 15
+[15-Nov-2025 10:38:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/BeforeAllAlreadyExist.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/BeforeAllAlreadyExist.php on line 15
+[15-Nov-2025 10:40:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidOption.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidOption.php on line 15
+[15-Nov-2025 10:41:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetMissing.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetMissing.php on line 15
+[15-Nov-2025 10:42:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/NoDirtyTestsFound.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/NoDirtyTestsFound.php on line 17
+[15-Nov-2025 10:43:10 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\RenderlessTrace" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/FatalException.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/FatalException.php on line 13
+[15-Nov-2025 10:46:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestAlreadyExist.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestAlreadyExist.php on line 15
+[17-Nov-2025 04:21:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestCaseClassOrTraitNotFound.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestCaseClassOrTraitNotFound.php on line 15
+[17-Nov-2025 04:24:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/BeforeAllWithinDescribe.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/BeforeAllWithinDescribe.php on line 15
+[17-Nov-2025 04:25:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterBeforeTestFunction.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterBeforeTestFunction.php on line 15
+[17-Nov-2025 04:26:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/FileOrFolderNotFound.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/FileOrFolderNotFound.php on line 15
+[17-Nov-2025 04:27:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestDescriptionMissing.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestDescriptionMissing.php on line 15
+[17-Nov-2025 04:29:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidArgumentException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidArgumentException.php on line 15
+[17-Nov-2025 04:30:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterAllWithinDescribe.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterAllWithinDescribe.php on line 15
+[17-Nov-2025 04:31:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/MissingDependency.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/MissingDependency.php on line 15
+[17-Nov-2025 04:32:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidOption.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidOption.php on line 15
+[17-Nov-2025 04:33:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetDoesNotExist.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetDoesNotExist.php on line 15
+[17-Nov-2025 04:44:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestAlreadyExist.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestAlreadyExist.php on line 15
+[17-Nov-2025 04:45:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/NoDirtyTestsFound.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/NoDirtyTestsFound.php on line 17
+[17-Nov-2025 04:50:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetMissing.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetMissing.php on line 15
+[17-Nov-2025 04:54:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterBeforeTestFunction.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterBeforeTestFunction.php on line 15
+[17-Nov-2025 04:55:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidArgumentException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidArgumentException.php on line 15
+[17-Nov-2025 04:57:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestDescriptionMissing.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestDescriptionMissing.php on line 15
+[17-Nov-2025 04:58:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestCaseClassOrTraitNotFound.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestCaseClassOrTraitNotFound.php on line 15
+[17-Nov-2025 05:03:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/BeforeAllWithinDescribe.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/BeforeAllWithinDescribe.php on line 15
+[17-Nov-2025 05:04:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/MissingDependency.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/MissingDependency.php on line 15
+[17-Nov-2025 05:05:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetDoesNotExist.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetDoesNotExist.php on line 15
+[17-Nov-2025 05:06:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestAlreadyExist.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/TestAlreadyExist.php on line 15
+[17-Nov-2025 05:07:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidOption.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/InvalidOption.php on line 15
+[17-Nov-2025 05:09:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterAllWithinDescribe.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/AfterAllWithinDescribe.php on line 15
+[17-Nov-2025 05:10:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/NoDirtyTestsFound.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/NoDirtyTestsFound.php on line 17
+[17-Nov-2025 05:11:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/FileOrFolderNotFound.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/FileOrFolderNotFound.php on line 15
+[17-Nov-2025 05:13:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetMissing.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Exceptions/DatasetMissing.php on line 15

@@ -1,0 +1,36 @@
+[15-Nov-2025 18:55:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\FrontMatterParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterParser.php on line 21
+[15-Nov-2025 20:04:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php on line 26
+[24-Nov-2025 04:13:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\FrontMatterParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterParser.php on line 21
+[24-Nov-2025 04:20:49 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php on line 26
+[24-Nov-2025 05:33:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php on line 26
+[24-Nov-2025 05:42:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\FrontMatterParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterParser.php on line 21
+[24-Nov-2025 05:46:08 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php on line 26
+[24-Nov-2025 05:55:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterExtension.php on line 26
+[24-Nov-2025 05:58:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\FrontMatter\FrontMatterParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/FrontMatter/FrontMatterParser.php on line 21

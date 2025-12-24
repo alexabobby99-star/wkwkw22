@@ -1,0 +1,64 @@
+[22-Nov-2025 23:14:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 13
+[22-Nov-2025 23:22:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php on line 10
+[22-Nov-2025 23:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/PruneStaleTagsCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/PruneStaleTagsCommand.php on line 12
+[22-Nov-2025 23:53:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 9
+[26-Nov-2025 21:15:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/PruneStaleTagsCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/PruneStaleTagsCommand.php on line 12
+[26-Nov-2025 21:20:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 13
+[26-Nov-2025 21:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 9
+[26-Nov-2025 21:32:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php on line 10
+[26-Nov-2025 22:05:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 13
+[26-Nov-2025 22:08:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php on line 10
+[26-Nov-2025 22:10:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/PruneStaleTagsCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/PruneStaleTagsCommand.php on line 12
+[26-Nov-2025 22:13:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 9
+[26-Nov-2025 22:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 13
+[26-Nov-2025 22:28:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 9
+[26-Nov-2025 22:30:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/PruneStaleTagsCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/PruneStaleTagsCommand.php on line 12
+[26-Nov-2025 22:32:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/Console/ForgetCommand.php on line 10

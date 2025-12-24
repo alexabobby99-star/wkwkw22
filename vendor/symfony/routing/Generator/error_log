@@ -1,0 +1,64 @@
+[12-Nov-2025 19:48:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32
+[12-Nov-2025 19:52:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\UrlGenerator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[12-Nov-2025 19:54:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\UrlGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php on line 28
+[19-Nov-2025 15:50:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32
+[19-Nov-2025 15:53:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\UrlGenerator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[19-Nov-2025 15:58:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\UrlGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php on line 28
+[19-Nov-2025 16:06:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32
+[19-Nov-2025 16:08:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\UrlGenerator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[19-Nov-2025 16:12:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32
+[19-Nov-2025 16:13:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\UrlGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php on line 28
+[19-Nov-2025 16:30:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32
+[19-Nov-2025 16:31:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\UrlGenerator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[19-Nov-2025 16:32:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\UrlGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php on line 28
+[17-Dec-2025 06:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Routing\Generator\UrlGenerator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/CompiledUrlGenerator.php on line 21
+[17-Dec-2025 06:54:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RequestContextAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGeneratorInterface.php on line 32
+[17-Dec-2025 06:55:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Generator\UrlGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Generator/UrlGenerator.php on line 28

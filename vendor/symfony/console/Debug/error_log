@@ -1,0 +1,28 @@
+[14-Nov-2025 00:13:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php on line 21
+[21-Nov-2025 07:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php on line 21
+[21-Nov-2025 07:20:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php on line 21
+[21-Nov-2025 08:39:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php on line 21
+[21-Nov-2025 10:40:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php on line 21
+[21-Nov-2025 12:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php on line 21
+[18-Dec-2025 03:53:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Debug/CliRequest.php on line 21

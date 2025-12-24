@@ -1,0 +1,16 @@
+[14-Nov-2025 07:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/NodeVisitor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/NodeVisitor.php on line 11
+[23-Nov-2025 16:10:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/NodeVisitor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/NodeVisitor.php on line 11
+[23-Nov-2025 16:28:12 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/NodeVisitor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/NodeVisitor.php on line 11
+[23-Nov-2025 16:40:18 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/NodeVisitor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/NodeVisitor.php on line 11

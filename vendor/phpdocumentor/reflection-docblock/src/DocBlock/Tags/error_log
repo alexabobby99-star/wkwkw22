@@ -1,0 +1,396 @@
+[15-Nov-2025 10:04:50 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php on line 26
+[17-Nov-2025 19:28:31 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php on line 29
+[18-Nov-2025 11:52:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php on line 36
+[18-Nov-2025 11:54:40 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Version.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Version.php on line 26
+[18-Nov-2025 11:55:41 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php on line 26
+[18-Nov-2025 11:56:46 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php on line 27
+[18-Nov-2025 11:57:49 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Throws.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Throws.php on line 26
+[18-Nov-2025 11:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Generic.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Generic.php on line 28
+[18-Nov-2025 12:00:53 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php on line 30
+[18-Nov-2025 12:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php on line 44
+[18-Nov-2025 12:54:07 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php on line 22
+[18-Nov-2025 15:28:55 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\Extends_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateExtends.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateExtends.php on line 22
+[18-Nov-2025 22:13:44 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Mixin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Mixin.php on line 26
+[19-Nov-2025 06:46:07 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\Implements_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateImplements.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateImplements.php on line 22
+[19-Nov-2025 06:51:26 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php on line 36
+[19-Nov-2025 06:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateCovariant.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateCovariant.php on line 26
+[19-Nov-2025 14:02:48 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php on line 30
+[19-Nov-2025 14:07:39 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php on line 26
+[19-Nov-2025 14:31:33 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php on line 25
+[19-Nov-2025 14:40:27 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php on line 36
+[19-Nov-2025 15:09:23 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php on line 25
+[19-Nov-2025 15:15:31 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php on line 33
+[19-Nov-2025 20:37:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php on line 36
+[19-Nov-2025 21:22:01 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php on line 34
+[20-Nov-2025 00:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Implements_.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Implements_.php on line 24
+[20-Nov-2025 00:51:48 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php on line 26
+[20-Nov-2025 01:00:59 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php on line 29
+[20-Nov-2025 01:02:04 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php on line 27
+[20-Nov-2025 01:03:07 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Template.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Template.php on line 24
+[20-Nov-2025 01:04:12 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php on line 36
+[20-Nov-2025 01:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php on line 44
+[20-Nov-2025 01:13:35 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php on line 22
+[20-Nov-2025 01:14:36 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php on line 26
+[20-Nov-2025 01:15:40 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php on line 30
+[20-Nov-2025 01:16:40 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php on line 26
+[20-Nov-2025 01:17:45 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php on line 30
+[20-Nov-2025 01:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Mixin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Mixin.php on line 26
+[20-Nov-2025 01:19:48 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\Extends_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateExtends.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateExtends.php on line 22
+[20-Nov-2025 01:20:52 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php on line 36
+[20-Nov-2025 01:21:54 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\Implements_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateImplements.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateImplements.php on line 22
+[20-Nov-2025 01:22:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateCovariant.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateCovariant.php on line 26
+[20-Nov-2025 01:23:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php on line 36
+[20-Nov-2025 01:25:00 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php on line 25
+[20-Nov-2025 01:27:04 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Implements_.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Implements_.php on line 24
+[20-Nov-2025 01:28:00 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php on line 34
+[20-Nov-2025 01:29:04 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php on line 25
+[20-Nov-2025 01:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php on line 36
+[20-Nov-2025 01:31:10 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php on line 33
+[20-Nov-2025 01:47:28 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Extends_.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Extends_.php on line 24
+[20-Nov-2025 02:08:01 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Template.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Template.php on line 24
+[20-Nov-2025 02:09:07 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php on line 27
+[20-Nov-2025 02:10:10 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php on line 22
+[20-Nov-2025 02:11:11 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php on line 29
+[20-Nov-2025 02:12:14 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php on line 26
+[20-Nov-2025 02:13:16 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php on line 44
+[20-Nov-2025 02:16:49 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php on line 36
+[20-Nov-2025 02:17:24 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\Extends_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateExtends.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateExtends.php on line 22
+[20-Nov-2025 02:18:28 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php on line 30
+[20-Nov-2025 02:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Mixin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Mixin.php on line 26
+[20-Nov-2025 02:20:35 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateCovariant.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateCovariant.php on line 26
+[20-Nov-2025 02:21:37 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php on line 33
+[20-Nov-2025 02:22:38 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\Implements_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateImplements.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateImplements.php on line 22
+[20-Nov-2025 02:23:43 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php on line 36
+[20-Nov-2025 02:24:46 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php on line 25
+[20-Nov-2025 02:25:46 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php on line 26
+[20-Nov-2025 02:26:50 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php on line 25
+[20-Nov-2025 02:27:55 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php on line 36
+[20-Nov-2025 02:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php on line 30
+[20-Nov-2025 02:30:05 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php on line 26
+[20-Nov-2025 02:31:09 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php on line 36
+[20-Nov-2025 02:33:16 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Extends_.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Extends_.php on line 24
+[20-Nov-2025 02:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php on line 34
+[20-Nov-2025 02:38:08 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Implements_.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Implements_.php on line 24
+[20-Nov-2025 02:41:11 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Covers.php on line 30
+[20-Nov-2025 02:43:12 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Deprecated.php on line 26
+[20-Nov-2025 02:44:08 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Method.php on line 44
+[20-Nov-2025 02:45:13 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Template.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Template.php on line 24
+[20-Nov-2025 02:46:16 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Example.php on line 29
+[20-Nov-2025 02:47:19 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Source.php on line 26
+[20-Nov-2025 02:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Property.php on line 36
+[20-Nov-2025 02:50:28 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Author.php on line 27
+[20-Nov-2025 02:51:29 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/BaseTag.php on line 22
+[20-Nov-2025 02:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyWrite.php on line 36
+[20-Nov-2025 02:53:33 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\Implements_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateImplements.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateImplements.php on line 22
+[20-Nov-2025 02:54:37 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Param.php on line 36
+[20-Nov-2025 02:55:38 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Link.php on line 25
+[20-Nov-2025 02:56:38 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/InvalidTag.php on line 33
+[20-Nov-2025 02:57:43 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateCovariant.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateCovariant.php on line 26
+[20-Nov-2025 02:58:44 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Uses.php on line 30
+[20-Nov-2025 02:59:50 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Mixin.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Mixin.php on line 26
+[20-Nov-2025 03:00:50 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\Extends_" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateExtends.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TemplateExtends.php on line 22
+[20-Nov-2025 03:01:51 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Since.php on line 26
+[20-Nov-2025 03:02:53 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/TagWithType.php on line 25
+[20-Nov-2025 03:05:59 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\BaseTag" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/See.php on line 34
+[20-Nov-2025 03:07:56 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Var_.php on line 36
+[20-Nov-2025 03:09:01 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Extends_.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Extends_.php on line 24
+[20-Nov-2025 03:10:05 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Implements_.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Implements_.php on line 24
+[20-Nov-2025 05:26:57 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyRead.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/PropertyRead.php on line 36
+[20-Nov-2025 06:15:17 UTC] PHP Fatal error:  Uncaught Error: Class "phpDocumentor\Reflection\DocBlock\Tags\TagWithType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Return_.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Return_.php on line 27

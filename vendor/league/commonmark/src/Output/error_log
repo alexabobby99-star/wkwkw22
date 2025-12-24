@@ -1,0 +1,20 @@
+[14-Nov-2025 13:39:36 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[14-Nov-2025 13:53:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[14-Nov-2025 14:08:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[14-Nov-2025 14:28:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php on line 18
+[14-Nov-2025 14:37:29 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Output\RenderedContentInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Output/RenderedContent.php on line 18

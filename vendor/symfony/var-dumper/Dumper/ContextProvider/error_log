@@ -1,0 +1,48 @@
+[15-Nov-2025 21:25:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 26
+[15-Nov-2025 21:26:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[15-Nov-2025 21:33:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[23-Nov-2025 20:54:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[23-Nov-2025 20:55:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 26
+[23-Nov-2025 20:56:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[23-Nov-2025 21:38:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23
+[23-Nov-2025 21:39:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[23-Nov-2025 21:41:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 26
+[23-Nov-2025 21:51:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/SourceContextProvider.php on line 26
+[23-Nov-2025 21:55:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/CliContextProvider.php on line 19
+[23-Nov-2025 21:58:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Dumper\ContextProvider\ContextProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Dumper/ContextProvider/RequestContextProvider.php on line 23

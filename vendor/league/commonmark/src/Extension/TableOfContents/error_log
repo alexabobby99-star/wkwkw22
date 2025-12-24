@@ -1,0 +1,24 @@
+[23-Nov-2025 09:18:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Parser\Block\AbstractBlockContinueParser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderParser.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderParser.php on line 27
+[23-Nov-2025 21:13:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderRenderer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsPlaceholderRenderer.php on line 21
+[25-Nov-2025 17:30:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\Config\ConfigurationAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsBuilder.php on line 27
+[27-Nov-2025 08:38:45 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsExtension.php on line 26
+[27-Nov-2025 08:40:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\TableOfContentsGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsGenerator.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsGenerator.php on line 33
+[27-Nov-2025 12:08:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsRenderer.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/TableOfContentsRenderer.php on line 21

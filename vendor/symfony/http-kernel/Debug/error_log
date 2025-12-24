@@ -1,0 +1,36 @@
+[12-Nov-2025 15:07:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[12-Nov-2025 21:03:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[20-Nov-2025 06:45:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[20-Nov-2025 06:53:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[20-Nov-2025 07:06:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[20-Nov-2025 07:11:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[20-Nov-2025 07:15:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24
+[17-Dec-2025 02:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\EventDispatcher\Debug\TraceableEventDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/TraceableEventDispatcher.php on line 24
+[17-Dec-2025 08:21:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RequestStack" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Debug/VirtualRequestStack.php on line 24

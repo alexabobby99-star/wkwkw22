@@ -1,0 +1,20 @@
+[14-Nov-2025 09:32:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[19-Nov-2025 11:35:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[19-Nov-2025 11:45:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[19-Nov-2025 12:20:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php on line 24
+[18-Dec-2025 05:39:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Dflydev\DotAccessData\DataInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/dflydev/dot-access-data/src/Data.php on line 24

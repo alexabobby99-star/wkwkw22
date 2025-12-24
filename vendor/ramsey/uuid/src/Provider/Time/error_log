@@ -1,0 +1,8 @@
+[23-Nov-2025 02:01:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Provider/Time/SystemTimeProvider.php on line 25
+[24-Nov-2025 19:57:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Provider\TimeProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Provider/Time/FixedTimeProvider.php on line 26

@@ -1,0 +1,4 @@
+[14-Nov-2025 07:41:43 UTC] PHP Fatal error:  Trait "Pest\Plugins\Concerns\HandleArguments" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Plugins/Mutate.php on line 53
+[23-Nov-2025 15:36:23 UTC] PHP Fatal error:  Trait "Pest\Plugins\Concerns\HandleArguments" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Plugins/Mutate.php on line 53
+[23-Nov-2025 15:43:56 UTC] PHP Fatal error:  Trait "Pest\Plugins\Concerns\HandleArguments" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Plugins/Mutate.php on line 53
+[23-Nov-2025 16:48:50 UTC] PHP Fatal error:  Trait "Pest\Plugins\Concerns\HandleArguments" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Plugins/Mutate.php on line 53

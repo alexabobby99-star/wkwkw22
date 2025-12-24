@@ -1,0 +1,16 @@
+[21-Nov-2025 16:21:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php on line 18
+[24-Nov-2025 21:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php on line 18
+[24-Nov-2025 21:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php on line 18
+[24-Nov-2025 21:47:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Internal/PrintableNewAnonClassNode.php on line 18

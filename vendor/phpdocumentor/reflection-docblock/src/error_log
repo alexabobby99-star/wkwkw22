@@ -1,0 +1,16 @@
+[12-Nov-2025 00:39:32 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 50
+[18-Nov-2025 06:01:32 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 50
+[18-Nov-2025 06:04:26 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 50
+[16-Dec-2025 11:44:29 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlockFactoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php:50
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlockFactory.php on line 50

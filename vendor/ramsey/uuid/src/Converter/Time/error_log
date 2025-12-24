@@ -1,0 +1,28 @@
+[15-Nov-2025 01:41:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\TimeConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php on line 30
+[15-Nov-2025 18:02:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\TimeConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php on line 30
+[15-Nov-2025 18:06:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\TimeConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php on line 30
+[15-Nov-2025 18:12:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\TimeConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/BigNumberTimeConverter.php on line 30
+[19-Nov-2025 18:56:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\TimeConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/UnixTimeConverter.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/UnixTimeConverter.php on line 35
+[20-Nov-2025 07:17:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\TimeConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/PhpTimeConverter.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/PhpTimeConverter.php on line 42
+[23-Nov-2025 23:23:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\TimeConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/GenericTimeConverter.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Time/GenericTimeConverter.php on line 34

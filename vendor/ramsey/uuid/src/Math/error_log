@@ -1,0 +1,12 @@
+[13-Nov-2025 15:57:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Math\CalculatorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Math/BrickMathCalculator.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Math/BrickMathCalculator.php on line 32
+[14-Nov-2025 11:34:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Math\CalculatorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Math/BrickMathCalculator.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Math/BrickMathCalculator.php on line 32
+[14-Nov-2025 11:55:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Math\CalculatorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Math/BrickMathCalculator.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Math/BrickMathCalculator.php on line 32

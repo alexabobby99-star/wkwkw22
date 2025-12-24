@@ -1,0 +1,4 @@
+[14-Nov-2025 08:53:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Helper\SymfonyQuestionHelper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nunomaduro/termwind/src/Helpers/QuestionHelper.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nunomaduro/termwind/src/Helpers/QuestionHelper.php on line 15

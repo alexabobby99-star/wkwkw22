@@ -1,0 +1,92 @@
+[15-Nov-2025 08:58:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedStartParser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedStartParser.php on line 22
+[15-Nov-2025 23:34:26 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/DomainFilteringAdapter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/DomainFilteringAdapter.php on line 16
+[18-Nov-2025 19:00:20 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedRenderer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedRenderer.php on line 20
+[20-Nov-2025 03:30:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockContinueParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedParser.php on line 21
+[22-Nov-2025 03:22:13 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Embed.php on line 18
+[26-Nov-2025 03:15:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedStartParser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedStartParser.php on line 22
+[26-Nov-2025 03:16:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/DomainFilteringAdapter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/DomainFilteringAdapter.php on line 16
+[26-Nov-2025 03:20:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedExtension.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedExtension.php on line 22
+[26-Nov-2025 03:34:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedRenderer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedRenderer.php on line 20
+[26-Nov-2025 03:38:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockContinueParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedParser.php on line 21
+[26-Nov-2025 03:49:13 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Embed.php on line 18
+[26-Nov-2025 04:00:53 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedStartParser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedStartParser.php on line 22
+[26-Nov-2025 04:01:48 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/DomainFilteringAdapter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/DomainFilteringAdapter.php on line 16
+[26-Nov-2025 04:06:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedExtension.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedExtension.php on line 22
+[26-Nov-2025 04:29:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedRenderer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedRenderer.php on line 20
+[26-Nov-2025 04:35:21 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockContinueParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedParser.php on line 21
+[26-Nov-2025 04:42:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Embed.php on line 18
+[26-Nov-2025 04:52:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedExtension.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedExtension.php on line 22
+[26-Nov-2025 04:53:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockStartParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedStartParser.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedStartParser.php on line 22
+[26-Nov-2025 04:57:23 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/DomainFilteringAdapter.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/DomainFilteringAdapter.php on line 16
+[26-Nov-2025 05:12:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedRenderer.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedRenderer.php on line 20
+[26-Nov-2025 05:15:11 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Block\BlockContinueParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedParser.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/EmbedParser.php on line 21
+[26-Nov-2025 05:19:14 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Embed.php on line 18

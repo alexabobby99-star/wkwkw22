@@ -1,0 +1,26 @@
+[13-Nov-2025 16:11:03 UTC] PHP Warning:  Undefined variable $left in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/two-column-detail.php on line 3
+[13-Nov-2025 16:11:03 UTC] PHP Warning:  Undefined variable $right in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/two-column-detail.php on line 6
+[13-Nov-2025 16:11:03 UTC] PHP Warning:  Undefined variable $right in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/two-column-detail.php on line 8
+[15-Nov-2025 13:21:48 UTC] PHP Warning:  Undefined variable $type in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php on line 5
+[15-Nov-2025 13:21:48 UTC] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case of type null in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php on line 5
+[26-Nov-2025 23:06:30 UTC] PHP Warning:  Undefined variable $type in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php on line 5
+[26-Nov-2025 23:06:30 UTC] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case of type null in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php on line 5
+[26-Nov-2025 23:25:11 UTC] PHP Warning:  Undefined variable $type in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php on line 5
+[26-Nov-2025 23:25:11 UTC] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case of type null in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php on line 5
+[18-Dec-2025 00:28:15 UTC] PHP Warning:  Undefined variable $left in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/two-column-detail.php on line 3
+[18-Dec-2025 00:28:15 UTC] PHP Warning:  Undefined variable $right in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/two-column-detail.php on line 6
+[18-Dec-2025 00:28:15 UTC] PHP Warning:  Undefined variable $right in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/two-column-detail.php on line 8
+[18-Dec-2025 08:41:47 UTC] PHP Warning:  Undefined variable $type in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php on line 5
+[18-Dec-2025 08:41:47 UTC] PHP Fatal error:  Uncaught UnhandledMatchError: Unhandled match case of type null in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/resources/views/components/badge.php on line 5

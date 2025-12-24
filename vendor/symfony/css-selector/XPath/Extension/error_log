@@ -1,0 +1,84 @@
+[30-Nov-2025 20:35:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php on line 27
+[30-Nov-2025 20:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php on line 26
+[30-Nov-2025 20:42:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php on line 24
+[30-Nov-2025 20:43:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php on line 27
+[30-Nov-2025 20:46:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php on line 31
+[30-Nov-2025 20:48:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php on line 28
+[30-Nov-2025 21:04:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php on line 29
+[30-Nov-2025 23:07:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php on line 27
+[30-Nov-2025 23:08:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php on line 29
+[30-Nov-2025 23:10:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php on line 28
+[30-Nov-2025 23:11:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php on line 26
+[30-Nov-2025 23:12:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php on line 31
+[30-Nov-2025 23:13:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php on line 27
+[30-Nov-2025 23:15:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php on line 24
+[30-Nov-2025 23:27:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php on line 27
+[30-Nov-2025 23:29:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php on line 27
+[30-Nov-2025 23:30:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php on line 26
+[30-Nov-2025 23:34:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php on line 24
+[30-Nov-2025 23:35:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php on line 28
+[30-Nov-2025 23:37:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php on line 31
+[30-Nov-2025 23:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php on line 29

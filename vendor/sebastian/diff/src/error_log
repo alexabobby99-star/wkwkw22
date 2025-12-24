@@ -1,0 +1,56 @@
+[12-Nov-2025 04:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php on line 19
+[12-Nov-2025 04:29:56 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php on line 16
+[21-Nov-2025 06:44:27 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php on line 16
+[21-Nov-2025 06:53:34 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php on line 19
+[21-Nov-2025 07:05:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php on line 16
+[21-Nov-2025 07:11:02 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php on line 19
+[21-Nov-2025 09:46:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php on line 19
+[21-Nov-2025 09:49:17 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php on line 16
+[21-Nov-2025 11:25:09 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php on line 19
+[21-Nov-2025 11:28:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php on line 16
+[21-Nov-2025 13:53:38 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php on line 19
+[21-Nov-2025 14:01:23 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php on line 16
+[16-Dec-2025 15:24:14 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/TimeEfficientLongestCommonSubsequenceCalculator.php on line 16
+[16-Dec-2025 15:24:57 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Diff\LongestCommonSubsequenceCalculator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/diff/src/MemoryEfficientLongestCommonSubsequenceCalculator.php on line 19

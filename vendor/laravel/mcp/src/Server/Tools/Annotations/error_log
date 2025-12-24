@@ -1,0 +1,44 @@
+[22-Nov-2025 09:53:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsDestructive.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsDestructive.php on line 11
+[22-Nov-2025 09:53:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsOpenWorld.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsOpenWorld.php on line 11
+[22-Nov-2025 09:54:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsIdempotent.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsIdempotent.php on line 11
+[22-Nov-2025 09:55:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsReadOnly.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsReadOnly.php on line 11
+[30-Nov-2025 15:47:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsIdempotent.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsIdempotent.php on line 11
+[30-Nov-2025 15:48:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsOpenWorld.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsOpenWorld.php on line 11
+[30-Nov-2025 15:50:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsDestructive.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsDestructive.php on line 11
+[30-Nov-2025 15:55:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsReadOnly.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsReadOnly.php on line 11
+[30-Nov-2025 16:01:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsIdempotent.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsIdempotent.php on line 11
+[30-Nov-2025 16:02:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsOpenWorld.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsOpenWorld.php on line 11
+[30-Nov-2025 16:03:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Tools\Annotation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsDestructive.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Tools/Annotations/IsDestructive.php on line 11

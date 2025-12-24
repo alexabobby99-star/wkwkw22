@@ -1,0 +1,20 @@
+[12-Nov-2025 18:33:34 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[19-Nov-2025 11:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[19-Nov-2025 11:51:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[19-Nov-2025 12:24:52 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21
+[17-Dec-2025 06:02:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/lines-of-code/src/LineCountingVisitor.php on line 21

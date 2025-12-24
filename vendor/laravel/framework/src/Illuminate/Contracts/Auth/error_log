@@ -1,0 +1,28 @@
+[16-Nov-2025 23:51:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Auth\Guard" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[25-Nov-2025 07:02:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Auth\Guard" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[25-Nov-2025 13:13:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Auth\Guard" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[25-Nov-2025 13:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Auth\Guard" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[25-Nov-2025 13:59:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Auth\Guard" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[25-Nov-2025 15:06:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Auth\Guard" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[25-Nov-2025 16:11:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Auth\Guard" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5

@@ -1,0 +1,16 @@
+[23-Nov-2025 20:45:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Arrayable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Transport/JsonRpcResponse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Transport/JsonRpcResponse.php on line 12
+[24-Nov-2025 13:56:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Transport" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Transport/FakeTransporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Transport/FakeTransporter.php on line 13
+[24-Nov-2025 20:01:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Transport" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Transport/HttpTransport.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Transport/HttpTransport.php on line 13
+[24-Nov-2025 20:08:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Transport" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Transport/StdioTransport.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Transport/StdioTransport.php on line 10

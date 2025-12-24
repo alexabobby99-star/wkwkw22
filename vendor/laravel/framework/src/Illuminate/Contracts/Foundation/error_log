@@ -1,0 +1,20 @@
+[15-Nov-2025 14:41:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[19-Nov-2025 12:13:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[19-Nov-2025 12:44:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[19-Nov-2025 12:58:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7
+[19-Nov-2025 13:31:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\Container" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Foundation/Application.php on line 7

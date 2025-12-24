@@ -1,0 +1,32 @@
+[24-Nov-2025 08:45:57 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\NodeVisitor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/AttributeParentConnectingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/AttributeParentConnectingVisitor.php on line 26
+[24-Nov-2025 21:35:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/ExecutableLinesFindingVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/ExecutableLinesFindingVisitor.php on line 32
+[25-Nov-2025 18:22:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/CodeUnitFindingVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/CodeUnitFindingVisitor.php on line 36
+[25-Nov-2025 18:28:35 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/IgnoredLinesFindingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/IgnoredLinesFindingVisitor.php on line 27
+[18-Dec-2025 18:39:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\NodeVisitor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/AttributeParentConnectingVisitor.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/AttributeParentConnectingVisitor.php on line 26
+[18-Dec-2025 18:43:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/ExecutableLinesFindingVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/ExecutableLinesFindingVisitor.php on line 32
+[18-Dec-2025 18:44:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/CodeUnitFindingVisitor.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/CodeUnitFindingVisitor.php on line 36
+[18-Dec-2025 18:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/IgnoredLinesFindingVisitor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/Visitor/IgnoredLinesFindingVisitor.php on line 27

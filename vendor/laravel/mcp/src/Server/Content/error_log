@@ -1,0 +1,12 @@
+[18-Nov-2025 18:52:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Content" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Content/Notification.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Content/Notification.php on line 12
+[19-Nov-2025 10:18:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Content" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Content/Blob.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Content/Blob.php on line 13
+[19-Nov-2025 10:27:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Mcp\Server\Contracts\Content" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Content/Text.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Server/Content/Text.php on line 12

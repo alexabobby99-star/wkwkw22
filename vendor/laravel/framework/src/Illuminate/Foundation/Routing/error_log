@@ -1,0 +1,32 @@
+[16-Nov-2025 09:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[16-Nov-2025 09:36:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[22-Nov-2025 00:25:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[22-Nov-2025 00:29:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[22-Nov-2025 00:53:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[22-Nov-2025 00:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8
+[22-Nov-2025 01:14:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\ControllerDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionControllerDispatcher.php on line 9
+[22-Nov-2025 01:18:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\CallableDispatcher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Routing/PrecognitionCallableDispatcher.php on line 8

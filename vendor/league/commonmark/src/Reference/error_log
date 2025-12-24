@@ -1,0 +1,8 @@
+[14-Nov-2025 11:36:06 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Reference\ReferenceMapInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Reference/MemoryLimitedReferenceMap.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Reference/MemoryLimitedReferenceMap.php on line 16
+[14-Nov-2025 11:51:04 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Reference\ReferenceMapInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Reference/MemoryLimitedReferenceMap.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Reference/MemoryLimitedReferenceMap.php on line 16

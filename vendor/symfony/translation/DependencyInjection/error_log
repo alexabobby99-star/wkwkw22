@@ -1,0 +1,120 @@
+[12-Nov-2025 05:06:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[12-Nov-2025 05:06:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[12-Nov-2025 05:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[12-Nov-2025 05:07:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[12-Nov-2025 05:10:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[12-Nov-2025 11:51:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[18-Nov-2025 22:26:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[18-Nov-2025 22:29:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[18-Nov-2025 22:35:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[18-Nov-2025 22:37:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[18-Nov-2025 22:42:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[18-Nov-2025 22:42:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[18-Nov-2025 22:54:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[18-Nov-2025 22:55:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[18-Nov-2025 22:59:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[18-Nov-2025 23:00:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[18-Nov-2025 23:02:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[18-Nov-2025 23:03:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[18-Nov-2025 23:07:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19
+[18-Nov-2025 23:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[18-Nov-2025 23:14:45 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[18-Nov-2025 23:15:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[18-Nov-2025 23:17:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[06-Dec-2025 15:52:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[16-Dec-2025 16:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\DependencyInjection\Compiler\AbstractRecursivePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPathsPass.php on line 24
+[16-Dec-2025 16:02:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationExtractorPass.php on line 22
+[16-Dec-2025 16:03:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslationDumperPass.php on line 21
+[16-Dec-2025 16:04:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/LoggingTranslatorPass.php on line 23
+[16-Dec-2025 16:05:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/DataCollectorTranslatorPass.php on line 21
+[16-Dec-2025 23:24:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\DependencyInjection\Compiler\CompilerPassInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/DependencyInjection/TranslatorPass.php on line 19

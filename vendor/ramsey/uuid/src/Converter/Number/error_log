@@ -1,0 +1,24 @@
+[15-Nov-2025 03:39:41 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Converter\Number\BigNumberConverter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/DegradedNumberConverter.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/DegradedNumberConverter.php on line 23
+[15-Nov-2025 11:00:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\NumberConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/GenericNumberConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/GenericNumberConverter.php on line 26
+[18-Nov-2025 10:21:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\NumberConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/BigNumberConverter.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/BigNumberConverter.php on line 28
+[20-Nov-2025 13:16:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\NumberConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/GenericNumberConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/GenericNumberConverter.php on line 26
+[20-Nov-2025 13:33:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\NumberConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/GenericNumberConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/GenericNumberConverter.php on line 26
+[20-Nov-2025 13:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Converter\NumberConverterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/GenericNumberConverter.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Converter/Number/GenericNumberConverter.php on line 26

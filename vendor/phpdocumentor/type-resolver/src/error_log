@@ -1,0 +1,16 @@
+[24-Nov-2025 17:13:56 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[30-Nov-2025 18:14:55 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[30-Nov-2025 18:21:54 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16
+[30-Nov-2025 18:33:52 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\Type" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoType.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/type-resolver/src/PseudoType.php on line 16

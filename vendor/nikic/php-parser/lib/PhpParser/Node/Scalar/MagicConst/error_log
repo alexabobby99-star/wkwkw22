@@ -1,0 +1,36 @@
+[30-Nov-2025 10:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Line.php on line 7
+[30-Nov-2025 10:38:51 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Function_.php on line 7
+[30-Nov-2025 10:40:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/File.php on line 7
+[30-Nov-2025 10:43:06 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Dir.php on line 7
+[30-Nov-2025 10:46:14 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Namespace_.php on line 7
+[30-Nov-2025 11:46:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Method.php on line 7
+[30-Nov-2025 11:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Property.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Property.php on line 7
+[30-Nov-2025 15:07:17 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Class_.php on line 7
+[30-Nov-2025 15:19:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Scalar\MagicConst" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar/MagicConst/Trait_.php on line 7

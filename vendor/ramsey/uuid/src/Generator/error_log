@@ -1,0 +1,76 @@
+[13-Nov-2025 18:31:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[13-Nov-2025 18:32:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 30
+[13-Nov-2025 18:33:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 25
+[13-Nov-2025 18:35:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[13-Nov-2025 18:36:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 40
+[13-Nov-2025 18:37:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 26
+[13-Nov-2025 18:38:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 27
+[14-Nov-2025 03:12:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[14-Nov-2025 03:13:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 30
+[14-Nov-2025 03:18:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/RandomBytesGenerator.php on line 25
+[14-Nov-2025 03:19:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\DceSecurityGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DceSecurityGenerator.php on line 37
+[14-Nov-2025 03:20:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DefaultNameGenerator.php on line 26
+[14-Nov-2025 03:21:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/DefaultTimeGenerator.php on line 40
+[14-Nov-2025 03:22:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidTimeGenerator.php on line 27
+[14-Nov-2025 03:26:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidRandomGenerator.php on line 27
+[14-Nov-2025 03:31:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\NameGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/PeclUuidNameGenerator.php on line 30
+[14-Nov-2025 14:56:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/RandomLibAdapter.php on line 28
+[14-Nov-2025 17:38:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\RandomGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/CombGenerator.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/CombGenerator.php on line 59
+[14-Nov-2025 17:40:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Generator\TimeGeneratorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Generator/UnixTimeGenerator.php on line 45

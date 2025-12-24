@@ -1,0 +1,16 @@
+[13-Nov-2025 15:10:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Executor\ProcessExecutor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Executor/ProcOpenExecutor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Executor/ProcOpenExecutor.php on line 23
+[22-Nov-2025 10:46:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Executor\ProcessExecutor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Executor/ProcOpenExecutor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Executor/ProcOpenExecutor.php on line 23
+[22-Nov-2025 11:00:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Executor\ProcessExecutor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Executor/ProcOpenExecutor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Executor/ProcOpenExecutor.php on line 23
+[17-Dec-2025 23:57:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Fidry\CpuCoreCounter\Executor\ProcessExecutor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Executor/ProcOpenExecutor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fidry/cpu-core-counter/src/Executor/ProcOpenExecutor.php on line 23

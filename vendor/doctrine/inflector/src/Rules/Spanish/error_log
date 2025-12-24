@@ -1,0 +1,24 @@
+[15-Nov-2025 02:42:16 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php on line 10
+[25-Nov-2025 10:06:54 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php on line 10
+[25-Nov-2025 10:22:25 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php on line 10
+[25-Nov-2025 10:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php on line 10
+[25-Nov-2025 10:49:13 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php on line 10
+[18-Dec-2025 10:54:10 UTC] PHP Fatal error:  Uncaught Error: Class "Doctrine\Inflector\GenericLanguageInflectorFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/doctrine/inflector/src/Rules/Spanish/InflectorFactory.php on line 10

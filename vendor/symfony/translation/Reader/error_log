@@ -1,0 +1,12 @@
+[12-Nov-2025 22:59:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Reader\TranslationReaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Reader/TranslationReader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Reader/TranslationReader.php on line 23
+[19-Nov-2025 23:13:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Reader\TranslationReaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Reader/TranslationReader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Reader/TranslationReader.php on line 23
+[17-Dec-2025 10:31:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Reader\TranslationReaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Reader/TranslationReader.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Reader/TranslationReader.php on line 23

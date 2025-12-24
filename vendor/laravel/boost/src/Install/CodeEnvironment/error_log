@@ -1,0 +1,112 @@
+[17-Nov-2025 10:13:37 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php on line 12
+[17-Nov-2025 17:29:04 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php on line 10
+[18-Nov-2025 00:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php on line 11
+[18-Nov-2025 21:50:19 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/VSCode.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/VSCode.php on line 10
+[20-Nov-2025 23:24:21 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php on line 10
+[26-Nov-2025 08:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php on line 10
+[26-Nov-2025 08:14:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php on line 12
+[26-Nov-2025 08:17:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/PhpStorm.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/PhpStorm.php on line 11
+[26-Nov-2025 08:19:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php on line 11
+[26-Nov-2025 08:25:11 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/VSCode.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/VSCode.php on line 10
+[26-Nov-2025 08:36:01 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php on line 10
+[26-Nov-2025 09:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php on line 12
+[26-Nov-2025 09:07:08 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/PhpStorm.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/PhpStorm.php on line 11
+[26-Nov-2025 09:13:27 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php on line 11
+[26-Nov-2025 09:14:30 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/VSCode.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/VSCode.php on line 10
+[26-Nov-2025 09:21:39 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php on line 10
+[26-Nov-2025 09:22:41 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php on line 10
+[26-Nov-2025 12:55:58 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/PhpStorm.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/PhpStorm.php on line 11
+[26-Nov-2025 12:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php on line 12
+[26-Nov-2025 13:29:47 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php on line 11
+[26-Nov-2025 13:37:06 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php on line 10
+[26-Nov-2025 13:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php on line 10
+[26-Nov-2025 13:44:40 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/VSCode.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/VSCode.php on line 10
+[26-Nov-2025 14:14:49 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Copilot.php on line 10
+[26-Nov-2025 14:16:54 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/PhpStorm.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/PhpStorm.php on line 11
+[26-Nov-2025 14:21:04 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/ClaudeCode.php on line 12
+[26-Nov-2025 14:22:09 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Cursor.php on line 11
+[26-Nov-2025 14:32:29 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Boost\Install\CodeEnvironment\CodeEnvironment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/CodeEnvironment/Codex.php on line 10

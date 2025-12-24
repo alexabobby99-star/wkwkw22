@@ -1,0 +1,15 @@
+[25-Nov-2025 21:56:16 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "Symfony\Component\Translation\Formatter\MessageFormatterInterface" does not exist in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php:21
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php(21): ReflectionMethod->__construct()
+#1 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php on line 21
+[26-Nov-2025 15:27:17 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "Symfony\Component\Translation\Formatter\MessageFormatterInterface" does not exist in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php:21
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php(21): ReflectionMethod->__construct()
+#1 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php on line 21
+[26-Nov-2025 16:25:41 UTC] PHP Fatal error:  Uncaught ReflectionException: Class "Symfony\Component\Translation\Formatter\MessageFormatterInterface" does not exist in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php:21
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php(21): ReflectionMethod->__construct()
+#1 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/MessageFormatter/MessageFormatterMapper.php on line 21

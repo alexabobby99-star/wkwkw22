@@ -1,0 +1,212 @@
+[15-Nov-2025 15:02:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/RouteParameter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/RouteParameter.php on line 10
+[15-Nov-2025 15:05:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Authenticated" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php on line 8
+[15-Nov-2025 15:06:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Authenticated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Authenticated.php on line 10
+[15-Nov-2025 15:09:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Config.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Config.php on line 10
+[15-Nov-2025 15:11:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php on line 10
+[15-Nov-2025 15:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Auth.php on line 10
+[15-Nov-2025 15:17:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php on line 11
+[15-Nov-2025 15:18:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php on line 10
+[15-Nov-2025 15:20:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php on line 10
+[15-Nov-2025 21:14:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php on line 12
+[15-Nov-2025 21:25:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php on line 10
+[15-Nov-2025 21:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Database" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php on line 8
+[15-Nov-2025 21:46:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php on line 11
+[19-Nov-2025 11:43:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/RouteParameter.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/RouteParameter.php on line 10
+[19-Nov-2025 11:50:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Authenticated.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Authenticated.php on line 10
+[19-Nov-2025 11:54:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php on line 11
+[19-Nov-2025 11:56:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php on line 10
+[19-Nov-2025 11:57:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php on line 10
+[19-Nov-2025 12:01:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Authenticated" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php on line 8
+[19-Nov-2025 12:02:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Config.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Config.php on line 10
+[19-Nov-2025 12:03:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Auth.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Auth.php on line 10
+[19-Nov-2025 12:04:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php on line 10
+[19-Nov-2025 12:05:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php on line 11
+[19-Nov-2025 12:09:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php on line 12
+[19-Nov-2025 12:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Database" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php on line 8
+[19-Nov-2025 12:15:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php on line 10
+[19-Nov-2025 12:25:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Authenticated" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php on line 8
+[19-Nov-2025 12:37:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php on line 10
+[19-Nov-2025 12:38:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Database" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php on line 8
+[19-Nov-2025 12:39:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php on line 12
+[19-Nov-2025 12:42:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php on line 10
+[19-Nov-2025 12:43:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php on line 11
+[19-Nov-2025 12:45:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php on line 10
+[19-Nov-2025 12:46:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php on line 10
+[19-Nov-2025 12:47:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php on line 11
+[19-Nov-2025 13:01:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php on line 11
+[19-Nov-2025 13:02:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Authenticated" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php on line 8
+[19-Nov-2025 13:03:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php on line 10
+[19-Nov-2025 13:07:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php on line 10
+[19-Nov-2025 13:13:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php on line 10
+[19-Nov-2025 13:15:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Database" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php on line 8
+[19-Nov-2025 13:16:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php on line 10
+[19-Nov-2025 13:17:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php on line 11
+[19-Nov-2025 13:18:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php on line 12
+[19-Nov-2025 13:27:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Authenticated" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/CurrentUser.php on line 8
+[19-Nov-2025 13:32:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Give.php on line 10
+[19-Nov-2025 13:36:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Storage.php on line 10
+[19-Nov-2025 13:37:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Cache.php on line 10
+[19-Nov-2025 13:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Log.php on line 10
+[19-Nov-2025 13:40:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Database.php on line 11
+[19-Nov-2025 13:41:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Tag.php on line 12
+[19-Nov-2025 13:44:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Container\ContextualAttribute" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/Context.php on line 11
+[19-Nov-2025 13:46:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Container\Attributes\Database" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Container/Attributes/DB.php on line 8

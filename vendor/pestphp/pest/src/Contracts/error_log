@@ -1,0 +1,16 @@
+[15-Nov-2025 19:21:17 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\Adapters\Phpunit\HasPrintableTestCaseName" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Contracts/HasPrintableTestCaseName.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Contracts/HasPrintableTestCaseName.php on line 12
+[15-Nov-2025 19:33:53 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\Adapters\Phpunit\HasPrintableTestCaseName" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Contracts/HasPrintableTestCaseName.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Contracts/HasPrintableTestCaseName.php on line 12
+[16-Nov-2025 18:12:24 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\Adapters\Phpunit\HasPrintableTestCaseName" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Contracts/HasPrintableTestCaseName.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Contracts/HasPrintableTestCaseName.php on line 12
+[16-Nov-2025 18:28:47 UTC] PHP Fatal error:  Uncaught Error: Interface "NunoMaduro\Collision\Contracts\Adapters\Phpunit\HasPrintableTestCaseName" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Contracts/HasPrintableTestCaseName.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Contracts/HasPrintableTestCaseName.php on line 12

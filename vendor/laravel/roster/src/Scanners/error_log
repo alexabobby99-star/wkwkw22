@@ -1,0 +1,32 @@
+[14-Nov-2025 00:14:00 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Roster\Scanners\BasePackageScanner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/PnpmPackageLock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/PnpmPackageLock.php on line 9
+[14-Nov-2025 00:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Roster\Scanners\BasePackageScanner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/YarnPackageLock.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/YarnPackageLock.php on line 7
+[14-Nov-2025 08:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Roster\Scanners\BasePackageScanner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/NpmPackageLock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/NpmPackageLock.php on line 8
+[14-Nov-2025 12:25:24 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Roster\Scanners\BasePackageScanner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/BunPackageLock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/BunPackageLock.php on line 8
+[18-Dec-2025 03:55:25 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Roster\Scanners\BasePackageScanner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/PnpmPackageLock.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/PnpmPackageLock.php on line 9
+[18-Dec-2025 03:59:37 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Roster\Scanners\BasePackageScanner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/YarnPackageLock.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/YarnPackageLock.php on line 7
+[18-Dec-2025 05:24:07 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Roster\Scanners\BasePackageScanner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/NpmPackageLock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/NpmPackageLock.php on line 8
+[18-Dec-2025 06:04:04 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Roster\Scanners\BasePackageScanner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/BunPackageLock.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/Scanners/BunPackageLock.php on line 8

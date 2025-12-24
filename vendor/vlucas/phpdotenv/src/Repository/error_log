@@ -1,0 +1,20 @@
+[14-Nov-2025 03:49:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\RepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php on line 11
+[14-Nov-2025 04:20:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\RepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php on line 11
+[14-Nov-2025 04:39:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\RepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php on line 11
+[14-Nov-2025 04:51:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\RepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php on line 11
+[14-Nov-2025 05:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Dotenv\Repository\RepositoryInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php on line 11

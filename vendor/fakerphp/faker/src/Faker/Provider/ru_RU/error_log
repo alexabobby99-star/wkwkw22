@@ -1,0 +1,220 @@
+[24-Nov-2025 23:23:41 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php on line 5
+[24-Nov-2025 23:26:52 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php on line 5
+[24-Nov-2025 23:29:00 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php on line 5
+[24-Nov-2025 23:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php on line 5
+[24-Nov-2025 23:43:33 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php on line 5
+[24-Nov-2025 23:45:37 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php on line 5
+[24-Nov-2025 23:57:25 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php on line 5
+[24-Nov-2025 23:59:29 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php on line 5
+[28-Nov-2025 09:11:06 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php on line 5
+[28-Nov-2025 09:12:05 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php on line 5
+[28-Nov-2025 09:18:26 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php on line 5
+[28-Nov-2025 09:20:31 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php on line 5
+[28-Nov-2025 09:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php on line 5
+[28-Nov-2025 09:27:41 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php on line 5
+[28-Nov-2025 09:32:55 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php on line 5
+[28-Nov-2025 09:34:00 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php on line 5
+[28-Nov-2025 09:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php on line 5
+[28-Nov-2025 09:46:59 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php on line 5
+[28-Nov-2025 09:57:27 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php on line 5
+[28-Nov-2025 10:02:40 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php on line 5
+[28-Nov-2025 10:07:48 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php on line 5
+[28-Nov-2025 10:10:55 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php on line 5
+[28-Nov-2025 10:16:19 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php on line 5
+[28-Nov-2025 10:23:20 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php on line 5
+[28-Nov-2025 10:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php on line 5
+[28-Nov-2025 10:31:17 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php on line 5
+[28-Nov-2025 10:33:21 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php on line 5
+[28-Nov-2025 10:40:27 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php on line 5
+[28-Nov-2025 10:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php on line 5
+[28-Nov-2025 10:56:13 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php on line 5
+[28-Nov-2025 11:02:29 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php on line 5
+[28-Nov-2025 20:24:57 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php on line 5
+[28-Nov-2025 20:27:04 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php on line 5
+[28-Nov-2025 20:31:17 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php on line 5
+[28-Nov-2025 20:39:46 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php on line 5
+[28-Nov-2025 20:50:21 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php on line 5
+[28-Nov-2025 20:53:28 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php on line 5
+[28-Nov-2025 21:05:12 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php on line 5
+[28-Nov-2025 21:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php on line 5
+[29-Nov-2025 07:58:44 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php on line 5
+[29-Nov-2025 07:59:42 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php on line 5
+[29-Nov-2025 08:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php on line 5
+[29-Nov-2025 08:03:51 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php on line 5
+[29-Nov-2025 08:04:55 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php on line 5
+[29-Nov-2025 08:05:57 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php on line 5
+[29-Nov-2025 08:07:00 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php on line 5
+[29-Nov-2025 08:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php on line 5
+[29-Nov-2025 11:50:20 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Address.php on line 5
+[29-Nov-2025 12:07:02 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Color" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Color.php on line 5
+[29-Nov-2025 12:10:12 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Internet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Internet.php on line 5
+[29-Nov-2025 12:23:03 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Person" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Person.php on line 5
+[29-Nov-2025 12:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\PhoneNumber" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/PhoneNumber.php on line 5
+[29-Nov-2025 12:38:57 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Text" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Text.php on line 5
+[29-Nov-2025 12:48:30 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Company" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Company.php on line 5
+[29-Nov-2025 12:53:43 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/ru_RU/Payment.php on line 5

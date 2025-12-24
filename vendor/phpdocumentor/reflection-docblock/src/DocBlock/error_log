@@ -1,0 +1,24 @@
+[13-Nov-2025 15:21:00 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/TagFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/TagFactory.php on line 19
+[13-Nov-2025 15:24:01 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\TagFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php on line 74
+[16-Nov-2025 08:02:22 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\TagFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php on line 74
+[16-Nov-2025 08:16:43 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/TagFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/TagFactory.php on line 19
+[17-Nov-2025 11:18:14 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\TagFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php:74
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/StandardTagFactory.php on line 74
+[17-Nov-2025 11:18:52 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/TagFactory.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/TagFactory.php on line 19

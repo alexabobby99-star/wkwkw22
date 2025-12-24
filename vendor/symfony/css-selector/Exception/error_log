@@ -1,0 +1,48 @@
+[30-Nov-2025 20:05:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/SyntaxErrorException.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/SyntaxErrorException.php on line 24
+[30-Nov-2025 20:05:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/InternalErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/InternalErrorException.php on line 22
+[30-Nov-2025 20:06:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ExpressionErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ExpressionErrorException.php on line 22
+[30-Nov-2025 20:39:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ParseException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ParseException.php on line 22
+[30-Nov-2025 21:24:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/InternalErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/InternalErrorException.php on line 22
+[30-Nov-2025 21:24:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ExpressionErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ExpressionErrorException.php on line 22
+[30-Nov-2025 21:26:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ParseException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ParseException.php on line 22
+[30-Nov-2025 21:28:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/SyntaxErrorException.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/SyntaxErrorException.php on line 24
+[30-Nov-2025 21:34:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/SyntaxErrorException.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/SyntaxErrorException.php on line 24
+[30-Nov-2025 21:37:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/InternalErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/InternalErrorException.php on line 22
+[30-Nov-2025 21:39:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ExpressionErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ExpressionErrorException.php on line 22
+[30-Nov-2025 21:42:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ParseException.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Exception/ParseException.php on line 22

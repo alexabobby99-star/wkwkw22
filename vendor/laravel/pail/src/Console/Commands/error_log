@@ -1,0 +1,4 @@
+[25-Nov-2025 16:17:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/pail/src/Console/Commands/PailCommand.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/pail/src/Console/Commands/PailCommand.php on line 18

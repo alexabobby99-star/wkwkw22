@@ -1,0 +1,32 @@
+[14-Nov-2025 17:27:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Profanity\Contracts\Logger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/NullLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/NullLogger.php on line 12
+[14-Nov-2025 17:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Profanity\Contracts\Logger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/JsonLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/JsonLogger.php on line 12
+[23-Nov-2025 14:00:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Profanity\Contracts\Logger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/JsonLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/JsonLogger.php on line 12
+[23-Nov-2025 14:01:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Profanity\Contracts\Logger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/NullLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/NullLogger.php on line 12
+[23-Nov-2025 14:25:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Profanity\Contracts\Logger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/JsonLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/JsonLogger.php on line 12
+[23-Nov-2025 14:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Profanity\Contracts\Logger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/NullLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/NullLogger.php on line 12
+[23-Nov-2025 14:43:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Profanity\Contracts\Logger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/NullLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/NullLogger.php on line 12
+[23-Nov-2025 14:47:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Profanity\Contracts\Logger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/JsonLogger.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-profanity/src/Logging/JsonLogger.php on line 12

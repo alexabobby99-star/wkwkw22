@@ -1,0 +1,12 @@
+[25-Nov-2025 22:45:48 UTC] PHP Warning:  Undefined variable $first in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/two-column-detail.php on line 3
+[25-Nov-2025 22:45:48 UTC] PHP Warning:  Undefined variable $second in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/two-column-detail.php on line 6
+[25-Nov-2025 22:45:48 UTC] PHP Warning:  Undefined variable $second in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/two-column-detail.php on line 8
+[25-Nov-2025 22:48:39 UTC] PHP Warning:  Undefined variable $marginTop in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/line.php on line 1
+[25-Nov-2025 22:48:39 UTC] PHP Warning:  Undefined variable $bgColor in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/line.php on line 2
+[25-Nov-2025 22:48:39 UTC] PHP Warning:  Undefined variable $fgColor in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/line.php on line 2
+[25-Nov-2025 22:48:39 UTC] PHP Warning:  Undefined variable $title in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/line.php on line 2
+[25-Nov-2025 22:48:39 UTC] PHP Warning:  Undefined variable $title in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/line.php on line 3
+[25-Nov-2025 22:48:39 UTC] PHP Warning:  Undefined variable $content in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/line.php on line 6
+[25-Nov-2025 23:21:14 UTC] PHP Warning:  Undefined variable $content in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/alert.php on line 2
+[30-Nov-2025 18:37:20 UTC] PHP Warning:  Undefined variable $elements in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/bullet-list.php on line 2
+[30-Nov-2025 18:37:20 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/resources/views/components/bullet-list.php on line 2

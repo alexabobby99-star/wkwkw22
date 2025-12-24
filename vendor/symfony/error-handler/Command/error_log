@@ -1,0 +1,20 @@
+[11-Nov-2025 22:21:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php on line 36
+[12-Nov-2025 06:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php on line 36
+[16-Dec-2025 09:45:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php on line 36
+[16-Dec-2025 17:51:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php on line 36
+[16-Dec-2025 17:54:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Command/ErrorDumpCommand.php on line 36

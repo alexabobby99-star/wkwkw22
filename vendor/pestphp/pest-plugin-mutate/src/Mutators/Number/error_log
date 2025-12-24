@@ -1,0 +1,80 @@
+[20-Nov-2025 05:53:31 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php on line 14
+[20-Nov-2025 05:58:44 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php on line 14
+[20-Nov-2025 09:16:38 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php on line 13
+[20-Nov-2025 23:27:12 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php on line 13
+[27-Nov-2025 01:55:04 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php on line 14
+[27-Nov-2025 01:58:11 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php on line 13
+[27-Nov-2025 01:59:15 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php on line 13
+[27-Nov-2025 02:03:18 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php on line 14
+[27-Nov-2025 02:23:03 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php on line 14
+[27-Nov-2025 02:27:18 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php on line 14
+[27-Nov-2025 02:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php on line 13
+[27-Nov-2025 02:46:41 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php on line 13
+[27-Nov-2025 03:58:33 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php on line 14
+[27-Nov-2025 04:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php on line 14
+[27-Nov-2025 04:05:48 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php on line 13
+[27-Nov-2025 04:07:57 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php on line 13
+[27-Nov-2025 04:28:36 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementInteger.php on line 14
+[27-Nov-2025 04:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementInteger.php on line 14
+[27-Nov-2025 04:53:06 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/IncrementFloat.php on line 13
+[27-Nov-2025 04:53:37 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Number/DecrementFloat.php on line 13

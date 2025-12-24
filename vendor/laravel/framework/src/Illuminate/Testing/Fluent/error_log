@@ -1,0 +1,4 @@
+[16-Nov-2025 21:51:13 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[25-Nov-2025 07:06:25 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[25-Nov-2025 08:39:18 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14
+[25-Nov-2025 17:33:10 UTC] PHP Fatal error:  Trait "Illuminate\Testing\Fluent\Concerns\Has" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Testing/Fluent/AssertableJson.php on line 14

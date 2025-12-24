@@ -1,0 +1,4 @@
+[14-Nov-2025 13:01:35 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Input\MarkdownInputInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Input/MarkdownInput.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Input/MarkdownInput.php on line 18

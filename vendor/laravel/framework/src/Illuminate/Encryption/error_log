@@ -1,0 +1,40 @@
+[14-Nov-2025 15:59:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[21-Nov-2025 16:12:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[24-Nov-2025 00:26:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[24-Nov-2025 00:38:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[24-Nov-2025 00:49:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[24-Nov-2025 00:52:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[24-Nov-2025 01:08:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9
+[24-Nov-2025 01:13:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[18-Dec-2025 13:20:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Encryption\Encrypter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 11
+[18-Dec-2025 18:14:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 9

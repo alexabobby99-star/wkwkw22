@@ -1,0 +1,16 @@
+[15-Nov-2025 09:24:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\StaticAnalysis\SourceAnalyser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingSourceAnalyser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingSourceAnalyser.php on line 26
+[15-Nov-2025 09:28:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\StaticAnalysis\SourceAnalyser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingSourceAnalyser.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingSourceAnalyser.php on line 35
+[18-Dec-2025 08:17:12 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\StaticAnalysis\SourceAnalyser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingSourceAnalyser.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/ParsingSourceAnalyser.php on line 35
+[18-Dec-2025 08:18:13 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\CodeCoverage\StaticAnalysis\SourceAnalyser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingSourceAnalyser.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/StaticAnalysis/CachingSourceAnalyser.php on line 26

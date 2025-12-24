@@ -1,0 +1,251 @@
+[14-Nov-2025 16:41:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php on line 9
+[15-Nov-2025 10:06:44 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php on line 35
+[15-Nov-2025 21:06:44 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingSingletonResourceRegistration.php on line 8
+[15-Nov-2025 22:42:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php on line 10
+[15-Nov-2025 22:49:14 UTC] PHP Fatal error:  Trait "Illuminate\Routing\FiltersControllerMiddleware" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php on line 9
+[15-Nov-2025 22:55:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php on line 7
+[15-Nov-2025 23:41:13 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CallableDispatcher.php on line 9
+[16-Nov-2025 08:32:32 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php on line 21
+[16-Nov-2025 08:36:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php on line 17
+[16-Nov-2025 15:02:17 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingResourceRegistration.php on line 8
+[16-Nov-2025 16:07:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php on line 7
+[16-Nov-2025 16:49:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 19
+[17-Nov-2025 10:29:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Pipeline\Pipeline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 16
+[18-Nov-2025 14:28:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php on line 15
+[18-Nov-2025 15:09:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Routing\RouteCollectionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php on line 19
+[19-Nov-2025 07:49:33 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteDependencyResolverTrait.php on line 8
+[19-Nov-2025 10:28:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 8
+[20-Nov-2025 09:29:25 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 38
+[20-Nov-2025 19:10:55 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Route.php on line 30
+[26-Nov-2025 15:46:05 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php on line 35
+[26-Nov-2025 15:48:11 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php on line 9
+[26-Nov-2025 15:50:13 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingSingletonResourceRegistration.php on line 8
+[26-Nov-2025 15:53:24 UTC] PHP Fatal error:  Trait "Illuminate\Routing\FiltersControllerMiddleware" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php on line 9
+[26-Nov-2025 15:54:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 19
+[26-Nov-2025 15:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php on line 10
+[26-Nov-2025 15:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php on line 17
+[26-Nov-2025 15:59:36 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingResourceRegistration.php on line 8
+[26-Nov-2025 16:00:36 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CallableDispatcher.php on line 9
+[26-Nov-2025 16:01:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php on line 7
+[26-Nov-2025 16:02:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php on line 7
+[26-Nov-2025 16:03:42 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php on line 21
+[26-Nov-2025 16:07:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Routing\RouteCollectionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php on line 19
+[26-Nov-2025 16:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Pipeline\Pipeline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 16
+[26-Nov-2025 16:13:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php on line 15
+[26-Nov-2025 16:15:52 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteDependencyResolverTrait.php on line 8
+[26-Nov-2025 16:18:48 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 38
+[26-Nov-2025 16:20:46 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Route.php on line 30
+[26-Nov-2025 16:22:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 8
+[26-Nov-2025 16:30:34 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php on line 9
+[26-Nov-2025 16:34:43 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php on line 35
+[26-Nov-2025 16:37:51 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingSingletonResourceRegistration.php on line 8
+[26-Nov-2025 16:38:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php on line 17
+[26-Nov-2025 16:39:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php on line 10
+[26-Nov-2025 16:41:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php on line 7
+[26-Nov-2025 16:42:07 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CallableDispatcher.php on line 9
+[26-Nov-2025 16:43:11 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingResourceRegistration.php on line 8
+[26-Nov-2025 16:44:15 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 19
+[26-Nov-2025 16:45:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Pipeline\Pipeline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 16
+[26-Nov-2025 16:46:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php on line 7
+[26-Nov-2025 16:47:25 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php on line 21
+[26-Nov-2025 16:48:29 UTC] PHP Fatal error:  Trait "Illuminate\Routing\FiltersControllerMiddleware" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php on line 9
+[26-Nov-2025 16:49:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php on line 15
+[26-Nov-2025 16:50:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Routing\RouteCollectionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php on line 19
+[26-Nov-2025 16:53:50 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 38
+[26-Nov-2025 16:54:54 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteDependencyResolverTrait.php on line 8
+[26-Nov-2025 16:57:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 8
+[26-Nov-2025 16:58:00 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Route.php on line 30
+[26-Nov-2025 17:09:04 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php on line 9
+[26-Nov-2025 17:09:44 UTC] PHP Fatal error:  Trait "Illuminate\Routing\FiltersControllerMiddleware" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php on line 9
+[26-Nov-2025 17:11:49 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingSingletonResourceRegistration.php on line 8
+[26-Nov-2025 17:12:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php on line 10
+[26-Nov-2025 17:14:56 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CallableDispatcher.php on line 9
+[26-Nov-2025 17:15:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php on line 17
+[26-Nov-2025 17:16:53 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php on line 35
+[26-Nov-2025 17:17:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php on line 7
+[26-Nov-2025 17:19:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php on line 21
+[26-Nov-2025 17:20:04 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingResourceRegistration.php on line 8
+[26-Nov-2025 17:26:14 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 19
+[26-Nov-2025 17:28:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Pipeline\Pipeline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 16
+[26-Nov-2025 17:29:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php on line 7
+[26-Nov-2025 17:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php on line 15
+[26-Nov-2025 17:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 8
+[26-Nov-2025 17:33:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Routing\RouteCollectionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php on line 19
+[26-Nov-2025 17:35:33 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 38
+[26-Nov-2025 17:36:30 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteDependencyResolverTrait.php on line 8
+[26-Nov-2025 17:40:40 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Route.php on line 30
+[26-Nov-2025 17:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php on line 7
+[26-Nov-2025 17:43:50 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CallableDispatcher.php on line 9
+[26-Nov-2025 17:44:53 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php on line 35
+[26-Nov-2025 17:45:56 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingSingletonResourceRegistration.php on line 8
+[26-Nov-2025 17:46:57 UTC] PHP Fatal error:  Trait "Illuminate\Routing\FiltersControllerMiddleware" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php on line 9
+[26-Nov-2025 17:47:58 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingResourceRegistration.php on line 8
+[26-Nov-2025 17:48:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php on line 10
+[26-Nov-2025 17:50:04 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php on line 21
+[26-Nov-2025 17:51:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php on line 17
+[26-Nov-2025 17:52:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php on line 9
+[26-Nov-2025 17:56:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Pipeline\Pipeline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 16
+[26-Nov-2025 17:56:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php on line 15
+[26-Nov-2025 17:57:57 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 19
+[26-Nov-2025 17:58:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php on line 7
+[26-Nov-2025 18:01:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 8
+[18-Dec-2025 13:25:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php on line 9
+[18-Dec-2025 14:22:10 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteRegistrar.php on line 35
+[18-Dec-2025 14:58:46 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingSingletonResourceRegistration.php on line 8
+[18-Dec-2025 15:03:59 UTC] PHP Fatal error:  Trait "Illuminate\Routing\FiltersControllerMiddleware" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ControllerDispatcher.php on line 9
+[18-Dec-2025 15:08:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/SortedMiddleware.php on line 7
+[18-Dec-2025 15:11:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RedirectController.php on line 10
+[18-Dec-2025 15:19:07 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CallableDispatcher.php on line 9
+[18-Dec-2025 15:24:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RoutingServiceProvider.php on line 17
+[18-Dec-2025 15:25:58 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ResponseFactory.php on line 21
+[18-Dec-2025 15:42:40 UTC] PHP Fatal error:  Trait "Illuminate\Routing\CreatesRegularExpressionRouteConstraints" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/PendingResourceRegistration.php on line 8
+[18-Dec-2025 15:59:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 19
+[18-Dec-2025 16:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/ViewController.php on line 7
+[18-Dec-2025 16:34:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Pipeline\Pipeline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php on line 16
+[18-Dec-2025 17:15:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/CompiledRouteCollection.php on line 15
+[18-Dec-2025 17:21:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Routing\RouteCollectionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/AbstractRouteCollection.php on line 19
+[18-Dec-2025 17:39:58 UTC] PHP Fatal error:  Trait "Illuminate\Routing\ResolvesRouteDependencies" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteDependencyResolverTrait.php on line 8
+[18-Dec-2025 17:43:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\AbstractRouteCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/RouteCollection.php on line 8
+[18-Dec-2025 17:57:49 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 38
+[18-Dec-2025 18:03:08 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Routing/Route.php on line 30

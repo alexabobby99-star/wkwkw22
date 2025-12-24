@@ -1,0 +1,40 @@
+[13-Nov-2025 08:58:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php on line 9
+[13-Nov-2025 08:59:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php on line 18
+[22-Nov-2025 03:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php on line 18
+[22-Nov-2025 03:12:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php on line 9
+[22-Nov-2025 22:03:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php on line 18
+[22-Nov-2025 22:06:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php on line 9
+[22-Nov-2025 22:31:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php on line 18
+[22-Nov-2025 22:32:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php on line 9
+[22-Nov-2025 22:45:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Native.php on line 18
+[22-Nov-2025 22:49:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Serializable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Serializers/Signed.php on line 9

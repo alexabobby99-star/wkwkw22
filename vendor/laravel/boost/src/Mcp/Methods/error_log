@@ -1,0 +1,1 @@
+[16-Nov-2025 16:42:26 UTC] PHP Fatal error:  Trait "Laravel\Mcp\Server\Methods\Concerns\InteractsWithResponses" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Mcp/Methods/CallToolWithExecutor.php on line 18

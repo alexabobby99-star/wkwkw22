@@ -1,0 +1,20 @@
+[21-Nov-2025 06:47:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[21-Nov-2025 07:21:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[21-Nov-2025 08:18:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[21-Nov-2025 14:05:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27
+[17-Dec-2025 15:37:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Command/MailerTestCommand.php on line 27

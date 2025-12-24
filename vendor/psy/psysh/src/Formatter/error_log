@@ -1,0 +1,60 @@
+[13-Nov-2025 17:34:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[14-Nov-2025 08:38:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20
+[14-Nov-2025 23:07:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22
+[15-Nov-2025 16:21:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[15-Nov-2025 16:28:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20
+[15-Nov-2025 16:35:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22
+[15-Nov-2025 17:02:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22
+[15-Nov-2025 17:06:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20
+[15-Nov-2025 17:11:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[15-Nov-2025 17:18:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22
+[15-Nov-2025 17:31:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20
+[15-Nov-2025 17:33:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[18-Dec-2025 00:50:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/DocblockFormatter.php on line 20
+[18-Dec-2025 05:25:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/CodeFormatter.php on line 20
+[18-Dec-2025 07:05:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Formatter\ReflectorFormatter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Formatter/SignatureFormatter.php on line 22

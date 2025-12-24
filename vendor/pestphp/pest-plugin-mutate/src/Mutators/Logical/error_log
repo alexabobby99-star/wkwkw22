@@ -1,0 +1,172 @@
+[15-Nov-2025 03:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/TrueToFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/TrueToFalse.php on line 13
+[17-Nov-2025 09:41:37 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalXorToLogicalAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalXorToLogicalAnd.php on line 12
+[17-Nov-2025 09:46:26 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalAndToLogicalOr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalAndToLogicalOr.php on line 12
+[17-Nov-2025 09:48:17 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalOrToLogicalAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalOrToLogicalAnd.php on line 12
+[18-Nov-2025 12:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToFalse.php on line 13
+[19-Nov-2025 14:34:18 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToTrue.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToTrue.php on line 13
+[19-Nov-2025 20:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/RemoveNot.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/RemoveNot.php on line 11
+[20-Nov-2025 05:55:31 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/FalseToTrue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/FalseToTrue.php on line 12
+[20-Nov-2025 06:06:17 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanOrToBooleanAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanOrToBooleanAnd.php on line 12
+[20-Nov-2025 06:06:42 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanAndToBooleanOr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanAndToBooleanOr.php on line 12
+[27-Nov-2025 03:47:08 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalAndToLogicalOr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalAndToLogicalOr.php on line 12
+[27-Nov-2025 03:48:04 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalXorToLogicalAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalXorToLogicalAnd.php on line 12
+[27-Nov-2025 03:49:06 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalOrToLogicalAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalOrToLogicalAnd.php on line 12
+[27-Nov-2025 03:50:07 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/TrueToFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/TrueToFalse.php on line 13
+[27-Nov-2025 03:51:08 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/CoalesceRemoveLeft.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/CoalesceRemoveLeft.php on line 11
+[27-Nov-2025 03:53:15 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToFalse.php on line 13
+[27-Nov-2025 03:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/FalseToTrue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/FalseToTrue.php on line 12
+[27-Nov-2025 03:57:31 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToTrue.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToTrue.php on line 13
+[27-Nov-2025 03:59:34 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanAndToBooleanOr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanAndToBooleanOr.php on line 12
+[27-Nov-2025 04:02:39 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/RemoveNot.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/RemoveNot.php on line 11
+[27-Nov-2025 04:04:44 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanOrToBooleanAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanOrToBooleanAnd.php on line 12
+[27-Nov-2025 04:14:26 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/CoalesceRemoveLeft.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/CoalesceRemoveLeft.php on line 11
+[27-Nov-2025 04:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/TrueToFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/TrueToFalse.php on line 13
+[27-Nov-2025 04:18:38 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalAndToLogicalOr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalAndToLogicalOr.php on line 12
+[27-Nov-2025 04:19:42 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalXorToLogicalAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalXorToLogicalAnd.php on line 12
+[27-Nov-2025 04:20:46 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalOrToLogicalAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalOrToLogicalAnd.php on line 12
+[27-Nov-2025 04:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToFalse.php on line 13
+[27-Nov-2025 04:25:24 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/RemoveNot.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/RemoveNot.php on line 11
+[27-Nov-2025 04:27:30 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToTrue.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToTrue.php on line 13
+[27-Nov-2025 04:35:58 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanOrToBooleanAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanOrToBooleanAnd.php on line 12
+[27-Nov-2025 04:39:08 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/FalseToTrue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/FalseToTrue.php on line 12
+[27-Nov-2025 04:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanAndToBooleanOr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanAndToBooleanOr.php on line 12
+[27-Nov-2025 04:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalOrToLogicalAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalOrToLogicalAnd.php on line 12
+[27-Nov-2025 04:59:23 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/CoalesceRemoveLeft.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/CoalesceRemoveLeft.php on line 11
+[27-Nov-2025 05:00:26 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToTrue.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToTrue.php on line 13
+[27-Nov-2025 05:01:27 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/TrueToFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/TrueToFalse.php on line 13
+[27-Nov-2025 05:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/InstanceOfToFalse.php on line 13
+[27-Nov-2025 05:03:30 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalXorToLogicalAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalXorToLogicalAnd.php on line 12
+[27-Nov-2025 05:05:32 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalAndToLogicalOr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/LogicalAndToLogicalOr.php on line 12
+[27-Nov-2025 05:14:57 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/RemoveNot.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/RemoveNot.php on line 11
+[27-Nov-2025 05:22:19 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/FalseToTrue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/FalseToTrue.php on line 12
+[27-Nov-2025 05:26:28 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanAndToBooleanOr.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanAndToBooleanOr.php on line 12
+[27-Nov-2025 05:28:35 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanOrToBooleanAnd.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/Logical/BooleanOrToBooleanAnd.php on line 12

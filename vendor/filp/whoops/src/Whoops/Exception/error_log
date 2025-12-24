@@ -1,0 +1,20 @@
+[25-Nov-2025 06:19:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php on line 13
+[28-Nov-2025 02:29:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php on line 13
+[28-Nov-2025 03:08:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php on line 13
+[28-Nov-2025 03:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php on line 13
+[28-Nov-2025 04:09:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Whoops\Inspector\InspectorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/filp/whoops/src/Whoops/Exception/Inspector.php on line 13

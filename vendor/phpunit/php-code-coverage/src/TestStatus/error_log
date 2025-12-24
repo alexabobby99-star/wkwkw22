@@ -1,0 +1,64 @@
+[14-Nov-2025 08:48:03 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[14-Nov-2025 12:32:00 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[14-Nov-2025 12:32:33 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[14-Nov-2025 17:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[14-Nov-2025 22:26:22 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[14-Nov-2025 22:26:34 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[14-Nov-2025 22:27:08 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[14-Nov-2025 22:32:07 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[14-Nov-2025 22:37:02 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[14-Nov-2025 22:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[14-Nov-2025 22:49:00 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[14-Nov-2025 22:50:38 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15
+[18-Dec-2025 05:28:10 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Success.php on line 15
+[18-Dec-2025 06:09:59 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\Known" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Failure.php on line 15
+[18-Dec-2025 06:10:54 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Unknown.php on line 15
+[18-Dec-2025 06:43:47 UTC] PHP Fatal error:  Uncaught Error: Class "SebastianBergmann\CodeCoverage\Test\TestStatus\TestStatus" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-code-coverage/src/TestStatus/Known.php on line 15

@@ -1,0 +1,32 @@
+[18-Nov-2025 09:19:28 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[20-Nov-2025 13:39:52 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[25-Nov-2025 18:45:07 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[25-Nov-2025 18:49:30 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[25-Nov-2025 18:54:43 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[25-Nov-2025 19:00:14 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8
+[25-Nov-2025 19:05:21 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ReplaceFilter.php on line 8
+[25-Nov-2025 19:08:02 UTC] PHP Fatal error:  Uncaught Error: Interface "DeepCopy\TypeFilter\TypeFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/myclabs/deep-copy/src/DeepCopy/TypeFilter/ShallowCopyFilter.php on line 8

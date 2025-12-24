@@ -1,0 +1,272 @@
+[17-Nov-2025 08:41:36 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php on line 40
+[17-Nov-2025 08:41:37 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php on line 22
+[17-Nov-2025 08:41:39 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php on line 21
+[17-Nov-2025 08:41:46 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php on line 22
+[17-Nov-2025 08:42:07 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ExtendsFactory.php on line 21
+[17-Nov-2025 08:43:10 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php on line 21
+[17-Nov-2025 08:45:14 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php on line 21
+[17-Nov-2025 08:46:10 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php on line 22
+[17-Nov-2025 08:47:10 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php on line 21
+[17-Nov-2025 08:48:16 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php on line 22
+[17-Nov-2025 08:49:17 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php on line 21
+[17-Nov-2025 08:50:23 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php on line 27
+[17-Nov-2025 08:57:04 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php on line 29
+[20-Nov-2025 09:49:23 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php on line 21
+[20-Nov-2025 09:49:57 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php on line 22
+[20-Nov-2025 09:50:58 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php on line 40
+[20-Nov-2025 09:51:59 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ExtendsFactory.php on line 21
+[20-Nov-2025 09:53:01 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php on line 22
+[20-Nov-2025 09:56:01 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php on line 21
+[20-Nov-2025 09:56:50 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php on line 22
+[20-Nov-2025 09:58:55 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php on line 21
+[20-Nov-2025 10:00:00 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php on line 21
+[20-Nov-2025 10:01:00 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php on line 21
+[20-Nov-2025 10:02:06 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php on line 29
+[20-Nov-2025 10:04:11 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php on line 22
+[20-Nov-2025 10:05:14 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php on line 22
+[20-Nov-2025 10:07:20 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php on line 21
+[20-Nov-2025 10:08:24 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php on line 27
+[20-Nov-2025 10:09:26 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php on line 40
+[20-Nov-2025 10:15:20 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php on line 22
+[20-Nov-2025 10:17:53 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ExtendsFactory.php on line 21
+[20-Nov-2025 10:53:04 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php on line 22
+[20-Nov-2025 10:54:02 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php on line 40
+[20-Nov-2025 10:55:02 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php on line 22
+[20-Nov-2025 10:58:05 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php on line 21
+[20-Nov-2025 10:59:08 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php on line 21
+[20-Nov-2025 11:01:15 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php on line 22
+[20-Nov-2025 11:02:18 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php on line 21
+[20-Nov-2025 11:04:26 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php on line 21
+[20-Nov-2025 11:06:33 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php on line 22
+[20-Nov-2025 11:07:32 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php on line 29
+[20-Nov-2025 11:08:36 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php on line 27
+[20-Nov-2025 11:09:38 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php on line 21
+[23-Nov-2025 04:23:29 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php on line 21
+[23-Nov-2025 04:28:52 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php on line 21
+[23-Nov-2025 04:29:35 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php on line 22
+[23-Nov-2025 04:30:37 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php on line 22
+[23-Nov-2025 04:31:37 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php on line 40
+[23-Nov-2025 04:32:39 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php on line 22
+[23-Nov-2025 04:33:40 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php on line 21
+[23-Nov-2025 04:34:43 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php on line 21
+[23-Nov-2025 04:35:43 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php on line 22
+[23-Nov-2025 04:36:46 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php on line 27
+[23-Nov-2025 04:37:49 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php on line 21
+[23-Nov-2025 04:39:53 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php on line 29
+[23-Nov-2025 04:44:38 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php on line 21
+[23-Nov-2025 05:13:43 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateExtendsFactory.php on line 21
+[23-Nov-2025 05:17:46 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyReadFactory.php on line 22
+[23-Nov-2025 05:18:26 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/AbstractPHPStanFactory.php on line 40
+[23-Nov-2025 05:24:53 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/VarFactory.php on line 22
+[23-Nov-2025 05:25:31 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ImplementsFactory.php on line 21
+[23-Nov-2025 05:26:36 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateImplementsFactory.php on line 21
+[23-Nov-2025 05:28:43 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyWriteFactory.php on line 22
+[23-Nov-2025 05:31:38 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/PropertyFactory.php on line 22
+[23-Nov-2025 05:32:28 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/TemplateFactory.php on line 21
+[23-Nov-2025 05:33:33 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ReturnFactory.php on line 21
+[23-Nov-2025 05:38:48 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/ParamFactory.php on line 29
+[23-Nov-2025 05:41:24 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Factory\PHPStanFactory" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Factory/MethodFactory.php on line 27

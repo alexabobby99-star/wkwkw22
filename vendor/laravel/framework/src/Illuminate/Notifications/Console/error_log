@@ -1,0 +1,4 @@
+[20-Nov-2025 18:44:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\MigrationGeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Console/NotificationTableCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Console/NotificationTableCommand.php on line 9

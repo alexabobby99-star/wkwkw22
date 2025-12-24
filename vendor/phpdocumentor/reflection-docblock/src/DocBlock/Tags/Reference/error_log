@@ -1,0 +1,24 @@
+[16-Nov-2025 19:35:24 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Reference\Reference" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Url.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Url.php on line 21
+[16-Nov-2025 19:46:48 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Reference\Reference" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Fqsen.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Fqsen.php on line 21
+[20-Nov-2025 04:30:08 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Reference\Reference" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Fqsen.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Fqsen.php on line 21
+[20-Nov-2025 04:30:25 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Reference\Reference" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Url.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Url.php on line 21
+[20-Nov-2025 04:40:48 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Reference\Reference" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Url.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Url.php on line 21
+[20-Nov-2025 04:44:30 UTC] PHP Fatal error:  Uncaught Error: Interface "phpDocumentor\Reflection\DocBlock\Tags\Reference\Reference" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Fqsen.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpdocumentor/reflection-docblock/src/DocBlock/Tags/Reference/Fqsen.php on line 21

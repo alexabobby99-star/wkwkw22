@@ -1,0 +1,24 @@
+[14-Nov-2025 05:45:24 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php on line 13
+[17-Nov-2025 13:15:48 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php on line 13
+[17-Nov-2025 13:22:52 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php on line 13
+[17-Nov-2025 13:38:28 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php on line 13
+[17-Nov-2025 14:50:55 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php on line 13
+[17-Nov-2025 15:01:20 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Resources/bin/translation-status.php on line 13

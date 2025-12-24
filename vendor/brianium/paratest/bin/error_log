@@ -1,0 +1,56 @@
+[12-Nov-2025 08:23:22 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[12-Nov-2025 08:23:22 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php:36
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(36): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(78): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 00:04:43 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 00:04:43 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php:36
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(36): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(78): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 01:24:51 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 01:24:51 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php:36
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(36): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(78): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 06:39:50 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 06:39:50 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php:36
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(36): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(78): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 11:31:25 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 11:31:25 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php:36
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(36): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(78): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 11:50:58 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 11:50:58 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php:36
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(36): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(78): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 13:56:24 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[21-Nov-2025 13:56:24 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php:36
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(36): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(78): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[16-Dec-2025 19:26:16 UTC] PHP Warning:  Trying to access array offset on false in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36
+[16-Dec-2025 19:26:16 UTC] PHP Fatal error:  Uncaught TypeError: fopen(): Argument #1 ($filename) must be of type string, null given in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php:36
+Stack trace:
+#0 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(36): fopen()
+#1 /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php(78): {closure}()
+#2 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/brianium/paratest/bin/phpunit-wrapper.php on line 36

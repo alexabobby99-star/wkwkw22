@@ -1,0 +1,4 @@
+[15-Nov-2025 03:23:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\UuidInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Lazy/LazyUuidFromString.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Lazy/LazyUuidFromString.php on line 51

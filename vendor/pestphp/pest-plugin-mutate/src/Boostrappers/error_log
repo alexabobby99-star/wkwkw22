@@ -1,0 +1,28 @@
+[13-Nov-2025 16:33:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootSubscribers.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootSubscribers.php on line 19
+[13-Nov-2025 16:40:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootPhpUnitSubscribers.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootPhpUnitSubscribers.php on line 19
+[23-Nov-2025 20:54:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootPhpUnitSubscribers.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootPhpUnitSubscribers.php on line 19
+[23-Nov-2025 20:59:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootSubscribers.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootSubscribers.php on line 19
+[23-Nov-2025 21:14:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootSubscribers.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootSubscribers.php on line 19
+[23-Nov-2025 21:17:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootPhpUnitSubscribers.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootPhpUnitSubscribers.php on line 19
+[23-Nov-2025 21:30:14 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\Bootstrapper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootSubscribers.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Boostrappers/BootSubscribers.php on line 19

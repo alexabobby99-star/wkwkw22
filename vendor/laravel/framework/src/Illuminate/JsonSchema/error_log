@@ -1,0 +1,24 @@
+[22-Nov-2025 01:47:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\JsonSchema\JsonSchema" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php on line 7
+[24-Nov-2025 00:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\JsonSchema\JsonSchema" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php on line 7
+[24-Nov-2025 00:51:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\JsonSchema\JsonSchema" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php on line 7
+[24-Nov-2025 05:01:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\JsonSchema\JsonSchema" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php on line 7
+[24-Nov-2025 06:03:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\JsonSchema\JsonSchema" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php on line 7
+[18-Dec-2025 18:23:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\JsonSchema\JsonSchema" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/JsonSchema/JsonSchemaTypeFactory.php on line 7

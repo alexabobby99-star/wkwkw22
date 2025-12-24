@@ -1,0 +1,16 @@
+[24-Nov-2025 00:18:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 60
+[25-Nov-2025 21:50:15 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 60
+[26-Nov-2025 01:24:34 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 60
+[28-Nov-2025 02:28:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\TextUI\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/TextUI/Command/Commands/WarmCodeCoverageCacheCommand.php on line 60

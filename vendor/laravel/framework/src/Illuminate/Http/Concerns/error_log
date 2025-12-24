@@ -1,0 +1,3 @@
+[16-Nov-2025 19:36:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Dumpable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithInput.php on line 13
+[27-Nov-2025 08:59:35 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Dumpable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithInput.php on line 13
+[27-Nov-2025 12:50:43 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Dumpable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithInput.php on line 13

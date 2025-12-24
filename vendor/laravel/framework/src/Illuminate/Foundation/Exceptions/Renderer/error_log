@@ -1,0 +1,1 @@
+[23-Nov-2025 09:19:32 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Concerns\ResolvesDumpSource" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Renderer/Frame.php on line 10

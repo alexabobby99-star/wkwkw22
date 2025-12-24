@@ -1,0 +1,12 @@
+[15-Nov-2025 15:14:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Filesystem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Filesystem/Cloud.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Filesystem/Cloud.php on line 5
+[19-Nov-2025 00:48:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Filesystem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Filesystem/Cloud.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Filesystem/Cloud.php on line 5
+[19-Nov-2025 01:13:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Filesystem\Filesystem" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Filesystem/Cloud.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Filesystem/Cloud.php on line 5

@@ -1,0 +1,4 @@
+[15-Nov-2025 00:33:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Facade" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Facades/Mcp.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Facades/Mcp.php on line 19

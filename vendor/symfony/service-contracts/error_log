@@ -1,0 +1,36 @@
+[11-Nov-2025 22:39:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceProviderInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceProviderInterface.php on line 24
+[11-Nov-2025 22:39:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ServiceProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceCollectionInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceCollectionInterface.php on line 24
+[11-Nov-2025 22:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Contracts\Service\trigger_deprecation() in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceSubscriberTrait.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceSubscriberTrait.php on line 18
+[15-Nov-2025 18:38:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceProviderInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceProviderInterface.php on line 24
+[15-Nov-2025 18:38:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ServiceProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceCollectionInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceCollectionInterface.php on line 24
+[15-Nov-2025 18:38:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Contracts\Service\trigger_deprecation() in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceSubscriberTrait.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceSubscriberTrait.php on line 18
+[16-Dec-2025 10:05:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Container\ContainerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceProviderInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceProviderInterface.php on line 24
+[16-Dec-2025 10:06:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ServiceProviderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceCollectionInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceCollectionInterface.php on line 24
+[16-Dec-2025 10:06:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Symfony\Contracts\Service\trigger_deprecation() in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceSubscriberTrait.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/service-contracts/ServiceSubscriberTrait.php on line 18

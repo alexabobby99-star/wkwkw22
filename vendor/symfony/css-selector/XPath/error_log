@@ -1,0 +1,12 @@
+[30-Nov-2025 20:47:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\TranslatorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Translator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[30-Nov-2025 21:52:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\TranslatorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Translator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[30-Nov-2025 22:02:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\TranslatorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Translator.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/XPath/Translator.php on line 31

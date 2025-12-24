@@ -1,0 +1,2 @@
+[22-Nov-2025 17:07:10 UTC] PHP Fatal error:  Trait "Symfony\Component\Routing\Loader\Configurator\Traits\LocalizedRouteTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Loader/Configurator/Traits/AddTrait.php on line 22
+[24-Nov-2025 10:10:25 UTC] PHP Fatal error:  Trait "Symfony\Component\Routing\Loader\Configurator\Traits\LocalizedRouteTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Loader/Configurator/Traits/AddTrait.php on line 22

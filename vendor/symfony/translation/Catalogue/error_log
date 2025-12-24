@@ -1,0 +1,52 @@
+[12-Nov-2025 20:54:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[13-Nov-2025 03:54:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[13-Nov-2025 06:19:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[19-Nov-2025 06:34:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[19-Nov-2025 06:40:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[19-Nov-2025 06:42:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[19-Nov-2025 06:53:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[19-Nov-2025 06:57:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[19-Nov-2025 06:59:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26
+[19-Nov-2025 07:04:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[17-Dec-2025 08:16:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/MergeOperation.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/MergeOperation.php on line 25
+[17-Dec-2025 15:05:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Catalogue\OperationInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/AbstractOperation.php on line 27
+[17-Dec-2025 17:39:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Catalogue\AbstractOperation" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/TargetOperation.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Catalogue/TargetOperation.php on line 26

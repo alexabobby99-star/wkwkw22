@@ -1,0 +1,16 @@
+[13-Nov-2025 11:40:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Signer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Signers/Hmac.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Signers/Hmac.php on line 7
+[23-Nov-2025 20:26:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Signer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Signers/Hmac.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Signers/Hmac.php on line 7
+[23-Nov-2025 20:34:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Signer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Signers/Hmac.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Signers/Hmac.php on line 7
+[23-Nov-2025 20:41:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\SerializableClosure\Contracts\Signer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Signers/Hmac.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/serializable-closure/src/Signers/Hmac.php on line 7

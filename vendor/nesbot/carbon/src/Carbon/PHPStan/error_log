@@ -1,0 +1,48 @@
+[18-Nov-2025 20:52:10 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodReflection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php on line 24
+[21-Nov-2025 22:29:01 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodsClassReflectionExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php on line 35
+[28-Nov-2025 02:24:03 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodsClassReflectionExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php on line 35
+[28-Nov-2025 02:25:38 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodReflection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php on line 24
+[28-Nov-2025 02:31:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodReflection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php on line 24
+[28-Nov-2025 02:32:41 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodsClassReflectionExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php on line 35
+[28-Nov-2025 02:48:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodReflection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php on line 24
+[28-Nov-2025 02:49:58 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodsClassReflectionExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php on line 35
+[28-Nov-2025 03:48:30 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodReflection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php on line 24
+[28-Nov-2025 03:58:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodsClassReflectionExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php on line 35
+[28-Nov-2025 04:21:37 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodsClassReflectionExtension" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroExtension.php on line 35
+[28-Nov-2025 04:25:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPStan\Reflection\MethodReflection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/PHPStan/MacroMethodReflection.php on line 24

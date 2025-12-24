@@ -1,0 +1,28 @@
+[12-Nov-2025 11:18:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[12-Nov-2025 11:27:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27
+[17-Nov-2025 19:50:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[17-Nov-2025 20:12:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[17-Nov-2025 20:20:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[16-Dec-2025 22:49:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Extractor\ExtractorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/ChainExtractor.php on line 21
+[16-Dec-2025 22:51:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Extractor\AbstractFileExtractor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/PhpAstExtractor.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Extractor/PhpAstExtractor.php on line 27

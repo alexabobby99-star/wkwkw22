@@ -1,0 +1,56 @@
+[15-Nov-2025 12:35:28 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ContinueToBreak.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ContinueToBreak.php on line 12
+[15-Nov-2025 13:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/BreakToContinue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/BreakToContinue.php on line 12
+[15-Nov-2025 22:16:26 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/TernaryNegated.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/TernaryNegated.php on line 13
+[17-Nov-2025 19:32:01 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/BreakToContinue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/BreakToContinue.php on line 12
+[17-Nov-2025 19:32:50 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ContinueToBreak.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ContinueToBreak.php on line 12
+[17-Nov-2025 19:35:57 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/TernaryNegated.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/TernaryNegated.php on line 13
+[17-Nov-2025 19:58:42 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ContinueToBreak.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ContinueToBreak.php on line 12
+[17-Nov-2025 20:02:50 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/TernaryNegated.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/TernaryNegated.php on line 13
+[17-Nov-2025 20:07:48 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/BreakToContinue.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/BreakToContinue.php on line 12
+[20-Nov-2025 04:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/DoWhileAlwaysFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/DoWhileAlwaysFalse.php on line 13
+[20-Nov-2025 18:23:09 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ForeachEmptyIterable.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ForeachEmptyIterable.php on line 12
+[20-Nov-2025 19:05:24 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/WhileAlwaysFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/WhileAlwaysFalse.php on line 13
+[22-Nov-2025 15:28:51 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ForAlwaysFalse.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ForAlwaysFalse.php on line 13
+[22-Nov-2025 21:48:09 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\Mutate\Mutators\Abstract\AbstractMutator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ElseIfNegated.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Mutators/ControlStructures/ElseIfNegated.php on line 12

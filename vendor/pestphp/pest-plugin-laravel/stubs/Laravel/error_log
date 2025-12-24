@@ -1,0 +1,20 @@
+[14-Nov-2025 01:18:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uses() in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php on line 14
+[24-Nov-2025 11:22:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uses() in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php on line 14
+[24-Nov-2025 11:32:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uses() in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php on line 14
+[24-Nov-2025 12:41:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uses() in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php on line 14
+[24-Nov-2025 12:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function uses() in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-laravel/stubs/Laravel/Pest.php on line 14

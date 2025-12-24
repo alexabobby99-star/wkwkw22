@@ -1,0 +1,143 @@
+[14-Nov-2025 17:05:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[15-Nov-2025 04:33:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 9
+[15-Nov-2025 05:48:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[15-Nov-2025 12:17:13 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 15
+[15-Nov-2025 13:42:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[17-Nov-2025 15:34:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 11
+[26-Nov-2025 09:24:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[26-Nov-2025 09:25:48 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 15
+[26-Nov-2025 09:27:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 9
+[26-Nov-2025 09:29:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[26-Nov-2025 09:31:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[26-Nov-2025 09:33:56 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 11
+[26-Nov-2025 10:08:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 9
+[26-Nov-2025 10:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[26-Nov-2025 10:11:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[26-Nov-2025 10:14:37 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 15
+[26-Nov-2025 10:16:45 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[26-Nov-2025 10:31:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 11
+[26-Nov-2025 10:39:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[26-Nov-2025 10:42:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 9
+[26-Nov-2025 10:44:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[26-Nov-2025 10:45:45 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 15
+[26-Nov-2025 10:46:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[26-Nov-2025 10:51:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[26-Nov-2025 11:01:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 9
+[26-Nov-2025 11:03:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[26-Nov-2025 11:04:12 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 15
+[26-Nov-2025 11:10:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[26-Nov-2025 11:27:30 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 11
+[26-Nov-2025 11:53:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[26-Nov-2025 12:00:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 9
+[26-Nov-2025 12:05:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[26-Nov-2025 12:09:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 15
+[26-Nov-2025 12:11:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[26-Nov-2025 12:23:09 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 11
+[26-Nov-2025 12:59:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[26-Nov-2025 13:06:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[26-Nov-2025 13:09:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[26-Nov-2025 13:13:56 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 15
+[26-Nov-2025 13:15:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 9
+[26-Nov-2025 13:28:45 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 11
+[18-Dec-2025 13:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/ProcessResult.php on line 9
+[18-Dec-2025 13:56:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\ProcessResult" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeProcessResult.php on line 9
+[18-Dec-2025 14:10:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/FakeInvokedProcess.php on line 7
+[18-Dec-2025 14:30:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/PendingProcess.php on line 15
+[18-Dec-2025 14:45:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Process\InvokedProcess" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/InvokedProcess.php on line 10
+[18-Dec-2025 16:42:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Process/Factory.php on line 11

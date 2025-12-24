@@ -1,0 +1,12 @@
+[14-Nov-2025 14:36:04 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin/src/Commands/DumpCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin/src/Commands/DumpCommand.php on line 15
+[23-Nov-2025 08:22:20 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin/src/Commands/DumpCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin/src/Commands/DumpCommand.php on line 15
+[18-Dec-2025 06:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "Composer\Command\BaseCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin/src/Commands/DumpCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin/src/Commands/DumpCommand.php on line 15

@@ -1,0 +1,8 @@
+[14-Nov-2025 06:20:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17
+[16-Nov-2025 19:08:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Tester/Constraint/CommandIsSuccessful.php on line 17

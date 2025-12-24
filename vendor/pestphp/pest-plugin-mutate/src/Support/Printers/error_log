@@ -1,0 +1,12 @@
+[21-Nov-2025 19:16:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Printer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Printers/DefaultPrinter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Printers/DefaultPrinter.php on line 19
+[26-Nov-2025 23:48:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Printer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Printers/DefaultPrinter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Printers/DefaultPrinter.php on line 19
+[27-Nov-2025 01:40:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Mutate\Contracts\Printer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Printers/DefaultPrinter.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest-plugin-mutate/src/Support/Printers/DefaultPrinter.php on line 19

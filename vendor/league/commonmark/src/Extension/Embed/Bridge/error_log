@@ -1,0 +1,32 @@
+[18-Nov-2025 14:21:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php on line 21
+[27-Nov-2025 13:46:01 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php on line 21
+[27-Nov-2025 13:57:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php on line 21
+[28-Nov-2025 21:56:30 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php on line 21
+[28-Nov-2025 23:55:58 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php on line 21
+[29-Nov-2025 01:23:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php on line 21
+[29-Nov-2025 02:42:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php on line 21
+[29-Nov-2025 03:51:05 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\Embed\EmbedAdapterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Embed/Bridge/OscaroteroEmbedAdapter.php on line 21

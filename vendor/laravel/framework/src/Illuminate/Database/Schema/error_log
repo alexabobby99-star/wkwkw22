@@ -1,0 +1,305 @@
+[16-Nov-2025 22:19:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[16-Nov-2025 22:23:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 7
+[16-Nov-2025 22:25:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[16-Nov-2025 22:26:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 9
+[16-Nov-2025 22:33:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[16-Nov-2025 22:37:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\MySqlBuilder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php on line 5
+[16-Nov-2025 22:42:26 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 18
+[16-Nov-2025 22:46:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[16-Nov-2025 22:47:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 15
+[16-Nov-2025 22:48:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[16-Nov-2025 22:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[16-Nov-2025 22:50:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 8
+[16-Nov-2025 22:57:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[25-Nov-2025 11:05:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\MySqlBuilder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php on line 5
+[25-Nov-2025 11:06:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[25-Nov-2025 11:07:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 9
+[25-Nov-2025 11:08:10 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 18
+[25-Nov-2025 11:10:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 7
+[25-Nov-2025 11:11:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[25-Nov-2025 11:12:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[25-Nov-2025 11:14:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[25-Nov-2025 11:15:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[25-Nov-2025 11:17:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[25-Nov-2025 11:22:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 8
+[25-Nov-2025 11:23:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 15
+[25-Nov-2025 11:33:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[25-Nov-2025 12:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 7
+[25-Nov-2025 12:23:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[25-Nov-2025 12:26:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[25-Nov-2025 12:28:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 9
+[25-Nov-2025 12:33:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[25-Nov-2025 12:36:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\MySqlBuilder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php on line 5
+[25-Nov-2025 12:37:55 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 18
+[25-Nov-2025 12:39:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[25-Nov-2025 12:41:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 15
+[25-Nov-2025 12:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[25-Nov-2025 12:45:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[25-Nov-2025 12:47:03 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[25-Nov-2025 12:48:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 8
+[25-Nov-2025 12:49:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[25-Nov-2025 12:50:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[25-Nov-2025 12:51:15 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 18
+[25-Nov-2025 12:52:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 9
+[25-Nov-2025 12:53:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\MySqlBuilder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php on line 5
+[25-Nov-2025 12:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[25-Nov-2025 12:56:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[25-Nov-2025 12:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 7
+[25-Nov-2025 13:48:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[25-Nov-2025 13:48:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[25-Nov-2025 13:52:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 9
+[25-Nov-2025 13:53:06 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 18
+[25-Nov-2025 13:54:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 7
+[25-Nov-2025 13:56:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[25-Nov-2025 14:00:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 15
+[25-Nov-2025 14:08:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\MySqlBuilder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php on line 5
+[25-Nov-2025 14:10:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[25-Nov-2025 14:13:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[25-Nov-2025 14:17:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[25-Nov-2025 14:18:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 8
+[25-Nov-2025 14:27:50 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[25-Nov-2025 15:08:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[25-Nov-2025 15:11:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 7
+[25-Nov-2025 15:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 9
+[25-Nov-2025 15:14:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 15
+[25-Nov-2025 15:15:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\MySqlBuilder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php on line 5
+[25-Nov-2025 15:17:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[25-Nov-2025 15:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[25-Nov-2025 15:19:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[25-Nov-2025 15:20:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 18
+[25-Nov-2025 15:21:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 8
+[25-Nov-2025 15:22:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[25-Nov-2025 15:26:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12
+[25-Nov-2025 15:30:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[25-Nov-2025 15:39:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SqlServerBuilder.php on line 7
+[25-Nov-2025 15:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignKeyDefinition.php on line 15
+[25-Nov-2025 15:43:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ColumnDefinition.php on line 35
+[25-Nov-2025 15:44:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\MySqlBuilder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MariaDbBuilder.php on line 5
+[25-Nov-2025 15:45:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresBuilder.php on line 7
+[25-Nov-2025 15:46:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\ColumnDefinition" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/ForeignIdColumnDefinition.php on line 7
+[25-Nov-2025 15:47:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlSchemaState.php on line 10
+[25-Nov-2025 15:50:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/SQLiteBuilder.php on line 9
+[25-Nov-2025 15:51:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\SchemaState" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/PostgresSchemaState.php on line 8
+[25-Nov-2025 15:52:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Fluent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/IndexDefinition.php on line 15
+[25-Nov-2025 15:53:16 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 18
+[25-Nov-2025 15:54:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Schema\Builder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 5
+[25-Nov-2025 15:55:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 12

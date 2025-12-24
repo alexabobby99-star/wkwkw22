@@ -1,0 +1,48 @@
+[12-Nov-2025 13:04:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[13-Nov-2025 06:26:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[19-Nov-2025 16:03:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[19-Nov-2025 16:18:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[19-Nov-2025 16:40:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[19-Nov-2025 16:45:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[19-Nov-2025 17:30:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[19-Nov-2025 17:31:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[19-Nov-2025 17:42:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[19-Nov-2025 17:51:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27
+[17-Dec-2025 00:30:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Profiler\ProfilerStorageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/FileProfilerStorage.php on line 19
+[17-Dec-2025 17:38:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Contracts\Service\ResetInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Profiler/Profiler.php on line 27

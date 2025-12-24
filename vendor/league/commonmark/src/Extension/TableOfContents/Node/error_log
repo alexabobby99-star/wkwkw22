@@ -1,0 +1,36 @@
+[16-Nov-2025 19:33:19 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[17-Nov-2025 09:14:02 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[20-Nov-2025 06:49:10 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[20-Nov-2025 06:50:13 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[20-Nov-2025 06:57:14 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[20-Nov-2025 06:59:59 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[20-Nov-2025 08:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18
+[20-Nov-2025 08:22:51 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContentsPlaceholder.php on line 18
+[20-Nov-2025 08:27:46 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Block\ListBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Node/TableOfContents.php on line 18

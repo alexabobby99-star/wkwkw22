@@ -1,0 +1,15 @@
+[20-Nov-2025 17:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[20-Nov-2025 18:03:00 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[22-Nov-2025 20:03:00 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[22-Nov-2025 20:07:55 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/Helpers.php on line 19
+[22-Nov-2025 20:20:14 UTC] PHP Fatal error:  Uncaught Error: Class "Nette\InvalidStateException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/ValidationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/ValidationException.php on line 18
+[22-Nov-2025 20:20:55 UTC] PHP Fatal error:  Trait "Nette\StaticClass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nette/schema/src/Schema/Helpers.php on line 19

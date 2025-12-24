@@ -1,0 +1,32 @@
+[14-Nov-2025 12:35:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Userland.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Userland.php on line 26
+[14-Nov-2025 16:58:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/GNUReadline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/GNUReadline.php on line 21
+[15-Nov-2025 00:33:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Transient.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Transient.php on line 19
+[15-Nov-2025 12:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Readline\GNUReadline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Libedit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Libedit.php on line 26
+[18-Dec-2025 06:08:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Userland.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Userland.php on line 26
+[18-Dec-2025 06:41:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/GNUReadline.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/GNUReadline.php on line 21
+[18-Dec-2025 07:21:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\Readline\Readline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Transient.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Transient.php on line 19
+[18-Dec-2025 08:36:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\Readline\GNUReadline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Libedit.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Readline/Libedit.php on line 26

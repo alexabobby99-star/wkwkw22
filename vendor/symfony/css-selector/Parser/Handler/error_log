@@ -1,0 +1,96 @@
+[30-Nov-2025 20:49:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php on line 30
+[30-Nov-2025 20:56:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/StringHandler.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/StringHandler.php on line 32
+[30-Nov-2025 20:57:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php on line 28
+[30-Nov-2025 21:02:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php on line 29
+[30-Nov-2025 21:07:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/HashHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/HashHandler.php on line 30
+[30-Nov-2025 21:15:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php on line 27
+[30-Nov-2025 22:18:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php on line 30
+[30-Nov-2025 22:20:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/StringHandler.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/StringHandler.php on line 32
+[30-Nov-2025 22:21:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php on line 28
+[30-Nov-2025 22:30:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php on line 27
+[30-Nov-2025 22:31:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php on line 29
+[30-Nov-2025 22:35:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/HashHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/HashHandler.php on line 30
+[30-Nov-2025 22:50:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php on line 28
+[30-Nov-2025 22:52:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php on line 30
+[30-Nov-2025 22:55:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php on line 29
+[30-Nov-2025 22:56:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/StringHandler.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/StringHandler.php on line 32
+[30-Nov-2025 22:58:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php on line 27
+[30-Nov-2025 22:59:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/HashHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/HashHandler.php on line 30
+[05-Dec-2025 01:09:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/HashHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/HashHandler.php on line 30
+[05-Dec-2025 01:09:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php on line 27
+[05-Dec-2025 01:09:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/StringHandler.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/StringHandler.php on line 32
+[05-Dec-2025 01:09:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php on line 28
+[05-Dec-2025 01:11:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php on line 29
+[05-Dec-2025 01:12:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php on line 30

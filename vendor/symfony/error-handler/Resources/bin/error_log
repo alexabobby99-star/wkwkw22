@@ -1,0 +1,28 @@
+[12-Nov-2025 07:21:58 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[13-Nov-2025 16:14:03 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[13-Nov-2025 16:18:59 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[13-Nov-2025 16:26:38 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[16-Dec-2025 18:31:08 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[18-Dec-2025 00:28:54 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14
+[18-Dec-2025 00:30:41 UTC] PHP Fatal error:  Uncaught Exception: This script must be run from the command line. in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/Resources/bin/extract-tentative-return-types.php on line 14

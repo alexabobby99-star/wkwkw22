@@ -1,0 +1,20 @@
+[15-Nov-2025 05:06:35 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Template\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/InvalidArgumentException.php on line 12
+[15-Nov-2025 10:49:16 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Template\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/InvalidArgumentException.php on line 12
+[17-Nov-2025 09:13:08 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Template\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/RuntimeException.php on line 14
+[18-Dec-2025 08:00:30 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Template\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/InvalidArgumentException.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/InvalidArgumentException.php on line 12
+[18-Dec-2025 09:21:55 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Template\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/RuntimeException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/phpunit/php-text-template/src/exceptions/RuntimeException.php on line 14

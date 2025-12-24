@@ -1,0 +1,24 @@
+[24-Nov-2025 11:39:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MySqlGrammar.php on line 10
+[24-Nov-2025 11:46:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SQLiteGrammar.php on line 10
+[24-Nov-2025 18:04:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Grammar" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/Grammar.php on line 15
+[24-Nov-2025 20:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/SqlServerGrammar.php on line 11
+[24-Nov-2025 20:45:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\Grammar" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/PostgresGrammar.php on line 11
+[25-Nov-2025 06:49:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Query\Grammars\MySqlGrammar" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MariaDbGrammar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Database/Query/Grammars/MariaDbGrammar.php on line 9

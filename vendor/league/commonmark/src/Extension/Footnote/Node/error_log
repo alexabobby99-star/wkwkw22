@@ -1,0 +1,80 @@
+[22-Nov-2025 19:15:57 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[22-Nov-2025 19:23:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[22-Nov-2025 19:26:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[22-Nov-2025 19:32:21 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[27-Nov-2025 09:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[27-Nov-2025 09:27:25 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[27-Nov-2025 09:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[27-Nov-2025 09:30:30 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[27-Nov-2025 09:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[27-Nov-2025 09:58:05 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[27-Nov-2025 10:01:10 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[27-Nov-2025 10:02:06 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[27-Nov-2025 12:58:01 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[27-Nov-2025 12:59:01 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21
+[27-Nov-2025 13:01:10 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[27-Nov-2025 13:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[27-Nov-2025 13:18:34 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteBackref.php on line 24
+[27-Nov-2025 13:19:33 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteContainer.php on line 19
+[27-Nov-2025 13:24:54 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/Footnote.php on line 21
+[27-Nov-2025 13:34:58 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Footnote/Node/FootnoteRef.php on line 21

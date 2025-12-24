@@ -1,0 +1,8 @@
+[27-Nov-2025 06:37:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Throwing.php on line 13
+[27-Nov-2025 08:34:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\ErrorHandler" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ErrorHandler/Collecting.php on line 13

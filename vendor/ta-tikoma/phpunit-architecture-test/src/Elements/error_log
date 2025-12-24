@@ -1,0 +1,16 @@
+[13-Nov-2025 03:27:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Properties\ObjectPropertiesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Elements/ObjectDescription.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Elements/ObjectDescription.php on line 9
+[19-Nov-2025 08:13:48 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Properties\ObjectPropertiesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Elements/ObjectDescription.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Elements/ObjectDescription.php on line 9
+[19-Nov-2025 08:26:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Properties\ObjectPropertiesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Elements/ObjectDescription.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Elements/ObjectDescription.php on line 9
+[19-Nov-2025 08:37:13 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Properties\ObjectPropertiesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Elements/ObjectDescription.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Elements/ObjectDescription.php on line 9

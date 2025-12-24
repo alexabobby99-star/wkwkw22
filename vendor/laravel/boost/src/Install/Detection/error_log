@@ -1,0 +1,48 @@
+[15-Nov-2025 04:04:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CompositeDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CompositeDetectionStrategy.php on line 10
+[15-Nov-2025 04:06:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CommandDetectionStrategy.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CommandDetectionStrategy.php on line 11
+[15-Nov-2025 04:09:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/FileDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/FileDetectionStrategy.php on line 10
+[15-Nov-2025 04:12:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/DirectoryDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/DirectoryDetectionStrategy.php on line 10
+[26-Nov-2025 02:38:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/FileDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/FileDetectionStrategy.php on line 10
+[26-Nov-2025 02:38:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/DirectoryDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/DirectoryDetectionStrategy.php on line 10
+[26-Nov-2025 02:40:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CompositeDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CompositeDetectionStrategy.php on line 10
+[26-Nov-2025 02:44:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CommandDetectionStrategy.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CommandDetectionStrategy.php on line 11
+[26-Nov-2025 02:59:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CompositeDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CompositeDetectionStrategy.php on line 10
+[26-Nov-2025 03:02:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/FileDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/FileDetectionStrategy.php on line 10
+[26-Nov-2025 03:03:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/DirectoryDetectionStrategy.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/DirectoryDetectionStrategy.php on line 10
+[26-Nov-2025 03:05:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Laravel\Boost\Install\Contracts\DetectionStrategy" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CommandDetectionStrategy.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/boost/src/Install/Detection/CommandDetectionStrategy.php on line 11

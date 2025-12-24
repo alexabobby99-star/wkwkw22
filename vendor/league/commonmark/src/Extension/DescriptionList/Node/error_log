@@ -1,0 +1,72 @@
+[16-Nov-2025 12:21:47 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php on line 18
+[17-Nov-2025 06:59:37 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php on line 19
+[17-Nov-2025 15:15:36 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php on line 18
+[20-Nov-2025 03:39:08 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php on line 18
+[20-Nov-2025 03:49:23 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php on line 18
+[20-Nov-2025 03:53:40 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php on line 19
+[20-Nov-2025 03:57:11 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php on line 18
+[20-Nov-2025 03:58:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php on line 19
+[20-Nov-2025 04:06:40 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php on line 18
+[20-Nov-2025 06:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php on line 18
+[20-Nov-2025 06:44:03 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php on line 19
+[20-Nov-2025 06:52:20 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php on line 18
+[20-Nov-2025 07:07:33 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php on line 18
+[20-Nov-2025 07:08:37 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php on line 19
+[20-Nov-2025 07:14:32 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php on line 18
+[20-Nov-2025 09:16:47 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/Description.php on line 19
+[20-Nov-2025 09:22:21 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionList.php on line 18
+[20-Nov-2025 09:26:30 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Block\AbstractBlock" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DescriptionList/Node/DescriptionTerm.php on line 18

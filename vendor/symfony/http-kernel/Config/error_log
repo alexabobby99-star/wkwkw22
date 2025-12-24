@@ -1,0 +1,16 @@
+[13-Nov-2025 05:11:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[19-Nov-2025 10:02:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[19-Nov-2025 10:26:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Config/FileLocator.php on line 22
+[17-Dec-2025 16:33:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Config\FileLocator" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Config/FileLocator.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Config/FileLocator.php on line 22

@@ -1,0 +1,20 @@
+[12-Nov-2025 23:10:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\ArgvInput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php on line 27
+[17-Nov-2025 13:43:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\ArgvInput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php on line 27
+[19-Nov-2025 22:53:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\ArgvInput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php on line 27
+[19-Nov-2025 23:10:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\ArgvInput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php on line 27
+[19-Nov-2025 23:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\ArgvInput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Completion/CompletionInput.php on line 27

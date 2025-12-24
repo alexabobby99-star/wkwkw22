@@ -1,0 +1,72 @@
+[12-Nov-2025 21:30:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[13-Nov-2025 00:14:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[13-Nov-2025 01:59:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php on line 24
+[21-Nov-2025 16:28:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[21-Nov-2025 16:28:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[21-Nov-2025 16:37:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php on line 24
+[21-Nov-2025 16:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[21-Nov-2025 16:39:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[21-Nov-2025 16:44:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[21-Nov-2025 16:45:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php on line 24
+[21-Nov-2025 16:48:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[21-Nov-2025 16:55:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[21-Nov-2025 16:57:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[21-Nov-2025 17:03:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php on line 24
+[06-Dec-2025 15:48:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[17-Dec-2025 09:00:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\RequestInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ServerRequestInterface.php on line 43
+[17-Dec-2025 11:36:20 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/ResponseInterface.php on line 20
+[17-Dec-2025 13:25:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\Http\Message\MessageInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/http-message/src/RequestInterface.php on line 24

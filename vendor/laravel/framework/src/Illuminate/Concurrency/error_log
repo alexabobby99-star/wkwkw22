@@ -1,0 +1,100 @@
+[15-Nov-2025 12:41:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\MultipleInstanceManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php on line 13
+[15-Nov-2025 23:03:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php on line 17
+[16-Nov-2025 13:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php on line 8
+[16-Nov-2025 16:34:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php on line 13
+[16-Nov-2025 16:38:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php on line 12
+[23-Nov-2025 21:52:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\MultipleInstanceManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php on line 13
+[23-Nov-2025 22:02:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php on line 17
+[23-Nov-2025 22:13:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php on line 13
+[23-Nov-2025 22:17:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php on line 8
+[23-Nov-2025 22:22:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php on line 12
+[23-Nov-2025 22:44:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\MultipleInstanceManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php on line 13
+[23-Nov-2025 22:46:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php on line 8
+[23-Nov-2025 22:47:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php on line 13
+[23-Nov-2025 22:51:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php on line 17
+[23-Nov-2025 22:54:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php on line 12
+[23-Nov-2025 22:59:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php on line 8
+[23-Nov-2025 23:01:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php on line 13
+[23-Nov-2025 23:05:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\MultipleInstanceManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php on line 13
+[23-Nov-2025 23:07:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php on line 17
+[23-Nov-2025 23:15:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php on line 12
+[18-Dec-2025 14:36:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\MultipleInstanceManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyManager.php on line 13
+[18-Dec-2025 15:07:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ProcessDriver.php on line 17
+[18-Dec-2025 15:33:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ConcurrencyServiceProvider.php on line 8
+[18-Dec-2025 15:53:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/SyncDriver.php on line 12
+[18-Dec-2025 15:56:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Concurrency\Driver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Concurrency/ForkDriver.php on line 13

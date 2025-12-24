@@ -1,0 +1,4 @@
+[30-Nov-2025 11:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Comment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Comment/Doc.php on line 5

@@ -1,0 +1,72 @@
+[11-Nov-2025 19:15:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[11-Nov-2025 19:16:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[11-Nov-2025 21:23:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[12-Nov-2025 16:31:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[12-Nov-2025 16:32:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[12-Nov-2025 16:34:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[12-Nov-2025 16:48:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[12-Nov-2025 16:49:26 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[12-Nov-2025 16:51:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[16-Dec-2025 06:13:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[16-Dec-2025 06:13:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[16-Dec-2025 08:09:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[17-Dec-2025 04:10:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[17-Dec-2025 04:12:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[17-Dec-2025 04:13:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25
+[17-Dec-2025 04:25:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/CliErrorRenderer.php on line 24
+[17-Dec-2025 04:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/HtmlErrorRenderer.php on line 25
+[17-Dec-2025 04:27:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\ErrorHandler\ErrorRenderer\ErrorRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/error-handler/ErrorRenderer/SerializerErrorRenderer.php on line 25

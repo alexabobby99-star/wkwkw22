@@ -1,0 +1,40 @@
+[13-Nov-2025 20:10:51 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php on line 21
+[13-Nov-2025 20:11:34 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php on line 22
+[13-Nov-2025 20:14:43 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentRenderedEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentRenderedEvent.php on line 18
+[13-Nov-2025 20:18:27 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php on line 22
+[13-Nov-2025 20:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php on line 21
+[13-Nov-2025 20:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentRenderedEvent.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentRenderedEvent.php on line 18
+[13-Nov-2025 20:31:39 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreParsedEvent.php on line 22
+[13-Nov-2025 20:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentPreRenderEvent.php on line 21
+[14-Nov-2025 12:25:59 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Event\AbstractEvent" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentParsedEvent.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/DocumentParsedEvent.php on line 21
+[14-Nov-2025 13:07:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Psr\EventDispatcher\StoppableEventInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/AbstractEvent.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Event/AbstractEvent.php on line 30

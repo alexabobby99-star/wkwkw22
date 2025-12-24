@@ -1,0 +1,16 @@
+[23-Nov-2025 04:20:54 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractInline" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalink.php on line 21
+[23-Nov-2025 08:23:13 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkExtension.php on line 25
+[23-Nov-2025 14:53:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Environment\EnvironmentAwareInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkProcessor.php on line 30
+[23-Nov-2025 20:03:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/HeadingPermalink/HeadingPermalinkRenderer.php on line 27

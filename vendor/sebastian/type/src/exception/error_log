@@ -1,0 +1,4 @@
+[24-Nov-2025 21:55:40 UTC] PHP Fatal error:  Uncaught Error: Interface "SebastianBergmann\Type\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/type/src/exception/RuntimeException.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/sebastian/type/src/exception/RuntimeException.php on line 15

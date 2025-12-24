@@ -1,0 +1,32 @@
+[16-Nov-2025 13:07:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[16-Nov-2025 13:07:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[20-Nov-2025 06:35:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[20-Nov-2025 06:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[20-Nov-2025 06:42:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5
+[20-Nov-2025 06:46:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[20-Nov-2025 07:03:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\GlobalLimit" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/Unlimited.php on line 5
+[20-Nov-2025 07:04:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cache\RateLimiting\Limit" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Cache/RateLimiting/GlobalLimit.php on line 5

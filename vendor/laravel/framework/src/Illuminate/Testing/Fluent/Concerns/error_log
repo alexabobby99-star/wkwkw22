@@ -1,0 +1,1 @@
+[23-Nov-2025 17:17:24 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Dumpable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Testing/Fluent/Concerns/Debugging.php on line 7

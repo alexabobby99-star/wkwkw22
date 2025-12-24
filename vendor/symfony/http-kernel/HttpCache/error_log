@@ -1,0 +1,96 @@
+[12-Nov-2025 16:23:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[12-Nov-2025 16:28:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[13-Nov-2025 10:31:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[14-Nov-2025 06:42:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Store.php on line 25
+[14-Nov-2025 09:20:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Ssi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Ssi.php on line 22
+[14-Nov-2025 09:24:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Esi.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Esi.php on line 28
+[17-Nov-2025 05:26:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[17-Nov-2025 05:26:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[17-Nov-2025 05:26:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Esi.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Esi.php on line 28
+[17-Nov-2025 05:30:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Ssi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Ssi.php on line 22
+[17-Nov-2025 05:30:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Store.php on line 25
+[17-Nov-2025 05:32:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[17-Nov-2025 05:35:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[17-Nov-2025 05:36:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Esi.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Esi.php on line 28
+[17-Nov-2025 05:38:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[17-Nov-2025 05:39:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Store.php on line 25
+[17-Nov-2025 05:41:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[17-Nov-2025 05:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Ssi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Ssi.php on line 22
+[17-Dec-2025 03:59:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\ResponseCacheStrategyInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/ResponseCacheStrategy.php on line 25
+[17-Dec-2025 04:06:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\SurrogateInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/AbstractSurrogate.php on line 24
+[17-Dec-2025 21:20:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpKernelInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/HttpCache.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/HttpCache.php on line 31
+[18-Dec-2025 05:08:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\HttpCache\StoreInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Store.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Store.php on line 25
+[18-Dec-2025 05:34:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Esi.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Esi.php on line 28
+[18-Dec-2025 05:36:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\HttpCache\AbstractSurrogate" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Ssi.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/HttpCache/Ssi.php on line 22

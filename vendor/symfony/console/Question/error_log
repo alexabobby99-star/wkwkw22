@@ -1,0 +1,24 @@
+[12-Nov-2025 19:28:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ConfirmationQuestion.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ConfirmationQuestion.php on line 19
+[12-Nov-2025 19:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ChoiceQuestion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ChoiceQuestion.php on line 21
+[20-Nov-2025 14:08:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ChoiceQuestion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ChoiceQuestion.php on line 21
+[20-Nov-2025 14:11:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ConfirmationQuestion.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ConfirmationQuestion.php on line 19
+[17-Dec-2025 06:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ChoiceQuestion.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ChoiceQuestion.php on line 21
+[17-Dec-2025 06:51:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Question\Question" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ConfirmationQuestion.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Question/ConfirmationQuestion.php on line 19

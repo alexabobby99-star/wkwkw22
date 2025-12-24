@@ -1,0 +1,36 @@
+[14-Nov-2025 16:16:27 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/ParserLogicException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/ParserLogicException.php on line 18
+[14-Nov-2025 16:17:00 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\MarkdownParserStateInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/MarkdownParserState.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/MarkdownParserState.php on line 22
+[14-Nov-2025 16:18:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\InlineParserEngineInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/InlineParserEngine.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/InlineParserEngine.php on line 29
+[14-Nov-2025 16:34:16 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\MarkdownParserStateInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/MarkdownParserState.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/MarkdownParserState.php on line 22
+[14-Nov-2025 16:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/ParserLogicException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/ParserLogicException.php on line 18
+[14-Nov-2025 16:38:46 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\InlineParserEngineInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/InlineParserEngine.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/InlineParserEngine.php on line 29
+[14-Nov-2025 16:40:43 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\MarkdownParserStateInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/MarkdownParserState.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/MarkdownParserState.php on line 22
+[14-Nov-2025 16:56:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Exception\CommonMarkException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/ParserLogicException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/ParserLogicException.php on line 18
+[14-Nov-2025 17:05:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\MarkdownParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/MarkdownParser.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Parser/MarkdownParser.php on line 39

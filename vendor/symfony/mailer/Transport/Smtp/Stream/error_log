@@ -1,0 +1,40 @@
+[18-Nov-2025 19:03:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php on line 24
+[20-Nov-2025 03:23:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php on line 24
+[26-Nov-2025 00:26:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php on line 24
+[26-Nov-2025 00:29:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php on line 24
+[26-Nov-2025 00:40:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php on line 24
+[26-Nov-2025 00:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php on line 24
+[27-Nov-2025 19:16:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php on line 24
+[27-Nov-2025 19:21:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php on line 24
+[18-Dec-2025 09:42:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/ProcessStream.php on line 24
+[18-Dec-2025 11:35:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Transport\Smtp\Stream\AbstractStream" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Transport/Smtp/Stream/SocketStream.php on line 24

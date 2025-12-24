@@ -1,0 +1,40 @@
+[11-Nov-2025 21:43:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php on line 10
+[13-Nov-2025 02:46:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php on line 7
+[18-Nov-2025 19:13:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php on line 7
+[18-Nov-2025 19:15:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php on line 10
+[18-Nov-2025 19:22:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php on line 10
+[18-Nov-2025 19:24:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php on line 7
+[18-Nov-2025 19:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php on line 10
+[18-Nov-2025 19:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php on line 7
+[16-Dec-2025 08:24:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Collection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/PackageCollection.php on line 10
+[17-Dec-2025 14:08:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/roster/src/RosterServiceProvider.php on line 7

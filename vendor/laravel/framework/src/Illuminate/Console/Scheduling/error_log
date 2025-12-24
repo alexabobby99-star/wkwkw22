@@ -1,0 +1,122 @@
+[16-Nov-2025 10:02:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleRunCommand.php on line 22
+[16-Nov-2025 10:04:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleFinishCommand.php on line 12
+[16-Nov-2025 10:10:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 28
+[16-Nov-2025 10:13:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 9
+[16-Nov-2025 10:14:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleInterruptCommand.php on line 11
+[16-Nov-2025 10:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleListCommand.php on line 17
+[16-Nov-2025 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\EventMutex" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheEventMutex.php on line 9
+[16-Nov-2025 10:22:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 14
+[16-Nov-2025 10:27:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[16-Nov-2025 10:29:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[16-Nov-2025 10:34:28 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 24
+[16-Nov-2025 10:37:25 UTC] PHP Fatal error:  Trait "Illuminate\Console\Scheduling\ManagesAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/PendingEventAttributes.php on line 8
+[16-Nov-2025 13:05:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 10
+[21-Nov-2025 22:54:38 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 28
+[21-Nov-2025 23:18:50 UTC] PHP Fatal error:  Trait "Illuminate\Console\Scheduling\ManagesAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/PendingEventAttributes.php on line 8
+[21-Nov-2025 23:22:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[21-Nov-2025 23:24:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[21-Nov-2025 23:25:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 9
+[21-Nov-2025 23:26:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 14
+[21-Nov-2025 23:27:09 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 24
+[21-Nov-2025 23:30:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 10
+[21-Nov-2025 23:38:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Scheduling\Event" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CallbackEvent.php on line 12
+[21-Nov-2025 23:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 9
+[21-Nov-2025 23:43:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 14
+[21-Nov-2025 23:45:18 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 28
+[21-Nov-2025 23:47:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[21-Nov-2025 23:49:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 10
+[21-Nov-2025 23:54:23 UTC] PHP Fatal error:  Trait "Illuminate\Console\Scheduling\ManagesAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/PendingEventAttributes.php on line 8
+[21-Nov-2025 23:55:20 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 24
+[22-Nov-2025 00:06:14 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 28
+[22-Nov-2025 00:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 14
+[22-Nov-2025 00:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 9
+[22-Nov-2025 00:22:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12
+[22-Nov-2025 00:28:34 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php on line 24
+[22-Nov-2025 00:35:56 UTC] PHP Fatal error:  Trait "Illuminate\Console\Scheduling\ManagesAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/PendingEventAttributes.php on line 8
+[22-Nov-2025 00:42:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Console\Scheduling\SchedulingMutex" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/CacheSchedulingMutex.php on line 10
+[22-Nov-2025 01:21:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleClearCacheCommand.php on line 9
+[22-Nov-2025 01:24:46 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Schedule.php on line 28
+[22-Nov-2025 01:25:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleWorkCommand.php on line 14
+[22-Nov-2025 01:26:54 UTC] PHP Fatal error:  Trait "Illuminate\Console\Scheduling\ManagesAttributes" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/PendingEventAttributes.php on line 8
+[22-Nov-2025 01:27:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Console/Scheduling/ScheduleTestCommand.php on line 12

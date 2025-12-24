@@ -1,0 +1,44 @@
+[16-Nov-2025 10:12:13 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php on line 8
+[16-Nov-2025 10:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\DatabaseTransactionsManager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactionsManager.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTransactionsManager.php on line 7
+[16-Nov-2025 10:31:20 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\RefreshDatabase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/LazilyRefreshDatabase.php on line 5
+[16-Nov-2025 10:32:17 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php on line 8
+[16-Nov-2025 10:35:24 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTruncation.php on line 11
+[16-Nov-2025 10:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php on line 9
+[21-Nov-2025 22:56:34 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php on line 8
+[21-Nov-2025 23:16:40 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTruncation.php on line 11
+[21-Nov-2025 23:17:46 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php on line 8
+[21-Nov-2025 23:21:58 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\RefreshDatabase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/LazilyRefreshDatabase.php on line 5
+[21-Nov-2025 23:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php on line 9
+[22-Nov-2025 00:24:18 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php on line 8
+[22-Nov-2025 00:32:44 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTruncation.php on line 11
+[22-Nov-2025 00:33:48 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\RefreshDatabase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/LazilyRefreshDatabase.php on line 5
+[22-Nov-2025 00:34:52 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php on line 8
+[22-Nov-2025 00:39:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php on line 9
+[22-Nov-2025 00:52:07 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php on line 8
+[22-Nov-2025 01:00:23 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\RefreshDatabase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/LazilyRefreshDatabase.php on line 5
+[22-Nov-2025 01:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/TestCase.php on line 9
+[22-Nov-2025 01:06:20 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php on line 8
+[22-Nov-2025 01:07:21 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseTruncation.php on line 11
+[22-Nov-2025 01:15:25 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php on line 8
+[22-Nov-2025 01:16:29 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\RefreshDatabase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/LazilyRefreshDatabase.php on line 5
+[22-Nov-2025 01:22:41 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php on line 8
+[22-Nov-2025 01:28:59 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\RefreshDatabase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/LazilyRefreshDatabase.php on line 5
+[22-Nov-2025 01:31:07 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php on line 8
+[23-Nov-2025 03:24:04 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\RefreshDatabase" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/LazilyRefreshDatabase.php on line 5
+[23-Nov-2025 03:25:04 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/RefreshDatabase.php on line 8
+[23-Nov-2025 03:26:08 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Testing\Traits\CanConfigureMigrationCommands" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Testing/DatabaseMigrations.php on line 8

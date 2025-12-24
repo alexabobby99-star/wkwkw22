@@ -1,0 +1,160 @@
+[12-Nov-2025 13:16:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/RuntimeException.php on line 19
+[12-Nov-2025 13:17:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/LogicException.php on line 19
+[12-Nov-2025 13:18:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/NotFoundResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/NotFoundResourceException.php on line 19
+[12-Nov-2025 13:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\LogicException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/UnsupportedSchemeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/UnsupportedSchemeException.php on line 17
+[12-Nov-2025 13:20:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\IncompleteDsnException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/MissingRequiredOptionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/MissingRequiredOptionException.php on line 17
+[12-Nov-2025 13:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/IncompleteDsnException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/IncompleteDsnException.php on line 14
+[12-Nov-2025 13:22:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidResourceException.php on line 19
+[12-Nov-2025 13:23:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\RuntimeException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderException.php on line 19
+[12-Nov-2025 13:24:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderExceptionInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderExceptionInterface.php on line 17
+[12-Nov-2025 13:25:55 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidArgumentException.php on line 19
+[18-Nov-2025 17:51:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidArgumentException.php on line 19
+[18-Nov-2025 17:52:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\RuntimeException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderException.php on line 19
+[18-Nov-2025 17:53:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\IncompleteDsnException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/MissingRequiredOptionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/MissingRequiredOptionException.php on line 17
+[18-Nov-2025 17:54:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderExceptionInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderExceptionInterface.php on line 17
+[18-Nov-2025 17:56:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/IncompleteDsnException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/IncompleteDsnException.php on line 14
+[18-Nov-2025 17:57:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidResourceException.php on line 19
+[18-Nov-2025 17:58:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\LogicException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/UnsupportedSchemeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/UnsupportedSchemeException.php on line 17
+[18-Nov-2025 17:59:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/LogicException.php on line 19
+[18-Nov-2025 18:00:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/NotFoundResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/NotFoundResourceException.php on line 19
+[18-Nov-2025 18:07:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/RuntimeException.php on line 19
+[18-Nov-2025 18:11:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/LogicException.php on line 19
+[18-Nov-2025 18:11:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\LogicException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/UnsupportedSchemeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/UnsupportedSchemeException.php on line 17
+[18-Nov-2025 18:12:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/IncompleteDsnException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/IncompleteDsnException.php on line 14
+[18-Nov-2025 18:13:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/RuntimeException.php on line 19
+[18-Nov-2025 18:14:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/NotFoundResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/NotFoundResourceException.php on line 19
+[18-Nov-2025 18:15:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidArgumentException.php on line 19
+[18-Nov-2025 18:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\IncompleteDsnException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/MissingRequiredOptionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/MissingRequiredOptionException.php on line 17
+[18-Nov-2025 18:18:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\RuntimeException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderException.php on line 19
+[18-Nov-2025 18:19:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderExceptionInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderExceptionInterface.php on line 17
+[18-Nov-2025 18:20:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidResourceException.php on line 19
+[17-Dec-2025 01:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\IncompleteDsnException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/MissingRequiredOptionException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/MissingRequiredOptionException.php on line 17
+[17-Dec-2025 01:14:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\LogicException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/UnsupportedSchemeException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/UnsupportedSchemeException.php on line 17
+[17-Dec-2025 01:15:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderExceptionInterface.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderExceptionInterface.php on line 17
+[17-Dec-2025 01:17:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/NotFoundResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/NotFoundResourceException.php on line 19
+[17-Dec-2025 01:18:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidResourceException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidResourceException.php on line 19
+[17-Dec-2025 01:19:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidArgumentException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/InvalidArgumentException.php on line 19
+[17-Dec-2025 01:20:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\InvalidArgumentException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/IncompleteDsnException.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/IncompleteDsnException.php on line 14
+[17-Dec-2025 01:21:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Exception\RuntimeException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/ProviderException.php on line 19
+[17-Dec-2025 01:22:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/LogicException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/LogicException.php on line 19
+[17-Dec-2025 01:23:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/RuntimeException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Exception/RuntimeException.php on line 19

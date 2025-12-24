@@ -1,0 +1,16 @@
+[14-Nov-2025 10:58:52 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Output\ConsoleOutput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Output/BufferedConsoleOutput.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Output/BufferedConsoleOutput.php on line 5
+[14-Nov-2025 11:09:29 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Output\ConsoleOutput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Output/BufferedConsoleOutput.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Output/BufferedConsoleOutput.php on line 5
+[14-Nov-2025 11:13:54 UTC] PHP Fatal error:  Uncaught Error: Class "Laravel\Prompts\Output\ConsoleOutput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Output/BufferedConsoleOutput.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Output/BufferedConsoleOutput.php on line 5
+[14-Nov-2025 12:58:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Output/ConsoleOutput.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/prompts/src/Output/ConsoleOutput.php on line 7

@@ -1,0 +1,36 @@
+[15-Nov-2025 20:57:07 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionExtension.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionExtension.php on line 23
+[16-Nov-2025 09:07:33 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionParser.php on line 23
+[23-Nov-2025 06:33:57 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Inline\Link" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/Mention.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/Mention.php on line 22
+[25-Nov-2025 19:54:19 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionExtension.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionExtension.php on line 23
+[25-Nov-2025 19:58:37 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionParser.php on line 23
+[25-Nov-2025 20:06:37 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Inline\Link" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/Mention.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/Mention.php on line 22
+[25-Nov-2025 20:13:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionExtension.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionExtension.php on line 23
+[25-Nov-2025 20:15:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionParser.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/MentionParser.php on line 23
+[25-Nov-2025 20:18:40 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Extension\CommonMark\Node\Inline\Link" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/Mention.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/Mention/Mention.php on line 22

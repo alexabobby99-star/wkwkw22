@@ -1,0 +1,72 @@
+[11-Nov-2025 20:58:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php on line 24
+[11-Nov-2025 23:44:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php on line 20
+[12-Nov-2025 09:55:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php on line 38
+[18-Nov-2025 01:28:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php on line 24
+[18-Nov-2025 01:29:08 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php on line 20
+[18-Nov-2025 01:35:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php on line 38
+[18-Nov-2025 01:42:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php on line 20
+[18-Nov-2025 01:44:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php on line 24
+[18-Nov-2025 01:46:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php on line 38
+[18-Nov-2025 04:11:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php on line 20
+[18-Nov-2025 04:14:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php on line 24
+[18-Nov-2025 04:17:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php on line 38
+[18-Nov-2025 05:44:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php on line 20
+[18-Nov-2025 05:47:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php on line 24
+[18-Nov-2025 05:52:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php on line 38
+[16-Dec-2025 07:41:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\Matcher\UrlMatcherInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouterInterface.php on line 24
+[16-Dec-2025 10:58:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouteCompilerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/RouteCompiler.php on line 20
+[16-Dec-2025 21:35:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Routing\RouterInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/routing/Router.php on line 38

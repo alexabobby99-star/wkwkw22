@@ -1,0 +1,36 @@
+[13-Nov-2025 16:08:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[14-Nov-2025 06:54:35 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[14-Nov-2025 09:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 24
+[15-Nov-2025 20:26:02 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[15-Nov-2025 20:32:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 24
+[15-Nov-2025 20:33:18 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19
+[15-Nov-2025 20:36:18 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/ProcessForker.php on line 24
+[15-Nov-2025 20:42:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\ExecutionLoop\AbstractListener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/RunkitReloader.php on line 24
+[15-Nov-2025 20:46:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Psy\ExecutionLoop\Listener" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/ExecutionLoop/AbstractListener.php on line 19

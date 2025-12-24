@@ -1,0 +1,72 @@
+[15-Nov-2025 13:27:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/SmartPunctExtension.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/SmartPunctExtension.php on line 30
+[15-Nov-2025 22:52:24 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\DelimiterProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteProcessor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteProcessor.php on line 23
+[15-Nov-2025 22:56:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/EllipsesParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/EllipsesParser.php on line 24
+[16-Nov-2025 16:25:18 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/DashParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/DashParser.php on line 24
+[16-Nov-2025 16:59:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteParser.php on line 25
+[17-Nov-2025 19:29:37 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/Quote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/Quote.php on line 21
+[24-Nov-2025 09:53:15 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteParser.php on line 25
+[24-Nov-2025 09:53:38 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/DashParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/DashParser.php on line 24
+[24-Nov-2025 09:56:42 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/SmartPunctExtension.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/SmartPunctExtension.php on line 30
+[24-Nov-2025 09:58:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/EllipsesParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/EllipsesParser.php on line 24
+[24-Nov-2025 09:59:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\DelimiterProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteProcessor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteProcessor.php on line 23
+[24-Nov-2025 10:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/Quote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/Quote.php on line 21
+[24-Nov-2025 10:10:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/EllipsesParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/EllipsesParser.php on line 24
+[24-Nov-2025 10:11:56 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteParser.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteParser.php on line 25
+[24-Nov-2025 10:14:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Parser\Inline\InlineParserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/DashParser.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/DashParser.php on line 24
+[24-Nov-2025 10:16:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/SmartPunctExtension.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/SmartPunctExtension.php on line 30
+[24-Nov-2025 10:17:06 UTC] PHP Fatal error:  Uncaught Error: Class "League\CommonMark\Node\Inline\AbstractStringContainer" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/Quote.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/Quote.php on line 21
+[24-Nov-2025 10:18:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Delimiter\Processor\DelimiterProcessorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteProcessor.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/SmartPunct/QuoteProcessor.php on line 23

@@ -1,0 +1,96 @@
+[17-Nov-2025 04:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 9
+[18-Nov-2025 13:23:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\ArgonHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php on line 7
+[18-Nov-2025 15:31:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 10
+[19-Nov-2025 03:54:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8
+[26-Nov-2025 15:44:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 9
+[26-Nov-2025 16:05:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8
+[26-Nov-2025 16:08:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php on line 11
+[26-Nov-2025 16:09:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\ArgonHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php on line 7
+[26-Nov-2025 16:10:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 10
+[26-Nov-2025 16:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\ArgonHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php on line 7
+[26-Nov-2025 16:31:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 9
+[26-Nov-2025 16:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php on line 11
+[26-Nov-2025 16:51:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 10
+[26-Nov-2025 16:52:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8
+[26-Nov-2025 17:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\ArgonHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php on line 7
+[26-Nov-2025 17:24:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php on line 11
+[26-Nov-2025 17:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 9
+[26-Nov-2025 17:38:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 10
+[26-Nov-2025 17:39:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8
+[18-Dec-2025 16:27:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/ArgonHasher.php on line 9
+[18-Dec-2025 17:09:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Manager" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashManager.php on line 11
+[18-Dec-2025 17:12:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\ArgonHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/Argon2IdHasher.php on line 7
+[18-Dec-2025 17:22:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Hashing\AbstractHasher" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/BcryptHasher.php on line 10
+[18-Dec-2025 17:35:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Hashing/HashServiceProvider.php on line 8

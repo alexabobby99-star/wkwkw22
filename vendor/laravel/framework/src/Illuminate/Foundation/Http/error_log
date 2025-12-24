@@ -1,0 +1,53 @@
+[24-Nov-2025 04:24:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 20
+[24-Nov-2025 04:26:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\HtmlDumper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php on line 12
+[24-Nov-2025 04:31:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 15
+[25-Nov-2025 06:56:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\HtmlDumper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php on line 12
+[25-Nov-2025 07:05:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 15
+[25-Nov-2025 07:07:31 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 20
+[25-Nov-2025 07:17:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\HtmlDumper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php on line 12
+[25-Nov-2025 07:21:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 15
+[25-Nov-2025 07:25:16 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 20
+[25-Nov-2025 07:38:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\HtmlDumper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php on line 12
+[25-Nov-2025 07:45:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 15
+[25-Nov-2025 08:31:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\HtmlDumper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php on line 12
+[25-Nov-2025 08:47:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 15
+[25-Nov-2025 08:57:16 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 20
+[25-Nov-2025 09:32:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php on line 15
+[25-Nov-2025 09:33:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Dumper\HtmlDumper" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/HtmlDumper.php on line 12
+[25-Nov-2025 09:41:18 UTC] PHP Fatal error:  Trait "Illuminate\Support\InteractsWithTime" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php on line 20

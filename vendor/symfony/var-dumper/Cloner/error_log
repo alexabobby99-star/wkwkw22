@@ -1,0 +1,40 @@
+[13-Nov-2025 06:29:50 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[13-Nov-2025 19:06:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[19-Nov-2025 04:25:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[19-Nov-2025 04:36:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[19-Nov-2025 05:07:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[19-Nov-2025 05:09:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[19-Nov-2025 05:53:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[19-Nov-2025 06:01:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17
+[17-Dec-2025 17:41:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\VarDumper\Cloner\ClonerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/AbstractCloner.php on line 22
+[18-Dec-2025 01:33:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\VarDumper\Cloner\AbstractCloner" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Cloner/VarCloner.php on line 17

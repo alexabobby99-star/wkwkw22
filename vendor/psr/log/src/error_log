@@ -1,0 +1,10 @@
+[13-Nov-2025 21:23:30 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/log/src/AbstractLogger.php on line 12
+[14-Nov-2025 01:01:40 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/log/src/NullLogger.php on line 13
+[18-Dec-2025 02:34:35 UTC] PHP Fatal error:  Trait "Psr\Log\LoggerTrait" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/log/src/AbstractLogger.php on line 12
+[18-Dec-2025 04:19:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psr\Log\AbstractLogger" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/log/src/NullLogger.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psr/log/src/NullLogger.php on line 13

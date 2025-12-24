@@ -1,0 +1,36 @@
+[24-Nov-2025 15:40:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
+[26-Nov-2025 23:37:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
+[26-Nov-2025 23:50:10 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
+[27-Nov-2025 01:36:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
+[28-Nov-2025 20:03:25 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
+[28-Nov-2025 22:29:54 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
+[29-Nov-2025 00:21:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
+[29-Nov-2025 01:44:42 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32
+[29-Nov-2025 03:04:15 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Command/TimeitCommand/TimeitVisitor.php on line 32

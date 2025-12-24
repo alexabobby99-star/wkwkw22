@@ -1,0 +1,28 @@
+[24-Nov-2025 08:58:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/CleanConsoleOutput.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/CleanConsoleOutput.php on line 9
+[24-Nov-2025 09:00:43 UTC] PHP Fatal error:  Uncaught Error: Interface "ParaTest\RunnerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/WrapperRunner.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/WrapperRunner.php on line 49
+[30-Nov-2025 17:21:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/CleanConsoleOutput.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/CleanConsoleOutput.php on line 9
+[30-Nov-2025 17:32:05 UTC] PHP Fatal error:  Uncaught Error: Interface "ParaTest\RunnerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/WrapperRunner.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/WrapperRunner.php on line 49
+[30-Nov-2025 17:39:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/CleanConsoleOutput.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/CleanConsoleOutput.php on line 9
+[30-Nov-2025 17:55:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Output\ConsoleOutput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/CleanConsoleOutput.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/CleanConsoleOutput.php on line 9
+[30-Nov-2025 18:02:43 UTC] PHP Fatal error:  Uncaught Error: Interface "ParaTest\RunnerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/WrapperRunner.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/Plugins/Parallel/Paratest/WrapperRunner.php on line 49

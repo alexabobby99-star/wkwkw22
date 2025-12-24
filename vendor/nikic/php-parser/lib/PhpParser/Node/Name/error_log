@@ -1,0 +1,32 @@
+[25-Nov-2025 02:03:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Name" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php on line 5
+[25-Nov-2025 02:37:07 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Name" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php on line 5
+[27-Nov-2025 19:37:32 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Name" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php on line 5
+[27-Nov-2025 19:41:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Name" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php on line 5
+[27-Nov-2025 21:32:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Name" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php on line 5
+[27-Nov-2025 21:34:26 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Name" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php on line 5
+[27-Nov-2025 23:36:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Name" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/FullyQualified.php on line 5
+[27-Nov-2025 23:40:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Name" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name/Relative.php on line 5

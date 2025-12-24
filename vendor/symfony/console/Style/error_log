@@ -1,0 +1,40 @@
+[13-Nov-2025 06:52:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\OutputStyle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php on line 42
+[14-Nov-2025 18:12:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php on line 24
+[19-Nov-2025 18:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\OutputStyle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php on line 42
+[19-Nov-2025 18:54:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php on line 24
+[19-Nov-2025 19:10:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\OutputStyle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php on line 42
+[19-Nov-2025 19:13:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php on line 24
+[19-Nov-2025 19:55:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\OutputStyle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php on line 42
+[19-Nov-2025 20:05:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php on line 24
+[17-Dec-2025 17:57:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Style\OutputStyle" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/SymfonyStyle.php on line 42
+[18-Dec-2025 06:45:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Console\Output\OutputInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/console/Style/OutputStyle.php on line 24

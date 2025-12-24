@@ -1,0 +1,2 @@
+[16-Nov-2025 10:49:28 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Events/PublishingStubs.php on line 5
+[20-Nov-2025 19:16:18 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Foundation/Events/PublishingStubs.php on line 5

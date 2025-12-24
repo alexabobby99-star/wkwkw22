@@ -1,0 +1,8 @@
+[14-Nov-2025 02:59:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nunomaduro/collision/src/Exceptions/TestOutcome.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nunomaduro/collision/src/Exceptions/TestOutcome.php on line 12
+[20-Nov-2025 00:50:29 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Exception" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nunomaduro/collision/src/Exceptions/TestOutcome.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nunomaduro/collision/src/Exceptions/TestOutcome.php on line 12

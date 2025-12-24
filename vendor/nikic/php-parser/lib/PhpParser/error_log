@@ -1,0 +1,40 @@
+[18-Nov-2025 21:03:47 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 39
+[19-Nov-2025 01:35:55 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\PrettyPrinter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[19-Nov-2025 01:38:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 39
+[19-Nov-2025 01:45:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\PrettyPrinter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[19-Nov-2025 01:55:00 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Parser" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/ParserAbstract.php on line 39
+[19-Nov-2025 02:18:42 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\PrettyPrinter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/PrettyPrinterAbstract.php on line 22
+[22-Nov-2025 17:17:21 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\NodeTraverserInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/NodeTraverser.php on line 5
+[23-Nov-2025 03:44:45 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\NodeVisitor" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/NodeVisitorAbstract.php on line 8
+[23-Nov-2025 06:29:53 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/NodeAbstract.php on line 5
+[25-Nov-2025 22:29:57 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Internal\TokenPolyfill" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Token.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Token.php on line 8

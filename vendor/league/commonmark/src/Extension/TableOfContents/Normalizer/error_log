@@ -1,0 +1,16 @@
+[15-Nov-2025 12:36:10 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[15-Nov-2025 20:19:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[16-Nov-2025 21:27:02 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/FlatNormalizerStrategy.php on line 19
+[17-Nov-2025 01:00:09 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\TableOfContents\Normalizer\NormalizerStrategyInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/TableOfContents/Normalizer/RelativeNormalizerStrategy.php on line 20

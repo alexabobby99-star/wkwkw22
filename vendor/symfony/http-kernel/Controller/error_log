@@ -1,0 +1,64 @@
+[12-Nov-2025 08:04:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[12-Nov-2025 08:05:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[12-Nov-2025 08:15:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[12-Nov-2025 11:23:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[12-Nov-2025 11:59:38 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20
+[18-Nov-2025 06:33:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[18-Nov-2025 06:34:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[18-Nov-2025 06:36:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[18-Nov-2025 06:50:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[18-Nov-2025 06:55:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[18-Nov-2025 06:55:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[16-Dec-2025 19:12:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ArgumentResolver.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ArgumentResolver.php on line 33
+[16-Dec-2025 19:13:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ControllerResolver.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ControllerResolver.php on line 26
+[16-Dec-2025 19:16:48 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ArgumentResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableArgumentResolver.php on line 20
+[16-Dec-2025 22:54:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpKernel\Controller\ControllerResolver" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/ContainerControllerResolver.php on line 24
+[16-Dec-2025 23:43:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpKernel\Controller\ControllerResolverInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-kernel/Controller/TraceableControllerResolver.php on line 20

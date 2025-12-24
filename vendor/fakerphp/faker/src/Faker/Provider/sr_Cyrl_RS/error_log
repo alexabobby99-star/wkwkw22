@@ -1,0 +1,32 @@
+[19-Nov-2025 20:55:44 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Payment.php on line 5
+[19-Nov-2025 20:57:31 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Address.php on line 5
+[30-Nov-2025 04:55:30 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Address.php on line 5
+[30-Nov-2025 04:56:36 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Payment.php on line 5
+[30-Nov-2025 05:21:25 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Address.php on line 5
+[30-Nov-2025 05:24:38 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Payment.php on line 5
+[30-Nov-2025 05:32:25 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Payment" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Payment.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Payment.php on line 5
+[30-Nov-2025 05:37:18 UTC] PHP Fatal error:  Uncaught Error: Class "Faker\Provider\Address" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Address.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/fakerphp/faker/src/Faker/Provider/sr_Cyrl_RS/Address.php on line 5

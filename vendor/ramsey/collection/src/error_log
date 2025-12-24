@@ -1,0 +1,196 @@
+[12-Nov-2025 08:56:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/CollectionInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/CollectionInterface.php on line 32
+[12-Nov-2025 08:57:05 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractCollection.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractCollection.php on line 51
+[12-Nov-2025 23:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\Queue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php on line 32
+[13-Nov-2025 10:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/GenericArray.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/GenericArray.php on line 22
+[13-Nov-2025 23:30:52 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Queue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Queue.php on line 32
+[14-Nov-2025 00:32:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/QueueInterface.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/QueueInterface.php on line 100
+[14-Nov-2025 00:52:50 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Collection.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Collection.php on line 76
+[14-Nov-2025 03:28:46 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractSet.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractSet.php on line 25
+[14-Nov-2025 08:50:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php on line 29
+[14-Nov-2025 12:09:23 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractSet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php on line 41
+[21-Nov-2025 04:14:13 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/CollectionInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/CollectionInterface.php on line 32
+[21-Nov-2025 04:15:17 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\QueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php on line 166
+[21-Nov-2025 04:16:23 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractCollection.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractCollection.php on line 51
+[21-Nov-2025 04:19:34 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\Queue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php on line 32
+[21-Nov-2025 04:43:51 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/GenericArray.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/GenericArray.php on line 22
+[21-Nov-2025 04:49:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php on line 29
+[21-Nov-2025 04:50:06 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Queue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Queue.php on line 32
+[21-Nov-2025 05:05:37 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractSet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php on line 41
+[21-Nov-2025 05:52:24 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\Queue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php on line 32
+[21-Nov-2025 05:53:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/CollectionInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/CollectionInterface.php on line 32
+[21-Nov-2025 05:54:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\QueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php on line 166
+[21-Nov-2025 05:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractCollection.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractCollection.php on line 51
+[21-Nov-2025 05:59:49 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/GenericArray.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/GenericArray.php on line 22
+[21-Nov-2025 06:03:59 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractSet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php on line 41
+[21-Nov-2025 06:05:56 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Queue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Queue.php on line 32
+[21-Nov-2025 06:06:51 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php on line 29
+[21-Nov-2025 06:13:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\QueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php on line 166
+[21-Nov-2025 06:14:52 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\Queue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php on line 32
+[21-Nov-2025 06:26:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php on line 29
+[21-Nov-2025 06:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractSet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php on line 41
+[21-Nov-2025 11:55:01 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\Queue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php on line 32
+[21-Nov-2025 11:58:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\QueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php on line 166
+[21-Nov-2025 12:08:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php on line 29
+[21-Nov-2025 12:09:44 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractSet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php on line 41
+[21-Nov-2025 12:17:59 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\Queue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php on line 32
+[21-Nov-2025 12:25:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\QueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php on line 166
+[21-Nov-2025 13:03:24 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractSet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php on line 41
+[21-Nov-2025 13:06:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php on line 29
+[16-Dec-2025 20:00:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/CollectionInterface.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/CollectionInterface.php on line 32
+[16-Dec-2025 20:01:31 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractCollection.php:51
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractCollection.php on line 51
+[17-Dec-2025 04:49:52 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\QueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php:166
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueueInterface.php on line 166
+[17-Dec-2025 10:50:52 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\Queue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/DoubleEndedQueue.php on line 32
+[17-Dec-2025 21:38:24 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/GenericArray.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/GenericArray.php on line 22
+[18-Dec-2025 03:23:08 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractArray" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Queue.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Queue.php on line 32
+[18-Dec-2025 04:07:54 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/QueueInterface.php:100
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/QueueInterface.php on line 100
+[18-Dec-2025 04:17:55 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Collection.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Collection.php on line 76
+[18-Dec-2025 05:01:08 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractSet.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractSet.php on line 25
+[18-Dec-2025 05:27:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Collection\ArrayInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/AbstractArray.php on line 29
+[18-Dec-2025 05:58:48 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractSet" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/collection/src/Set.php on line 41

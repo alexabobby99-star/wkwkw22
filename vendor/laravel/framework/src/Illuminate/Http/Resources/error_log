@@ -1,0 +1,24 @@
+[16-Nov-2025 22:07:41 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[16-Nov-2025 22:41:24 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[25-Nov-2025 06:56:19 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[25-Nov-2025 07:10:39 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[25-Nov-2025 07:29:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[25-Nov-2025 07:33:46 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[25-Nov-2025 17:22:19 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5
+[25-Nov-2025 17:24:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\ForwardsCalls" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/DelegatesToResource.php on line 9
+[25-Nov-2025 17:27:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Http\Resources\PotentiallyMissing" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Resources/MissingValue.php on line 5

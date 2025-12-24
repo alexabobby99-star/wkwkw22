@@ -1,0 +1,124 @@
+[16-Nov-2025 16:29:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\JsonResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 12
+[16-Nov-2025 16:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RedirectResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php on line 15
+[16-Nov-2025 16:50:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php on line 13
+[18-Nov-2025 00:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Response" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php on line 15
+[18-Nov-2025 14:19:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php on line 7
+[18-Nov-2025 14:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 29
+[26-Nov-2025 03:57:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RedirectResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php on line 15
+[26-Nov-2025 04:06:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\JsonResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 12
+[26-Nov-2025 04:08:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php on line 13
+[26-Nov-2025 04:10:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RedirectResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php on line 15
+[26-Nov-2025 04:20:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php on line 7
+[26-Nov-2025 04:22:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 29
+[26-Nov-2025 04:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Response" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php on line 15
+[26-Nov-2025 04:50:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Response" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php on line 15
+[26-Nov-2025 04:51:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\JsonResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 12
+[26-Nov-2025 04:55:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php on line 13
+[26-Nov-2025 04:58:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RedirectResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php on line 15
+[26-Nov-2025 05:11:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php on line 7
+[26-Nov-2025 05:13:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 29
+[26-Nov-2025 05:26:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RedirectResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php on line 15
+[26-Nov-2025 05:27:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php on line 13
+[26-Nov-2025 05:30:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\JsonResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 12
+[26-Nov-2025 05:34:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php on line 7
+[26-Nov-2025 05:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Response" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php on line 15
+[26-Nov-2025 05:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 29
+[18-Dec-2025 15:43:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\UploadedFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php on line 13
+[18-Dec-2025 15:50:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\JsonResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/JsonResponse.php on line 12
+[18-Dec-2025 16:02:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\RedirectResponse" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php on line 15
+[18-Dec-2025 16:59:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Response" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Response.php on line 15
+[18-Dec-2025 17:13:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\File\File" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/File.php on line 7
+[18-Dec-2025 17:18:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Request" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Request.php on line 29

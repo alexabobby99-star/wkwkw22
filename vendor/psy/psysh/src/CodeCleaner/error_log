@@ -1,0 +1,436 @@
+[13-Nov-2025 10:11:57 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php on line 24
+[13-Nov-2025 10:12:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php on line 30
+[13-Nov-2025 10:16:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/PassableByReferencePass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/PassableByReferencePass.php on line 30
+[13-Nov-2025 10:17:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php on line 28
+[13-Nov-2025 10:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php on line 24
+[13-Nov-2025 12:38:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\NamespaceAwarePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php on line 28
+[13-Nov-2025 15:00:58 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php on line 34
+[13-Nov-2025 15:22:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php on line 27
+[13-Nov-2025 15:29:14 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php on line 31
+[13-Nov-2025 15:36:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php on line 32
+[13-Nov-2025 16:08:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php on line 21
+[13-Nov-2025 16:10:51 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php on line 19
+[13-Nov-2025 17:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php on line 21
+[13-Nov-2025 17:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php on line 29
+[13-Nov-2025 23:39:19 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php on line 19
+[14-Nov-2025 00:46:51 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php on line 30
+[14-Nov-2025 00:47:35 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/RequirePass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/RequirePass.php on line 27
+[14-Nov-2025 06:48:36 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\NamespaceAwarePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php on line 33
+[14-Nov-2025 06:51:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php on line 22
+[14-Nov-2025 06:52:27 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php on line 22
+[14-Nov-2025 06:58:29 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php on line 24
+[14-Nov-2025 07:03:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php on line 28
+[14-Nov-2025 12:12:31 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php on line 32
+[14-Nov-2025 12:19:36 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php on line 34
+[14-Nov-2025 15:11:25 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ExitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ExitPass.php on line 20
+[14-Nov-2025 15:15:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ListPass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ListPass.php on line 31
+[14-Nov-2025 21:56:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/IssetPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/IssetPass.php on line 26
+[16-Nov-2025 13:23:04 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php on line 30
+[16-Nov-2025 13:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php on line 24
+[16-Nov-2025 13:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php on line 28
+[16-Nov-2025 13:33:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php on line 24
+[16-Nov-2025 13:34:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php on line 32
+[16-Nov-2025 13:35:06 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php on line 28
+[16-Nov-2025 13:36:06 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php on line 31
+[16-Nov-2025 13:37:10 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php on line 27
+[16-Nov-2025 13:38:13 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php on line 30
+[16-Nov-2025 13:39:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\NamespaceAwarePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php on line 28
+[16-Nov-2025 13:40:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php on line 19
+[16-Nov-2025 13:41:24 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php on line 24
+[16-Nov-2025 13:42:29 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php on line 34
+[16-Nov-2025 13:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php on line 21
+[16-Nov-2025 13:45:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php on line 30
+[16-Nov-2025 13:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php on line 28
+[16-Nov-2025 13:47:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php on line 22
+[16-Nov-2025 13:48:48 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php on line 21
+[16-Nov-2025 13:49:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/RequirePass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/RequirePass.php on line 27
+[16-Nov-2025 13:50:55 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php on line 29
+[16-Nov-2025 13:51:56 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php on line 22
+[16-Nov-2025 13:52:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php on line 19
+[16-Nov-2025 13:54:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\NamespaceAwarePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php on line 33
+[16-Nov-2025 13:55:03 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php on line 24
+[16-Nov-2025 13:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/IssetPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/IssetPass.php on line 26
+[16-Nov-2025 13:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ListPass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ListPass.php on line 31
+[16-Nov-2025 14:01:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php on line 32
+[16-Nov-2025 14:02:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php on line 34
+[16-Nov-2025 14:04:22 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ExitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ExitPass.php on line 20
+[16-Nov-2025 14:06:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php on line 30
+[16-Nov-2025 14:07:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php on line 24
+[16-Nov-2025 14:14:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php on line 28
+[16-Nov-2025 14:14:45 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\NamespaceAwarePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php on line 28
+[16-Nov-2025 14:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php on line 27
+[16-Nov-2025 14:16:53 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php on line 34
+[16-Nov-2025 14:23:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php on line 24
+[16-Nov-2025 14:25:14 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php on line 31
+[16-Nov-2025 14:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php on line 29
+[16-Nov-2025 14:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\NamespaceAwarePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php on line 33
+[16-Nov-2025 14:28:22 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php on line 19
+[16-Nov-2025 14:29:23 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php on line 22
+[16-Nov-2025 14:30:26 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php on line 21
+[16-Nov-2025 14:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/RequirePass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/RequirePass.php on line 27
+[16-Nov-2025 14:32:34 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php on line 30
+[16-Nov-2025 14:33:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php on line 21
+[16-Nov-2025 14:34:40 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php on line 32
+[16-Nov-2025 14:35:41 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php on line 19
+[16-Nov-2025 14:36:46 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php on line 24
+[16-Nov-2025 14:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/IssetPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/IssetPass.php on line 26
+[16-Nov-2025 14:39:51 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php on line 32
+[16-Nov-2025 14:40:57 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ExitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ExitPass.php on line 20
+[16-Nov-2025 14:42:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php on line 28
+[16-Nov-2025 14:43:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php on line 22
+[16-Nov-2025 14:44:05 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ListPass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ListPass.php on line 31
+[16-Nov-2025 14:46:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php on line 34
+[17-Dec-2025 21:00:08 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/EmptyArrayDimFetchPass.php on line 24
+[17-Dec-2025 21:00:24 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionReturnInWriteContextPass.php on line 30
+[17-Dec-2025 21:02:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CallTimePassByReferencePass.php on line 28
+[17-Dec-2025 21:04:21 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/PassableByReferencePass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/PassableByReferencePass.php on line 30
+[17-Dec-2025 21:05:26 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AssignThisVariablePass.php on line 24
+[17-Dec-2025 22:36:04 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\NamespaceAwarePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidFunctionNamePass.php on line 28
+[17-Dec-2025 23:55:42 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidConstructorPass.php on line 34
+[18-Dec-2025 00:13:00 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LoopContextPass.php on line 31
+[18-Dec-2025 00:14:01 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/StrictTypesPass.php on line 32
+[18-Dec-2025 00:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CalledClassPass.php on line 27
+[18-Dec-2025 00:28:16 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LeavePsyshAlonePass.php on line 21
+[18-Dec-2025 00:28:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FunctionContextPass.php on line 19
+[18-Dec-2025 00:40:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/FinalClassPass.php on line 21
+[18-Dec-2025 00:41:38 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ReturnTypePass.php on line 29
+[18-Dec-2025 03:24:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeVisitorAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/CodeCleanerPass.php on line 19
+[18-Dec-2025 04:14:17 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/RequirePass.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/RequirePass.php on line 27
+[18-Dec-2025 04:14:47 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespacePass.php on line 30
+[18-Dec-2025 05:10:10 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/NamespaceAwarePass.php on line 22
+[18-Dec-2025 05:11:11 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/MagicConstantsPass.php on line 24
+[18-Dec-2025 05:12:13 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/AbstractClassPass.php on line 22
+[18-Dec-2025 05:14:19 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ImplicitReturnPass.php on line 28
+[18-Dec-2025 05:15:23 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\NamespaceAwarePass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ValidClassNamePass.php on line 33
+[18-Dec-2025 06:00:54 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/UseStatementPass.php on line 34
+[18-Dec-2025 06:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/LabelContextPass.php on line 32
+[18-Dec-2025 06:32:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ExitPass.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ExitPass.php on line 20
+[18-Dec-2025 06:33:37 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ListPass.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/ListPass.php on line 31
+[18-Dec-2025 06:57:13 UTC] PHP Fatal error:  Uncaught Error: Class "Psy\CodeCleaner\CodeCleanerPass" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/IssetPass.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/CodeCleaner/IssetPass.php on line 26

@@ -1,0 +1,56 @@
+[13-Nov-2025 11:32:10 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php on line 7
+[13-Nov-2025 13:09:33 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php on line 7
+[15-Nov-2025 11:44:42 UTC] PHP Warning:  require(/home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[15-Nov-2025 11:44:42 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[17-Nov-2025 02:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php on line 7
+[17-Nov-2025 02:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php on line 7
+[17-Nov-2025 02:46:20 UTC] PHP Warning:  require(/home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[17-Nov-2025 02:46:20 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[17-Nov-2025 02:52:18 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php on line 7
+[17-Nov-2025 02:58:36 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php on line 7
+[17-Nov-2025 03:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php on line 7
+[17-Nov-2025 03:04:50 UTC] PHP Warning:  require(/home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[17-Nov-2025 03:04:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[17-Dec-2025 21:59:05 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/GlobalFunctionFile.php on line 7
+[17-Dec-2025 22:45:38 UTC] PHP Fatal error:  Uncaught Error: Class "FactoryFile" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/StaticMethodFile.php on line 7
+[18-Dec-2025 08:28:26 UTC] PHP Warning:  require(/home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php on line 6
+[18-Dec-2025 08:28:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/../vendor/autoload.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/hamcrest/hamcrest-php/generator/run.php on line 6

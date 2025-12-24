@@ -1,0 +1,12 @@
+[15-Nov-2025 18:53:52 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/Runner/ResultCache/DefaultResultCache.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/Runner/ResultCache/DefaultResultCache.php on line 73
+[26-Nov-2025 15:21:35 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/Runner/ResultCache/DefaultResultCache.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/Runner/ResultCache/DefaultResultCache.php on line 73
+[26-Nov-2025 15:42:48 UTC] PHP Fatal error:  Uncaught Error: Interface "PHPUnit\Runner\ResultCache\ResultCache" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/Runner/ResultCache/DefaultResultCache.php:73
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/overrides/Runner/ResultCache/DefaultResultCache.php on line 73

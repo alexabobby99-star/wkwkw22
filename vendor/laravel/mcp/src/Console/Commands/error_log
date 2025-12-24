@@ -1,0 +1,24 @@
+[19-Nov-2025 00:31:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/MakeResourceCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/MakeResourceCommand.php on line 15
+[22-Nov-2025 10:36:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/MakePromptCommand.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/MakePromptCommand.php on line 15
+[24-Nov-2025 11:18:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/MakeServerCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/MakeServerCommand.php on line 16
+[24-Nov-2025 19:34:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/InspectorCommand.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/InspectorCommand.php on line 21
+[24-Nov-2025 20:39:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\GeneratorCommand" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/MakeToolCommand.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/MakeToolCommand.php on line 17
+[25-Nov-2025 16:21:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Console\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/StartCommand.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/mcp/src/Console/Commands/StartCommand.php on line 16

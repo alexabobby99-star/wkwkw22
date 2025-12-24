@@ -1,0 +1,192 @@
+[12-Nov-2025 22:29:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\IcuResFileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuDatFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuDatFileLoader.php on line 24
+[12-Nov-2025 22:37:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php on line 24
+[12-Nov-2025 23:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PoFileLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PoFileLoader.php on line 18
+[13-Nov-2025 00:00:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php on line 26
+[13-Nov-2025 01:09:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php on line 29
+[13-Nov-2025 02:25:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PhpFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PhpFileLoader.php on line 19
+[13-Nov-2025 02:26:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php on line 19
+[13-Nov-2025 02:28:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/CsvFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/CsvFileLoader.php on line 21
+[13-Nov-2025 02:33:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php on line 25
+[13-Nov-2025 02:35:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php on line 21
+[13-Nov-2025 03:02:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/ArrayLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/ArrayLoader.php on line 21
+[13-Nov-2025 09:49:58 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\ArrayLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/FileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/FileLoader.php on line 22
+[19-Nov-2025 23:02:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\IcuResFileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuDatFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuDatFileLoader.php on line 24
+[19-Nov-2025 23:03:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php on line 24
+[19-Nov-2025 23:04:44 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PoFileLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PoFileLoader.php on line 18
+[19-Nov-2025 23:14:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php on line 29
+[19-Nov-2025 23:15:59 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php on line 26
+[19-Nov-2025 23:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/MoFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/MoFileLoader.php on line 19
+[19-Nov-2025 23:24:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php on line 25
+[19-Nov-2025 23:25:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php on line 21
+[19-Nov-2025 23:27:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\ArrayLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/FileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/FileLoader.php on line 22
+[19-Nov-2025 23:29:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php on line 19
+[19-Nov-2025 23:32:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/ArrayLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/ArrayLoader.php on line 21
+[19-Nov-2025 23:42:28 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php on line 24
+[19-Nov-2025 23:57:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php on line 21
+[19-Nov-2025 23:58:23 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php on line 29
+[20-Nov-2025 00:00:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php on line 25
+[20-Nov-2025 00:01:33 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php on line 26
+[20-Nov-2025 00:02:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php on line 19
+[20-Nov-2025 00:15:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php on line 25
+[20-Nov-2025 00:16:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php on line 29
+[20-Nov-2025 00:17:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php on line 21
+[20-Nov-2025 00:19:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php on line 24
+[20-Nov-2025 00:20:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php on line 19
+[20-Nov-2025 00:21:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php on line 26
+[17-Dec-2025 10:07:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuResFileLoader.php on line 24
+[17-Dec-2025 10:08:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\IcuResFileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuDatFileLoader.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IcuDatFileLoader.php on line 24
+[17-Dec-2025 11:08:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/QtFileLoader.php on line 26
+[17-Dec-2025 11:09:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/MoFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/MoFileLoader.php on line 19
+[17-Dec-2025 11:11:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PoFileLoader.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PoFileLoader.php on line 18
+[17-Dec-2025 12:29:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php:29
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/XliffFileLoader.php on line 29
+[17-Dec-2025 13:45:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/CsvFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/CsvFileLoader.php on line 21
+[17-Dec-2025 13:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/JsonFileLoader.php on line 21
+[17-Dec-2025 13:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/YamlFileLoader.php on line 25
+[17-Dec-2025 13:54:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/IniFileLoader.php on line 19
+[17-Dec-2025 13:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\FileLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PhpFileLoader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/PhpFileLoader.php on line 19
+[17-Dec-2025 14:17:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Translation\Loader\LoaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/ArrayLoader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/ArrayLoader.php on line 21
+[17-Dec-2025 20:26:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Translation\Loader\ArrayLoader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/FileLoader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/translation/Loader/FileLoader.php on line 22

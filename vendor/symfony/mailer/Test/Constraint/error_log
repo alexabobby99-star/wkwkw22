@@ -1,0 +1,44 @@
+[14-Nov-2025 01:31:43 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[14-Nov-2025 01:50:22 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[14-Nov-2025 01:58:40 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[14-Nov-2025 02:07:01 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[14-Nov-2025 02:11:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php on line 17
+[14-Nov-2025 02:21:15 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[18-Dec-2025 04:34:59 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[18-Dec-2025 04:38:54 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php on line 17
+[18-Dec-2025 04:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[18-Dec-2025 04:55:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailCount.php on line 17
+[18-Dec-2025 04:56:09 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\Constraint\Constraint" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Test/Constraint/EmailIsQueued.php on line 17

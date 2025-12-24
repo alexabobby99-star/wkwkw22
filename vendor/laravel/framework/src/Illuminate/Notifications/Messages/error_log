@@ -1,0 +1,26 @@
+[15-Nov-2025 14:51:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Messages\SimpleMessage" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php on line 14
+[15-Nov-2025 14:54:32 UTC] PHP Fatal error:  Trait "Illuminate\Bus\Queueable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php on line 7
+[19-Nov-2025 01:05:38 UTC] PHP Fatal error:  Trait "Illuminate\Bus\Queueable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php on line 7
+[19-Nov-2025 01:10:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Messages\SimpleMessage" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php on line 14
+[19-Nov-2025 01:18:09 UTC] PHP Fatal error:  Trait "Illuminate\Bus\Queueable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php on line 7
+[19-Nov-2025 12:06:59 UTC] PHP Fatal error:  Trait "Illuminate\Bus\Queueable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php on line 7
+[19-Nov-2025 12:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Messages\SimpleMessage" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php on line 14
+[19-Nov-2025 12:40:15 UTC] PHP Fatal error:  Trait "Illuminate\Bus\Queueable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php on line 7
+[19-Nov-2025 12:41:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Messages\SimpleMessage" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php on line 14
+[19-Nov-2025 13:10:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Notifications\Messages\SimpleMessage" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/MailMessage.php on line 14
+[19-Nov-2025 13:14:07 UTC] PHP Fatal error:  Trait "Illuminate\Bus\Queueable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Notifications/Messages/BroadcastMessage.php on line 7

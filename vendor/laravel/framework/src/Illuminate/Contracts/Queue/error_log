@@ -1,0 +1,28 @@
+[18-Nov-2025 22:45:49 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Queue\ShouldQueue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldQueueAfterCommit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldQueueAfterCommit.php on line 5
+[18-Nov-2025 22:49:31 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Queue\ShouldBeUnique" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeUniqueUntilProcessing.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeUniqueUntilProcessing.php on line 5
+[25-Nov-2025 15:07:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Queue\ShouldBeUnique" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeUniqueUntilProcessing.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeUniqueUntilProcessing.php on line 5
+[25-Nov-2025 15:10:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Queue\ShouldQueue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldQueueAfterCommit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldQueueAfterCommit.php on line 5
+[25-Nov-2025 15:37:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Queue\ShouldBeUnique" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeUniqueUntilProcessing.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeUniqueUntilProcessing.php on line 5
+[25-Nov-2025 15:42:44 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Queue\ShouldQueue" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldQueueAfterCommit.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldQueueAfterCommit.php on line 5
+[25-Nov-2025 16:01:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Queue\ShouldBeUnique" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeUniqueUntilProcessing.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/Queue/ShouldBeUniqueUntilProcessing.php on line 5

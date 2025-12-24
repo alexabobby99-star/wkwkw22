@@ -1,0 +1,300 @@
+[12-Nov-2025 01:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php on line 14
+[12-Nov-2025 04:05:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php on line 14
+[12-Nov-2025 04:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php on line 21
+[12-Nov-2025 04:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php on line 19
+[12-Nov-2025 04:36:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php on line 21
+[12-Nov-2025 04:37:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php on line 19
+[12-Nov-2025 04:39:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php on line 23
+[12-Nov-2025 04:43:25 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php on line 23
+[12-Nov-2025 04:44:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php on line 19
+[12-Nov-2025 06:01:40 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Uid\HashableInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php on line 19
+[12-Nov-2025 06:20:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php on line 14
+[12-Nov-2025 06:20:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php on line 17
+[12-Nov-2025 21:04:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php on line 23
+[12-Nov-2025 22:57:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php on line 21
+[13-Nov-2025 05:20:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php on line 21
+[13-Nov-2025 05:21:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php on line 14
+[13-Nov-2025 05:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php on line 14
+[13-Nov-2025 05:26:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php on line 21
+[13-Nov-2025 05:28:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php on line 23
+[13-Nov-2025 05:29:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php on line 19
+[13-Nov-2025 05:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php on line 14
+[13-Nov-2025 05:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php on line 19
+[13-Nov-2025 05:32:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Uid\HashableInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php on line 19
+[13-Nov-2025 05:34:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php on line 23
+[13-Nov-2025 05:35:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php on line 17
+[13-Nov-2025 05:36:19 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php on line 19
+[13-Nov-2025 05:38:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php on line 21
+[13-Nov-2025 05:39:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php on line 23
+[13-Nov-2025 05:51:05 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Uid\HashableInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php on line 19
+[13-Nov-2025 05:55:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php on line 23
+[13-Nov-2025 05:56:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php on line 21
+[13-Nov-2025 05:58:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php on line 14
+[13-Nov-2025 06:00:03 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php on line 17
+[16-Dec-2025 13:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php on line 14
+[16-Dec-2025 15:06:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php on line 14
+[16-Dec-2025 15:31:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php on line 19
+[16-Dec-2025 15:31:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php on line 21
+[16-Dec-2025 15:32:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php on line 19
+[16-Dec-2025 15:34:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php on line 23
+[16-Dec-2025 15:35:05 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php on line 21
+[16-Dec-2025 15:36:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php on line 19
+[16-Dec-2025 15:37:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php on line 23
+[16-Dec-2025 17:08:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Uid\HashableInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php on line 19
+[16-Dec-2025 17:36:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php on line 17
+[16-Dec-2025 17:36:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php on line 14
+[17-Dec-2025 08:25:13 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php on line 23
+[17-Dec-2025 10:23:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php on line 21
+[17-Dec-2025 16:42:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php on line 14
+[17-Dec-2025 16:43:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php on line 14
+[17-Dec-2025 16:44:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php on line 19
+[17-Dec-2025 16:45:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php on line 23
+[17-Dec-2025 16:46:33 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php on line 19
+[17-Dec-2025 16:47:34 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php on line 21
+[17-Dec-2025 16:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php on line 21
+[17-Dec-2025 16:50:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php on line 19
+[17-Dec-2025 16:51:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php on line 23
+[17-Dec-2025 16:52:46 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Uid\HashableInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php on line 19
+[17-Dec-2025 16:53:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php on line 17
+[17-Dec-2025 16:54:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php on line 14
+[17-Dec-2025 16:55:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php on line 23
+[17-Dec-2025 16:56:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php on line 21
+[17-Dec-2025 17:07:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUlid.php on line 14
+[17-Dec-2025 17:08:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Ulid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUlid.php on line 14
+[17-Dec-2025 17:09:43 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV8.php on line 19
+[17-Dec-2025 17:10:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV6.php on line 23
+[17-Dec-2025 17:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV7.php on line 23
+[17-Dec-2025 17:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV5.php on line 21
+[17-Dec-2025 17:14:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV3.php on line 21
+[17-Dec-2025 17:15:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV1.php on line 19
+[17-Dec-2025 17:16:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/UuidV4.php on line 19
+[17-Dec-2025 17:17:12 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Uid\HashableInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/AbstractUid.php on line 19
+[17-Dec-2025 17:18:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/MaxUuid.php on line 14
+[17-Dec-2025 17:19:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\Uuid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/NilUuid.php on line 17
+[17-Dec-2025 17:20:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Ulid.php on line 23
+[17-Dec-2025 17:21:27 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Uid\AbstractUid" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/uid/Uuid.php on line 21

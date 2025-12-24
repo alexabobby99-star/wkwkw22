@@ -1,0 +1,156 @@
+[11-Nov-2025 22:19:01 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[11-Nov-2025 22:21:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[11-Nov-2025 22:22:59 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnsignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnsignedUriException.php on line 17
+[11-Nov-2025 22:25:07 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/LogicException.php on line 17
+[11-Nov-2025 22:27:06 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SignedUriException.php on line 17
+[11-Nov-2025 23:17:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ExpiredSignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ExpiredSignedUriException.php on line 17
+[12-Nov-2025 00:00:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnverifiedSignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnverifiedSignedUriException.php on line 17
+[12-Nov-2025 00:07:23 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[12-Nov-2025 00:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[12-Nov-2025 01:32:41 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[18-Nov-2025 12:12:58 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/LogicException.php on line 17
+[18-Nov-2025 12:14:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnsignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnsignedUriException.php on line 17
+[18-Nov-2025 12:15:38 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[18-Nov-2025 12:16:41 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[18-Nov-2025 12:17:43 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SignedUriException.php on line 17
+[18-Nov-2025 12:18:48 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ExpiredSignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ExpiredSignedUriException.php on line 17
+[18-Nov-2025 12:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[18-Nov-2025 12:20:55 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnverifiedSignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnverifiedSignedUriException.php on line 17
+[18-Nov-2025 12:21:56 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[18-Nov-2025 12:28:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21
+[18-Nov-2025 12:32:40 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[18-Nov-2025 12:33:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[18-Nov-2025 12:34:25 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SignedUriException.php on line 17
+[18-Nov-2025 12:35:29 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/LogicException.php on line 17
+[18-Nov-2025 12:36:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[18-Nov-2025 12:37:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnsignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnsignedUriException.php on line 17
+[18-Nov-2025 12:38:32 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ExpiredSignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ExpiredSignedUriException.php on line 17
+[18-Nov-2025 12:39:35 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[18-Nov-2025 12:40:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnverifiedSignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnverifiedSignedUriException.php on line 17
+[16-Dec-2025 09:47:37 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SuspiciousOperationException.php on line 18
+[16-Dec-2025 09:49:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/BadRequestException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/BadRequestException.php on line 17
+[16-Dec-2025 09:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnsignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnsignedUriException.php on line 17
+[16-Dec-2025 09:51:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SignedUriException.php on line 17
+[16-Dec-2025 09:52:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\ExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/LogicException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/LogicException.php on line 17
+[16-Dec-2025 10:15:52 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ExpiredSignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ExpiredSignedUriException.php on line 17
+[16-Dec-2025 11:15:53 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\SignedUriException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnverifiedSignedUriException.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/UnverifiedSignedUriException.php on line 17
+[16-Dec-2025 11:16:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/ConflictingHeadersException.php on line 19
+[16-Dec-2025 11:39:17 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\HttpFoundation\Exception\UnexpectedValueException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/JsonException.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/JsonException.php on line 19
+[16-Dec-2025 12:37:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\HttpFoundation\Exception\RequestExceptionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/http-foundation/Exception/SessionNotFoundException.php on line 21

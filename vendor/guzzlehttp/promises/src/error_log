@@ -1,0 +1,160 @@
+[11-Nov-2025 23:59:42 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php on line 13
+[12-Nov-2025 17:03:14 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[12-Nov-2025 20:48:21 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[12-Nov-2025 23:56:14 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 15
+[13-Nov-2025 02:34:47 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 15
+[13-Nov-2025 19:40:55 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php on line 14
+[14-Nov-2025 03:06:28 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\TaskQueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/TaskQueue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/TaskQueue.php on line 18
+[14-Nov-2025 03:29:45 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[20-Nov-2025 10:28:00 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php on line 13
+[20-Nov-2025 10:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[20-Nov-2025 10:34:10 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 15
+[20-Nov-2025 10:36:14 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[20-Nov-2025 10:37:15 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 15
+[20-Nov-2025 10:43:33 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php on line 14
+[20-Nov-2025 10:56:04 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\TaskQueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/TaskQueue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/TaskQueue.php on line 18
+[20-Nov-2025 10:57:05 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[20-Nov-2025 11:12:40 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[20-Nov-2025 11:13:31 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php on line 14
+[20-Nov-2025 11:14:36 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php on line 13
+[20-Nov-2025 11:16:42 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[20-Nov-2025 11:17:38 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 15
+[20-Nov-2025 11:18:42 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 15
+[20-Nov-2025 11:22:37 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php on line 13
+[20-Nov-2025 11:23:40 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[20-Nov-2025 11:24:42 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\TaskQueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/TaskQueue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/TaskQueue.php on line 18
+[20-Nov-2025 11:33:06 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[20-Nov-2025 11:37:14 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 15
+[20-Nov-2025 11:38:18 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php on line 14
+[20-Nov-2025 11:40:24 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[20-Nov-2025 11:41:29 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 15
+[06-Dec-2025 15:48:37 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php on line 46
+[06-Dec-2025 15:48:38 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 15
+[16-Dec-2025 21:07:20 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromisorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/EachPromise.php on line 13
+[17-Dec-2025 04:38:51 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/AggregateException.php on line 10
+[17-Dec-2025 08:11:31 UTC] PHP Fatal error:  Uncaught Error: Class "GuzzleHttp\Promise\RejectionException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/CancellationException.php on line 10
+[17-Dec-2025 11:07:04 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/RejectedPromise.php on line 15
+[17-Dec-2025 13:53:18 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/FulfilledPromise.php on line 15
+[18-Dec-2025 01:59:33 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Promise.php on line 14
+[18-Dec-2025 05:02:57 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\TaskQueueInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/TaskQueue.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/TaskQueue.php on line 18
+[18-Dec-2025 05:04:03 UTC] PHP Fatal error:  Uncaught Error: Interface "GuzzleHttp\Promise\PromiseInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/guzzlehttp/promises/src/Coroutine.php on line 46

@@ -1,0 +1,36 @@
+[18-Nov-2025 17:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13
+[23-Nov-2025 06:25:02 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13
+[23-Nov-2025 06:45:04 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13
+[23-Nov-2025 16:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13
+[23-Nov-2025 18:27:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13
+[23-Nov-2025 22:30:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13
+[24-Nov-2025 01:37:44 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13
+[24-Nov-2025 04:40:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13
+[18-Dec-2025 09:41:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Architecture\Asserts\Dependencies\ObjectDependenciesDescription" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ta-tikoma/phpunit-architecture-test/src/Asserts/Inheritance/ObjectInheritanceDescription.php on line 13

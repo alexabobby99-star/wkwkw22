@@ -1,0 +1,12 @@
+[15-Nov-2025 00:03:10 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\TestCaseFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/TestCaseFilters/GitDirtyTestCaseFilter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/TestCaseFilters/GitDirtyTestCaseFilter.php on line 14
+[23-Nov-2025 11:31:04 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\TestCaseFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/TestCaseFilters/GitDirtyTestCaseFilter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/TestCaseFilters/GitDirtyTestCaseFilter.php on line 14
+[23-Nov-2025 11:45:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Pest\Contracts\TestCaseFilter" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/TestCaseFilters/GitDirtyTestCaseFilter.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/TestCaseFilters/GitDirtyTestCaseFilter.php on line 14

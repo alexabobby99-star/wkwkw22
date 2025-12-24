@@ -1,0 +1,4 @@
+[14-Nov-2025 15:27:00 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Validator\ValidatorInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Validator/GenericValidator.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Validator/GenericValidator.php on line 27

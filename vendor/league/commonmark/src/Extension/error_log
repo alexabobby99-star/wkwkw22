@@ -1,0 +1,28 @@
+[14-Nov-2025 03:41:54 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/ConfigurableExtensionInterface.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/ConfigurableExtensionInterface.php on line 18
+[14-Nov-2025 03:43:57 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/GithubFlavoredMarkdownExtension.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/GithubFlavoredMarkdownExtension.php on line 23
+[14-Nov-2025 04:25:34 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/GithubFlavoredMarkdownExtension.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/GithubFlavoredMarkdownExtension.php on line 23
+[14-Nov-2025 04:35:47 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/GithubFlavoredMarkdownExtension.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/GithubFlavoredMarkdownExtension.php on line 23
+[14-Nov-2025 04:38:51 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/ConfigurableExtensionInterface.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/ConfigurableExtensionInterface.php on line 18
+[14-Nov-2025 04:48:31 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/ConfigurableExtensionInterface.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/ConfigurableExtensionInterface.php on line 18
+[14-Nov-2025 04:52:39 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/GithubFlavoredMarkdownExtension.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/GithubFlavoredMarkdownExtension.php on line 23

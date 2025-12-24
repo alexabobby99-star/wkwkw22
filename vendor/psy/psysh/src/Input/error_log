@@ -1,0 +1,16 @@
+[15-Nov-2025 00:28:21 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\InputArgument" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Input/CodeArgument.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Input/CodeArgument.php on line 30
+[16-Nov-2025 21:19:47 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\StringInput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Input/ShellInput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Input/ShellInput.php on line 20
+[18-Dec-2025 07:20:11 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\InputArgument" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Input/CodeArgument.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Input/CodeArgument.php on line 30
+[18-Dec-2025 09:13:42 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Input\StringInput" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Input/ShellInput.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/psy/psysh/src/Input/ShellInput.php on line 20

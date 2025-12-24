@@ -1,0 +1,24 @@
+[17-Nov-2025 03:50:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Renderable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7
+[25-Nov-2025 12:42:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Renderable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7
+[25-Nov-2025 12:59:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Renderable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7
+[25-Nov-2025 13:41:47 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Renderable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7
+[25-Nov-2025 15:32:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Renderable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7
+[25-Nov-2025 15:58:30 UTC] PHP Fatal error:  Uncaught Error: Interface "Illuminate\Contracts\Support\Renderable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Contracts/View/View.php on line 7

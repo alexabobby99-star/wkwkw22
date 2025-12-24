@@ -1,0 +1,32 @@
+[11-Nov-2025 18:07:42 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Mailer.php on line 26
+[11-Nov-2025 22:08:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[19-Nov-2025 08:56:27 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Mailer.php on line 26
+[19-Nov-2025 08:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[19-Nov-2025 09:22:03 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Mailer.php on line 26
+[19-Nov-2025 09:24:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/DelayedEnvelope.php on line 24
+[16-Dec-2025 05:49:11 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mailer\MailerInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Mailer.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/Mailer.php on line 26
+[16-Dec-2025 09:35:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mailer\Envelope" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/DelayedEnvelope.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mailer/DelayedEnvelope.php on line 24

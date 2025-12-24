@@ -1,0 +1,116 @@
+[13-Nov-2025 02:30:51 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[13-Nov-2025 03:10:10 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[13-Nov-2025 06:52:02 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[13-Nov-2025 10:34:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[13-Nov-2025 19:38:06 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/DateHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/DateHeader.php on line 19
+[13-Nov-2025 19:47:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/PathHeader.php on line 22
+[14-Nov-2025 03:05:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxHeader.php on line 22
+[20-Nov-2025 07:26:04 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[20-Nov-2025 07:27:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[20-Nov-2025 07:28:15 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[20-Nov-2025 07:29:18 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[20-Nov-2025 07:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\UnstructuredHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/ParameterizedHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[20-Nov-2025 07:37:16 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/PathHeader.php on line 22
+[20-Nov-2025 07:45:46 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[20-Nov-2025 07:47:54 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[20-Nov-2025 07:49:49 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[20-Nov-2025 07:53:37 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[20-Nov-2025 07:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/PathHeader.php on line 22
+[20-Nov-2025 08:00:20 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[20-Nov-2025 08:02:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[20-Nov-2025 08:04:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[17-Dec-2025 11:06:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\UnstructuredHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/ParameterizedHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/ParameterizedHeader.php on line 19
+[17-Dec-2025 13:47:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/IdentificationHeader.php on line 22
+[17-Dec-2025 14:16:26 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/UnstructuredHeader.php on line 19
+[17-Dec-2025 17:56:16 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\Mime\Header\HeaderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/AbstractHeader.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/AbstractHeader.php on line 21
+[17-Dec-2025 21:16:31 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxListHeader.php on line 22
+[18-Dec-2025 01:57:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/PathHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/PathHeader.php on line 22
+[18-Dec-2025 01:58:28 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/DateHeader.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/DateHeader.php on line 19
+[18-Dec-2025 04:57:12 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Mime\Header\AbstractHeader" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxHeader.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/mime/Header/MailboxHeader.php on line 22

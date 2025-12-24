@@ -1,0 +1,24 @@
+[13-Nov-2025 09:15:36 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[19-Nov-2025 10:41:39 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[19-Nov-2025 10:53:24 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[19-Nov-2025 11:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[19-Nov-2025 11:32:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39
+[17-Dec-2025 20:10:57 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Console\Command\Command" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/symfony/var-dumper/Command/ServerDumpCommand.php on line 39

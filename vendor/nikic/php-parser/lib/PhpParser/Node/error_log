@@ -1,0 +1,116 @@
+[25-Nov-2025 20:19:28 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/InterpolatedStringPart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/InterpolatedStringPart.php on line 7
+[26-Nov-2025 18:19:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/InterpolatedStringPart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/InterpolatedStringPart.php on line 7
+[26-Nov-2025 18:35:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/InterpolatedStringPart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/InterpolatedStringPart.php on line 7
+[26-Nov-2025 18:43:39 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/InterpolatedStringPart.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/InterpolatedStringPart.php on line 7
+[26-Nov-2025 22:47:50 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/VariadicPlaceholder.php on line 10
+[27-Nov-2025 06:31:21 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/IntersectionType.php on line 5
+[27-Nov-2025 08:26:40 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Identifier" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/VarLikeIdentifier.php on line 12
+[28-Nov-2025 00:47:29 UTC] PHP Fatal error:  Uncaught Error: Interface "PhpParser\Node" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/FunctionLike.php on line 7
+[28-Nov-2025 01:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Arg.php on line 7
+[28-Nov-2025 05:38:20 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyItem.php on line 8
+[28-Nov-2025 05:42:23 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyHook.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/PropertyHook.php on line 13
+[28-Nov-2025 05:43:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/DeclareItem.php on line 8
+[28-Nov-2025 05:44:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/ComplexType.php on line 12
+[28-Nov-2025 05:46:36 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/NullableType.php on line 7
+[30-Nov-2025 04:04:46 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Attribute.php on line 8
+[30-Nov-2025 04:05:47 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\ComplexType" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/UnionType.php on line 5
+[30-Nov-2025 04:07:53 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/StaticVar.php on line 8
+[30-Nov-2025 04:11:43 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/AttributeGroup.php on line 7
+[30-Nov-2025 04:12:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/ArrayItem.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/ArrayItem.php on line 7
+[30-Nov-2025 06:28:58 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/ClosureUse.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/ClosureUse.php on line 7
+[30-Nov-2025 06:30:37 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Identifier.php on line 10
+[30-Nov-2025 08:46:27 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/MatchArm.php on line 8
+[30-Nov-2025 11:20:49 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Const_.php on line 7
+[30-Nov-2025 11:23:55 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Stmt.php on line 7
+[30-Nov-2025 11:29:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Expr.php on line 7
+[30-Nov-2025 11:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Name.php on line 7
+[30-Nov-2025 11:39:29 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\Node\Expr" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Scalar.php on line 5
+[30-Nov-2025 11:43:33 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/UseItem.php on line 9
+[30-Nov-2025 16:00:30 UTC] PHP Fatal error:  Uncaught Error: Class "PhpParser\NodeAbstract" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nikic/php-parser/lib/PhpParser/Node/Param.php on line 9

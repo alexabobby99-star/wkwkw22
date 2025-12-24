@@ -1,0 +1,12 @@
+[24-Nov-2025 20:15:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php on line 27
+[28-Nov-2025 01:46:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php on line 27
+[28-Nov-2025 02:00:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/nesbot/carbon/src/Carbon/Laravel/ServiceProvider.php on line 27

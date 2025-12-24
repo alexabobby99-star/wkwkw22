@@ -1,0 +1,24 @@
+[13-Nov-2025 17:34:51 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/BuilderCollection.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/BuilderCollection.php on line 37
+[14-Nov-2025 17:50:43 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/BuilderCollection.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/BuilderCollection.php on line 37
+[14-Nov-2025 17:56:17 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Collection\AbstractCollection" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/BuilderCollection.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/BuilderCollection.php on line 37
+[15-Nov-2025 02:06:32 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/FallbackBuilder.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/FallbackBuilder.php on line 27
+[15-Nov-2025 02:09:36 UTC] PHP Fatal error:  Uncaught Error: Interface "Ramsey\Uuid\Builder\UuidBuilderInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/DegradedUuidBuilder.php on line 30
+[15-Nov-2025 03:55:31 UTC] PHP Fatal error:  Uncaught Error: Class "Ramsey\Uuid\Rfc4122\UuidBuilder" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/ramsey/uuid/src/Builder/DefaultUuidBuilder.php on line 24

@@ -1,0 +1,51 @@
+[16-Nov-2025 15:20:46 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 16
+[16-Nov-2025 15:32:30 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 31
+[16-Nov-2025 15:33:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/BatchInProgressException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/BatchInProgressException.php on line 5
+[16-Nov-2025 15:36:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[16-Nov-2025 15:37:27 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 9
+[16-Nov-2025 15:38:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[16-Nov-2025 15:42:36 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 21
+[16-Nov-2025 15:59:22 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 11
+[27-Nov-2025 18:41:34 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 16
+[27-Nov-2025 18:41:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/BatchInProgressException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/BatchInProgressException.php on line 5
+[27-Nov-2025 18:41:43 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 31
+[27-Nov-2025 18:41:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[27-Nov-2025 18:42:42 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[27-Nov-2025 18:43:48 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 9
+[27-Nov-2025 18:44:50 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 21
+[27-Nov-2025 18:45:56 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 11
+[27-Nov-2025 19:03:09 UTC] PHP Fatal error:  Trait "Illuminate\Http\Client\Concerns\DeterminesStatusCode" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Response.php on line 16
+[27-Nov-2025 19:04:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/RequestException.php on line 7
+[27-Nov-2025 19:05:11 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Request.php on line 11
+[27-Nov-2025 19:07:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ConnectionException.php on line 5
+[27-Nov-2025 19:08:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Client\HttpClientException" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/BatchInProgressException.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/BatchInProgressException.php on line 5
+[27-Nov-2025 19:10:21 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/ResponseSequence.php on line 9
+[27-Nov-2025 19:12:21 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Conditionable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/PendingRequest.php on line 31
+[27-Nov-2025 19:13:23 UTC] PHP Fatal error:  Trait "Illuminate\Support\Traits\Macroable" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/laravel/framework/src/Illuminate/Http/Client/Factory.php on line 21

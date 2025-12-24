@@ -1,0 +1,8 @@
+[26-Nov-2025 23:20:55 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Extension\ConfigurableExtensionInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DisallowedRawHtml/DisallowedRawHtmlExtension.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DisallowedRawHtml/DisallowedRawHtmlExtension.php on line 25
+[27-Nov-2025 08:35:41 UTC] PHP Fatal error:  Uncaught Error: Interface "League\CommonMark\Renderer\NodeRendererInterface" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DisallowedRawHtml/DisallowedRawHtmlRenderer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/league/commonmark/src/Extension/DisallowedRawHtml/DisallowedRawHtmlRenderer.php on line 22

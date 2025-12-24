@@ -1,0 +1,72 @@
+[15-Nov-2025 01:06:39 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Security.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Security.php on line 10
+[15-Nov-2025 04:48:49 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Strict.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Strict.php on line 13
+[15-Nov-2025 05:53:55 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Custom.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Custom.php on line 14
+[15-Nov-2025 08:05:23 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Php.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Php.php on line 13
+[15-Nov-2025 13:02:29 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Relaxed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Relaxed.php on line 13
+[15-Nov-2025 13:05:08 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Laravel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Laravel.php on line 12
+[16-Nov-2025 08:38:35 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Php.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Php.php on line 13
+[16-Nov-2025 08:40:41 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Strict.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Strict.php on line 13
+[16-Nov-2025 08:41:40 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Laravel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Laravel.php on line 12
+[16-Nov-2025 08:42:46 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Security.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Security.php on line 10
+[16-Nov-2025 08:44:53 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Custom.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Custom.php on line 14
+[16-Nov-2025 08:45:51 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Relaxed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Relaxed.php on line 13
+[17-Nov-2025 01:54:40 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Security.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Security.php on line 10
+[17-Nov-2025 01:54:56 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Custom.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Custom.php on line 14
+[17-Nov-2025 01:57:50 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Php.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Php.php on line 13
+[17-Nov-2025 01:58:47 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Laravel.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Laravel.php on line 12
+[17-Nov-2025 02:00:57 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Relaxed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Relaxed.php on line 13
+[17-Nov-2025 02:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "Pest\ArchPresets\AbstractPreset" not found in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Strict.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/vendor/pestphp/pest/src/ArchPresets/Strict.php on line 13
