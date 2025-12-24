@@ -1,0 +1,32 @@
+[12-Nov-2025 03:54:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/CommentController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/CommentController.php on line 10
+[12-Nov-2025 09:44:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/HomeController.php on line 11
+[15-Nov-2025 15:29:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/CommentController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/CommentController.php on line 10
+[15-Nov-2025 15:30:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/HomeController.php on line 11
+[15-Nov-2025 15:41:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/CommentController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/CommentController.php on line 10
+[15-Nov-2025 15:45:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/HomeController.php on line 11
+[16-Dec-2025 14:52:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/CommentController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/CommentController.php on line 10
+[16-Dec-2025 21:27:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/HomeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/HomeController.php on line 11

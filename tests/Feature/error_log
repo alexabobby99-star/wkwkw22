@@ -1,0 +1,12 @@
+[12-Nov-2025 11:54:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test() in /home/uviyvfjxrd/stream.rebahan.site/tests/Feature/ExampleTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/tests/Feature/ExampleTest.php on line 3
+[06-Dec-2025 11:31:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test() in /home/uviyvfjxrd/stream.rebahan.site/tests/Feature/ExampleTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/tests/Feature/ExampleTest.php on line 3
+[16-Dec-2025 23:31:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function test() in /home/uviyvfjxrd/stream.rebahan.site/tests/Feature/ExampleTest.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/tests/Feature/ExampleTest.php on line 3

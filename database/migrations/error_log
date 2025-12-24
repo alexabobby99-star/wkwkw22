@@ -1,0 +1,312 @@
+[11-Nov-2025 16:45:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php on line 8
+[11-Nov-2025 16:45:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php on line 8
+[11-Nov-2025 16:45:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php on line 7
+[11-Nov-2025 16:46:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php on line 8
+[11-Nov-2025 16:46:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php on line 7
+[11-Nov-2025 16:47:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php on line 7
+[11-Nov-2025 16:49:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[11-Nov-2025 16:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[11-Nov-2025 16:51:49 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php on line 7
+[11-Nov-2025 16:53:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php on line 7
+[11-Nov-2025 16:57:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php on line 7
+[11-Nov-2025 17:00:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[12-Nov-2025 21:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php on line 7
+[12-Nov-2025 21:58:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php on line 8
+[12-Nov-2025 21:59:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php on line 8
+[12-Nov-2025 22:00:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[12-Nov-2025 22:03:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php on line 7
+[12-Nov-2025 22:06:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php on line 7
+[12-Nov-2025 22:07:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php on line 8
+[12-Nov-2025 22:08:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[12-Nov-2025 22:11:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php on line 7
+[12-Nov-2025 22:12:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[12-Nov-2025 22:16:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php on line 7
+[12-Nov-2025 22:16:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php on line 7
+[12-Nov-2025 22:26:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php on line 7
+[12-Nov-2025 22:27:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[12-Nov-2025 22:28:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php on line 8
+[12-Nov-2025 22:30:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php on line 7
+[12-Nov-2025 22:31:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[12-Nov-2025 22:32:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php on line 8
+[12-Nov-2025 22:33:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php on line 8
+[12-Nov-2025 22:34:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php on line 7
+[12-Nov-2025 22:39:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php on line 7
+[12-Nov-2025 22:40:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php on line 7
+[12-Nov-2025 22:43:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[12-Nov-2025 22:45:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php on line 7
+[06-Dec-2025 11:34:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[06-Dec-2025 11:35:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php on line 8
+[06-Dec-2025 11:36:31 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[06-Dec-2025 11:36:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php on line 7
+[06-Dec-2025 11:36:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[06-Dec-2025 11:40:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php on line 7
+[16-Dec-2025 04:59:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php on line 8
+[16-Dec-2025 04:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php on line 8
+[16-Dec-2025 04:59:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php on line 7
+[16-Dec-2025 04:59:28 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php on line 8
+[16-Dec-2025 05:00:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php on line 7
+[16-Dec-2025 05:01:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php on line 7
+[16-Dec-2025 05:02:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[16-Dec-2025 05:04:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[16-Dec-2025 05:05:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[16-Dec-2025 05:09:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php on line 7
+[16-Dec-2025 05:16:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php on line 7
+[16-Dec-2025 05:17:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php on line 7
+[17-Dec-2025 09:33:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php on line 7
+[17-Dec-2025 09:34:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php on line 8
+[17-Dec-2025 09:35:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php on line 8
+[17-Dec-2025 09:36:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php on line 7
+[17-Dec-2025 09:37:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php on line 8
+[17-Dec-2025 09:38:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php on line 7
+[17-Dec-2025 09:40:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[17-Dec-2025 09:41:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[17-Dec-2025 09:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[17-Dec-2025 09:43:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php on line 7
+[17-Dec-2025 09:44:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php on line 7
+[17-Dec-2025 09:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php on line 7
+[17-Dec-2025 09:54:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_100524_create_web_settings_table.php on line 8
+[17-Dec-2025 09:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_155433_alter_table_web_settings.php on line 8
+[17-Dec-2025 09:56:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162650_create_videos_table.php on line 7
+[17-Dec-2025 09:57:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_024231_create_comments_table.php on line 7
+[17-Dec-2025 09:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_171554_create_affiliates_table.php on line 8
+[17-Dec-2025 09:59:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_204717_add_column_role_users.php on line 7
+[17-Dec-2025 10:00:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000000_create_users_table.php on line 7
+[17-Dec-2025 10:01:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000001_create_cache_table.php on line 7
+[17-Dec-2025 10:02:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/0001_01_01_000002_create_jobs_table.php on line 7
+[17-Dec-2025 10:03:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_032138_alter_and_add_column_table_video.php on line 7
+[17-Dec-2025 10:04:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_02_162359_create_categories_table.php on line 7
+[17-Dec-2025 10:05:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Migrations\Migration" not found in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/migrations/2025_10_03_031515_add_column_type_video.php on line 7

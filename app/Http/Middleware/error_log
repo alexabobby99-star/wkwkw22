@@ -1,0 +1,40 @@
+[12-Nov-2025 04:21:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[12-Nov-2025 21:19:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[12-Nov-2025 21:29:09 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[12-Nov-2025 21:36:54 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[12-Nov-2025 21:49:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[06-Dec-2025 13:05:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[16-Dec-2025 15:13:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[17-Dec-2025 08:41:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[17-Dec-2025 08:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10
+[17-Dec-2025 09:04:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Middleware/TrustProxies.php on line 10

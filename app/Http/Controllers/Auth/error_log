@@ -1,0 +1,92 @@
+[12-Nov-2025 20:59:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[13-Nov-2025 03:50:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php on line 12
+[13-Nov-2025 04:41:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/LoginController.php on line 9
+[13-Nov-2025 08:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php on line 12
+[20-Nov-2025 07:23:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[20-Nov-2025 07:33:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php on line 12
+[20-Nov-2025 07:36:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php on line 12
+[20-Nov-2025 07:59:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[20-Nov-2025 08:01:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php on line 12
+[20-Nov-2025 08:03:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php on line 12
+[21-Nov-2025 01:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php on line 12
+[21-Nov-2025 01:26:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[21-Nov-2025 01:27:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php on line 12
+[21-Nov-2025 03:00:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php on line 12
+[21-Nov-2025 03:08:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php on line 12
+[21-Nov-2025 03:09:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[21-Nov-2025 13:31:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[21-Nov-2025 13:35:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php on line 12
+[21-Nov-2025 13:39:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php on line 12
+[17-Dec-2025 08:22:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ForgotPasswordController.php on line 9
+[17-Dec-2025 15:05:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/RegisterController.php on line 12
+[17-Dec-2025 15:53:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/LoginController.php on line 9
+[17-Dec-2025 19:51:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/app/Http/Controllers/Auth/ResetPasswordController.php on line 12

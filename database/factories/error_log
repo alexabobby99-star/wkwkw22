@@ -1,0 +1,36 @@
+[11-Nov-2025 22:08:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php on line 10
+[12-Nov-2025 14:25:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php on line 10
+[12-Nov-2025 14:32:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php on line 10
+[12-Nov-2025 14:42:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php on line 10
+[13-Nov-2025 02:25:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/UserFactory.php on line 12
+[16-Dec-2025 09:34:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php on line 10
+[17-Dec-2025 02:20:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php on line 10
+[17-Dec-2025 02:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/CommentFactory.php on line 10
+[17-Dec-2025 13:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/uviyvfjxrd/stream.rebahan.site/database/factories/UserFactory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/uviyvfjxrd/stream.rebahan.site/database/factories/UserFactory.php on line 12
